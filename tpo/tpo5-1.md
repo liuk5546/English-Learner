@@ -58,7 +58,8 @@ green, often with the accumulation of anthocyanin. Typically,
 older leaves are affected first as the phosphorus is mobilized 
 to young growing tissue. Iron deficiency is characterized by 
 chlorosis between veins in young leaves.
-
+特定的症状可以发现矿物质缺乏，比如chlorsis，necrosis，anthocyanin formation，
+stunted growth和
 >herbaceous  `[ər'beɪʃəs]`  
 >adj.草本的  
 >herb  

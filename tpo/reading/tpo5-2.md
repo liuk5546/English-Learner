@@ -90,14 +90,17 @@ originated with peoples speaking Austronesian languages (a group
 of several hundred related languages) and began to emerge in 
 Southeast Asia by about 5000 B.C.E. The culture of that time, 
 based on archaeology and linguistic reconstruction, is assumed to 
-have had a broad inventory of cultivated plants including taro, 
+have had a broad `inventory` of cultivated plants including taro, 
 yarns, banana, sugarcane, breadfruit, coconut, sago, and rice. 
 Just as important, the culture also possessed the basic foundation 
 for an effective `maritime` adaptation, including outrigger `canoes` 
 and a variety of fishing techniques that could be effective for 
 overseas voyaging.  
 对于太平洋诸岛屿成功的殖民，其最基本的文化要求包括合适的造船，航海和导航技术，驯化的
-植物和适合贫瘠状态的耕种技术，还有许多捕鱼设施和技术。
+植物和适合贫瘠状态的耕种技术，还有许多捕鱼设施和技术。现在大家都认为说Austronesian
+语言的人创造了这些先决条件，这些东西大约在公元前5000年在东南亚出现。依据考古学和语言
+学的重建，那时候的文明已经培养了许多植物，有。。。同样重要的是，这个文明也有高效的
+适应航海的基础，包括。。。
 
 > marginal  
 > adj. 贫瘠的  
@@ -106,15 +109,23 @@ overseas voyaging.
 
 > in the first place  
 > 首先
+> 
+> as  
+> adv. （指事情以同样的方式发生）和。。。一样
+>  As always, he said little.  
+
+> prerequisite  
+> n. 前提  
+> adj. 必备的  
+> prerequisite knowledge必备的知识  
 
 Contrary to the arguments of some that much of the pacific was 
-settled by Polynesians accidentally marooned after being lost and 
-`adrift`, it seems reasonable that this feat was accomplished by 
+settled by Polynesians accidentally `marooned` after being lost and 
+`adrift`, it seems reasonable that this `feat` was accomplished by 
 deliberate colonization expeditions that set out fully stocked 
 with food and domesticated plants and animals. Detailed studies of 
 the winds and currents using computer simulations suggest that 
-drifting canoes would have been a most unlikely means of colonizing the Pacific. 
-These expeditions were likely driven by population growth and 
+drifting canoes would have been a most unlikely means of colonizing the Pacific. These expeditions were likely driven by population growth and 
 political dynamics on the home islands, as well as the challenge 
 and excitement of exploring unknown waters.  
 
@@ -122,17 +133,29 @@ and excitement of exploring unknown waters.
 > adj. 漂流  
 > The survivors were adrift in a lifeboat for six days.  
 > 幸存者在救生艇上漂流了六天。  
+> maroon sb 
+> vt. 困住（strand）  
+> feat  
+> n. 壮举 an action or a piece of work that needs skill strength or 
+> courage.  
 
 
 Because all Polynesians, Micronesians, and many Melanesians speak 
 Austronesian languages and grow crops derived from Southeast Asia, 
 all these peoples most certainly derived from that region and not 
-the New World or elsewhere. The undisputed pre-Columbian presence 
+the New World or elsewhere. The `undisputed` pre-Columbian presence 
 in Oceania of the sweet potato, which is a New World domesticate, 
 has sometimes been used to support Heyerdahl's "American Indians in 
 the Pacific" theories. However, this is one plant out of a long 
 list of Southeast Asian domesticates. As Patrick Kirch, an American 
-anthropologist, points out, rather than being brought by rafting 
+anthropologist, points out, rather than being brought by `rafting` 
 South Americans, sweet potatoes might just have easily been brought 
 back by returning Polynesian navigators who could have reached the 
 west coast of South America.  
+
+> dispute  
+> vt. 对。。。表示质询/异议  
+> n. 纠纷  
+> raft  
+> n.木筏
+> v.筏运

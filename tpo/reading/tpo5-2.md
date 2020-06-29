@@ -13,7 +13,8 @@ population estimated at 700,000`.
 Mel在太平洋西南方，包含新几内亚，Solomons，Vanustu,和New Valedonia这些大岛。
 在Mel北边的Mic主要有小而分散的岛屿。Polynesia使太平洋的中心，坐落在由夏威夷，东
 岛和新西兰围成的大三角形中。在欧洲人到来之前，那些在P和mic两大文化区中的岛屿一共有
-大约700,000人口。
+大约700,000人口。  
+&emsp;&emsp;3s:泛太平洋地区的三个文化区域：Melanesia，Micronesia，Polynesia。
 
 > scatter `[ˈskætər]`  
 > vt. 使分散  
@@ -58,6 +59,7 @@ against the `prevailing` winds and currents.
 ，认为他们可能来自北美, 南美, 埃及, 伊朗, 和印度, 甚至时东南亚。许多老的理论含蓄地贬低
 太平洋岛民的导航能力和全部的文化创新性。(...)与这些理论相反的是：许多人体体格学，语言学和考古
 学的证据表明太平洋岛民来自东南亚并且有能力在盛行风和洋流中航行。  
+&emsp;&emsp;3s:有很多关于太平洋岛民的起源，证据表明他们来自东南亚。
 > Speculation `[.spekjə'leɪʃ(ə)n]`  
 > n. 猜想，猜测  
 > devise `[dɪˈvaɪz]`  
@@ -101,7 +103,7 @@ overseas voyaging.
 语言的人创造了这些先决条件，这些东西大约在公元前5000年在东南亚出现。依据考古学和语言
 学的重建，那时候的文明已经培养了许多植物，有。。。同样重要的是，这个文明也有高效的
 适应航海的基础，包括。。。
-
+&emsp;&emsp;3s：东南亚人具备去太平洋众岛的条件。
 > marginal  
 > adj. 贫瘠的  
 > marginal condition of land  
@@ -128,7 +130,7 @@ the winds and currents using computer simulations suggest that
 drifting canoes would have been a most unlikely means of colonizing the Pacific. These expeditions were likely driven by population growth and 
 political dynamics on the home islands, as well as the challenge 
 and excitement of exploring unknown waters.  
-
+&emsp;&emsp;3s：Polynesian人定居太平洋群岛是殖民行为
 > adrift `[ə'drɪft]`  
 > adj. 漂流  
 > The survivors were adrift in a lifeboat for six days.  
@@ -152,10 +154,18 @@ anthropologist, points out, rather than being brought by `rafting`
 South Americans, sweet potatoes might just have easily been brought 
 back by returning Polynesian navigators who could have reached the 
 west coast of South America.  
-
+&emsp;&emsp;3s总总证据表明岛民就是来自亚洲。
 > dispute  
 > vt. 对。。。表示质询/异议  
 > n. 纠纷  
 > raft  
-> n.木筏
-> v.筏运
+> n.木筏  
+> v.筏运  
+
+####P.S.
+In 1756 Charles de Brosses theorized that there was an "old black 
+race" in the Pacific who were conquered or defeated by the peoples 
+of what is now called Polynesia, whom he distinguished as having 
+lighter skin.  
+old black race 指的就是在Melanesia生活的岛民，这些岛民被Polynesia征服，
+Polynesian都是lighter skin的人种。  

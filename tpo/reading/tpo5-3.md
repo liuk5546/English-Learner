@@ -3,7 +3,7 @@ The geologic timescale is marked by significant geologic and
 biological events, including the origin of Earth about 4.6 
 billion years ago, the origin of life about 3.5billion years ago, 
 the origin of eukaryotic life-forms (living things that have 
-cells with true nuclei) about 1.5billion years ago, and the 
+cells with true `nuclei`) about 1.5billion years ago, and the 
 origin of animals about 0.6 billion years ago. The last event 
 marks the beginning of the Cambrian period. Animals originated 
 relatively late in the history of Earth-in only the last 10 
@@ -12,13 +12,18 @@ percent of Earth's history. During a geologically brief
 animals that are now extinct) evolved. This rapid origin and 
 diversification of animals is often referred to as "the Cambrian 
 explosion."  
-
+显著的地理时标是显著的地理学和生物学的时间标记的，包括大约4.6亿年前地球诞生，生命诞生于
+35亿年前，细胞核生物诞生于15亿年前。
 > brief `[brif]`  
 > adj. 短暂的  
 > brave `[breɪv]`  
 > adj. 勇敢的  
 > vt 勇敢面对（sb/sth）  
 > He did not feel up to braving the journalist at the airport.  
+
+> nucleus `['nukliəs]`  
+> n. 原子核【物理】；细胞核【生物】；  
+> pl. nuclei `[.nju:kliai]`
 
 Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
 

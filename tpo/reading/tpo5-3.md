@@ -10,10 +10,12 @@ relatively late in the history of Earth-in only the last 10
 percent of Earth's history. During a geologically brief 
 100-million-year period, all modern animal groups (along with other 
 animals that are now extinct) evolved. This rapid origin and 
-diversification of animals is often referred to as "the Cambrian 
+`diversification` of animals is often referred to as "the Cambrian 
 explosion."  
-显著的地理时标是显著的地理学和生物学的时间标记的，包括大约4.6亿年前地球诞生，生命诞生于
-35亿年前，细胞核生物诞生于15亿年前。
+显著的地理时标是显著的地理学和生物学的时间标记的，包括大约46亿年前地球诞生，生命诞生于
+35亿年前，细胞核生物诞生于15亿年前，动物诞生于6亿年前。动物在地球历史上诞生得比较晚，
+仅仅地球史最后的百分之十。在简短的10亿地质年间，所有的动物群进化了。这种动物快速的出现
+和分化通常称为寒武纪生命大爆发。
 > brief `[brif]`  
 > adj. 短暂的  
 > brave `[breɪv]`  
@@ -23,7 +25,19 @@ explosion."
 
 > nucleus `['nukliəs]`  
 > n. 原子核【物理】；细胞核【生物】；  
-> pl. nuclei `[.nju:kliai]`
+> pl. nuclei `[.nju:kliai]`  
+
+> diversification `[daɪ.vɜrsɪfɪ'keɪʃ(ə)n]`  
+> n. 多样化
+> diversify `[daɪ'vɜrsɪfaɪ]`  
+> v.（使）多样化，变化，不同。  
+> Patterns of family life are diversifying.  
+> The culture has been diversified with the arrival of immigrants.  
+> 文化变得多元化，随着移民的到来。
+> diversity ``  
+> n.【u,c,s】差异  
+> n.【u】 多样性  
+> There is a need for greater diversity and choice in education.
 
 Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
 

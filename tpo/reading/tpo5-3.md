@@ -40,7 +40,9 @@ explosion."
 > There is a need for greater diversity and choice in education.
 
 Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
-
+&emsp;&emsp;在超过一个世纪以来，科学家问了过于这次大爆发的很多问题。为什么它发生地球史的末期？比起生命起源本身，多核生命的起源貌似是一个相对简单的步骤。为什么化石没有记录动物进化的一系列改变。为什么动物进化得如此快？古生物学家为了回答这些问题，继续研究化石标本。
+> paleontologist `[pælɪɒn'tɒlədʒɪst]`  
+> n. 古生物学者  
 
 
 One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.

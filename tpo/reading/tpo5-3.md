@@ -37,7 +37,9 @@ explosion."
 > diversity ``  
 > n.【u,c,s】差异  
 > n.【u】 多样性  
-> There is a need for greater diversity and choice in education.
+> There is a need for greater diversity and choice in education.  
+> along with 包括。。。  
+> along with other animals that are now extinct 包括那些已经灭绝的动物。
 
 Scientists have asked important questions about this explosion for more than a century. Why did it occur so late in the history of Earth? The origin of multicellular forms of life seems a relatively simple step compared to the origin of life itself. Why does the fossil record not document the series of evolutionary changes during the evolution of animals? Why did animal life evolve so quickly? Paleontologists continue to search the fossil record for answers to these questions.
 &emsp;&emsp;在超过一个世纪以来，科学家问了过于这次大爆发的很多问题。为什么它发生地球史的末期？比起生命起源本身，多核生命的起源貌似是一个相对简单的步骤。为什么化石没有记录动物进化的一系列改变。为什么动物进化得如此快？古生物学家为了回答这些问题，继续研究化石标本。
@@ -45,17 +47,38 @@ Scientists have asked important questions about this explosion for more than a c
 > n. 古生物学者  
 
 
-One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.
-一个关于化石在这重要的十亿年消失的解释
+One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less `likely` than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.
+一个关于化石在这重要的十亿年消失的解释早期动物都是软体动物所以没有化石。可能软体化石比硬体化石少，但确实存在。 促进软体动物化石化的情况包括快速被沉淀物包裹，只要沉淀物创造了一个阻止分解的环境。事实上，化石床含有软体动物化石已经为人所知好多年了。
+> likely adv. 可能  
+> as likely as not | most/very likely  
+> 很可能  
+> As likely as not she's forgotten all about it. 她很有可能把这事忘得一干二净了。  
+> Not likely! 绝不可能  
+> discourage `[dɪs'kʌrɪdʒ]`  
+> vt. 阻止
 
 
-The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and dates to Precambrian times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.
+The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and `dates` to `Precambrian` times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because `paleontologists` believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.
+Ediacara 化石由软体形式组成， 包含着我们知道的最古老的动物化石。分布广泛追溯到Precambrian时期。 E不能给出生物起源的证据，cozE是生物进化失败的例子，不包含现代生物的祖先。
+> date back (to)...|date from...  
+> 追溯到；自。。。至今。
+> Zhejiang University dates back 120 years. 浙大的历史追溯到120年前。  
+> Precambrian 前寒武纪  
+> 寒武纪经历生物大爆发，前寒武纪还处于生物贫瘠的阶段。  
+> paleontologist `[pælɪɒn'tɒlədʒɪst]`  
+> 古生物学家
 
+A slightly younger fossil formation containing animal remains is the Tommotian formation, named after a locale in Russia. It dates to the very early Cambrian period, and it also contains only soft-bodied forms. `At one time`, **the animals present in these fossil beds were assigned to various modern animal groups**, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
+T 比S年轻，以俄罗斯的地名命名。追溯到寒武纪早期，包含软体生命形式。 T消失在寒武纪尾，没有留下后裔。
 
-
-A slightly younger fossil formation containing animal remains is the Tommotian formation, named after a locale in Russia. It dates to the very early Cambrian period, and it also contains only soft-bodied forms. At one time, the animals present in these fossil beds were assigned to various modern animal groups, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
-
-
+> at one time
+> at a period of time in the past 在过去的一段时间里，一度。  
+> At one time, Emily was my best friend.艾米莉一度是我的好朋友。  
+> descendant n.  
+> 后裔  
+> Many of them are descendants of the original settlers.  
+> 有很多人是原住民的后裔。  
+> be assigned to 被分配给。。。，粗体字意思是在这些化石床中的动物归属于不同的现代动物群。  
 
 A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
 

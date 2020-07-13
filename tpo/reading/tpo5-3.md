@@ -46,7 +46,7 @@ Scientists have asked important questions about this explosion for more than a c
 
 
 One interpretation regarding the absence of fossils during this important 100-million-year period is that early animals were soft bodied and simply did not fossilize. Fossilization of soft-bodied animals is less likely than fossilization of hard-bodied animals, but it does occur. Conditions that promote fossilization of soft-bodied animals include very rapid covering by sediments that create an environment that discourages decomposition. In fact, fossil beds containing soft-bodied animals have been known for many years.
-
+一个关于化石在这重要的十亿年消失的解释
 
 
 The Ediacara fossil formation, which contains the oldest known animal fossils, consists exclusively of soft-bodied forms. Although named after a site in Australia, the Ediacara formation is worldwide in distribution and dates to Precambrian times. This 700-million-year-old formation gives few clues to the origins of modern animals, however, because paleontologists believe it represents an evolutionary experiment that failed. It contains no ancestors of modern animal groups.

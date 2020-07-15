@@ -1,15 +1,22 @@
 #House price
 ##Dialogue 1
 J:How have you been, Mark? Have you settled into your new apartment yet?  
+> 你最近怎么样？安顿好你的公寓了吗？
 
 M: Yeah. It's worth paying a little extra rent for something modern.  
-It's worth doing sth. 
+> worth doing  
+> 值得做某事  
+> extra `[ˈekstrə]`  
+> rent `[rent]`
 
 J: Have you thought about buying a house?  
 
-M: I've thought about it. But, with the prices so high, I'd rather just keep my money in the bank and invest in stocks.  
+M: I've thought about it. But, with the prices so high, I'd rather just keep my money in the bank and invest in stocks.
+> invest `[ɪnˈvest]`  
+> would 
 
 J: You should have bought a house a few years ago, when they were more within reach.  
+> 你本来应该前几年前就买一套房子，当你买的起的时候。
 > reach  `[riːtʃ]`  
 > rich `[rɪtʃ]`  
 > should have done sth. 你本来应该做某事但没有做。  
@@ -34,10 +41,12 @@ J: Do you think there's a `housing bubble`?
 M: There might be, with `vacation properties` and `satellite cities`.  
 > satellite `['sæt(ə)l.aɪt]` 
 > There might be housing bubble with vacation properties and satellite cities.  
+> satellite `[ˈsætəlaɪt]`
 
 J: Yeah, `here in major city like Beijing`, people are counting on their houses.  
 > count on sth.指望某事  
-> 短语 here in major city like Beijing
+> 短语 here in major city like Beijing  
+> here`[hɪr]` hear`[hɪr]` her`[hər]` hair`[her]`
 
 M: I hear the price are going up in the smaller cities now.  
 
@@ -53,7 +62,8 @@ M: Let's hope they don't climb through the roof!
 ## Dialogue 2
 J: Mark, since you're renting your house, I wonder what you think is going to happen with rental prices.  
 > rental prices 租房价格  
-> rent 每月交租房的钱
+> rent 每月交租房的钱  
+> what is going to happen? 接下来会发生什么
 
 M: I don't think about it very much.  
 
@@ -84,7 +94,7 @@ J: Yeah, but people would rather pay for their own house than give money to land
 M: That's understandable. All the value for owning a house keeps rental prices down a bit.  
 > the value for owning a house 拥有房子的重要性  
 
-J: But it seems rental prices are now going up at a faster rate than purchase prices.  
+J: But it seems rental prices are now going up at a faster rate than `purchase prices`.  
 
 M: That doesn't surprise me. `The sky's the limit` when it comes to rental prices.  
 > the shy's the limit 一切皆有可能  

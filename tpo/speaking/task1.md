@@ -59,6 +59,10 @@ We have entered an age of technology. Everything is going digital and technical.
 > fall short in/of (doing) sth.
 > 没有达到，不符合  
 > TV doesn't fall short in contributing to education the same. 电视对教育也做出了贡献。  
+> 
+> medium  
+> n. 媒介，介质，方式  
+> Television is a medium of educational advancement.  教育进步的方式
 
 An excellent source of Entertainment
 This fact is so obvious that it can never be denied. Television is one of the major sources of entertainment since the day of its invention. There are so many things that the TV encompasses. There are movies, music channels, cartoons and every other kind of dance/music shows. Apart from this, news channels also do contain much entertaining stuff every now and then.
@@ -73,4 +77,10 @@ As a source of inspiration
 A number of TV shows and documentaries that are put up over the television can have a number of positive effects on the children as well as the youth today. Watching people succeeding in their lives and some inspirational movies, their morale can be boosted and it can therefore work as a great source of inspiration for the young generation.  
 
 ### 2.Some college students choose to take courses in a variety of subject areas in order to get a broad education. Others choose to focus on a single subject area in order to have a deeper understanding of that area. Which approach to course selection do you think is better for students and why?
-Focusing on a single subject area is better for students. Because some courses may be useless to their future. I still remember when I was in high school, I had to learn math, science, and history and stuff like that. But you know I hate history coz I don't like remember timelines of historical events. So I still had to cost lots of time on it which had a bad effect on the other subjects I like. As a result, I always can't get decent scores in every subject. In short, I disagree that students should take courses in a variety of subject areas. 
+Focusing on a single subject area is better for students. Because some courses may be useless to their future. I still remember when I was in high school, I had to learn math, science, and history and stuff like that. But you know I hate history coz I don't like remember timelines of historical events. I still had to cost lots of time on it which had a bad effect on the other subjects I like. As a result, I always couldn't get decent scores in every subject. In short, I disagree that students should take courses in a variety of subject areas. 
+
+### 3.Some students prefer to work on class assignments by themselves. Others believe it is better to work in a group. Which do you prefer? Explain why.
+I prefer to work on class assignments by myself coz I can focus attention on them. For example, when I was in college, there was a time my professor gave us a very tough assignment. Some classmates just like me didn't know how to finish it, so we decide to discuss it in the dorm. At first, everything's fine. But later, we started to talk about something not related to our work. At last, we didn't finish the assignment and got very bad grades. I think if I work on by myself, the end will be different.
+
+> give `/ɡɪv/` gave `/ɡeɪv/` given `/ˈɡɪvn/`
+> tough `/tʌf/`

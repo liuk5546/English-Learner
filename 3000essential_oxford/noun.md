@@ -64,4 +64,42 @@ You must on on condition tell them what happend.
 > the education budget[u]  
 > on a tight budget
 > The work was finished on time and **within budget**. 在预算之内  
->
+
+### colleague
+同事  
+> We were friends and colleague for more than 20 years.  
+> We have been friend and colleague for more than 20 years.  
+
+### betting 
+打赌；赌钱  
+`idioms`  
+`The betting is that` he'll get his own way.很可能，大概会  
+`What's the betting` that he gets his own way? 你认为他可能自行其是吗？  
+
+### appeal 
+[c][u]  
+1\. 上诉  
+> to file an appeal提出上诉  
+> an appeal against the 3-match ban
+
+2\. 吸引力  
+> The Beatles have never really lost their appeal.  
+
+3\.呼吁，恳求  
+> The child's mother made an emotional appeal on TV for his return.(appeal to sb for sth)  
+> The police made an appeal to the public to remain calm.(appeal to sb to sth)  
+
+### concentration  
+1\. [u]专心；专注  
+> This book requires a great deal of concentration.  
+
+2\. [u] 关注～ on sth  
+> a need for greater concentration on environmental issues.  
+
+3\. [c] 集中，聚集（of sth）  
+> a concentration of industry in the north of the country.  
+
+4\. [c,u]浓度  
+> glucose concentration in the blood.  
+
+

@@ -40,3 +40,28 @@ The project has been budgeted at ten million francs.(The french government has b
 > This proposal has attracted a lot of interest.  
 >His comments were boound to attract criticism.  
 
+### appeal 
+1\. `vi` 上诉appeal (to sb/sth)(against sth)  
+> The company is appealing against the ruling.  
+> the company  has ten days to appeal the decision to the tribunal.  
+
+2\.`vi` 有吸引力；有感染力；引起兴趣（to） 
+The design has to appeal to all ages and social groups.  
+
+3\. `vi`呼吁；恳求  
+> appeal (to sb) (for sth)  
+> Community leaders appealed for witnesses to come forward.社区领袖呼吁目击者站出来。  
+> appeal to sb to do sth.  
+> Organizers appealed to the crowd not to panic.组织者呼吁人群不要恐慌。   
+
+
+
+
+
+
+
+
+
+
+
+

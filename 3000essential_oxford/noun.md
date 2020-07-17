@@ -1,4 +1,10 @@
 ## 名词用法
+名词只分为两类，可数名词和不可数名词。mass noun使不可数名词的别称。  
+可数名词有单复数两种形式。单数形式前要加限定词(determiner)，如a,the.both,each；复数形式有无限定词都可。  
+不可数名词有无限定词均可。  
+不可数名词做主语，谓语动词用单数形式。  
+不可数名词可以用表量词修饰，如 a piece of furniture。  
+复数名词[pl.]无单数形式，如glasses, jeans, 和scissors。  
 
 ## 单词
 
@@ -102,4 +108,44 @@ You must on on condition tell them what happend.
 4\. [c,u]浓度  
 > glucose concentration in the blood.  
 
+###industry
+1\. 工业,工厂[u]  
+> She got a job in industry.  
 
+2\. 行业[c]
+> We need to develop local industries.  
+
+3\. 勤奋[u]  
+> We were impressed by their industry.  
+
+### estimate 
+估计；估价  
+> offical government estimates of traffic growth over the next decade.  
+
+### petrol
+[u]汽油  
+> to fill a car up with petrol.  
+
+### rumour (rumor)
+[c,u] 谣言传闻  
+> to start a rumour  
+> There are widespread rumors of/about job losses.  
+> I heard a rumour that they are getting married.  
+
+### accident  
+1\. [c] 事故  
+> He was killed in an accident.  
+
+2\.[c,u] 意外；偶然的事
+> It is no accident that men fill most of the top jobs in nursing.  
+
+`idioms`  
+We met **by accident** at the airport.我们在机场不期而遇了  
+
+### entertainment 
+1\. [c,u] 娱乐片，文娱节目，表演会，娱乐活动  
+>Local entertainments are listed in the newspaper.  
+>radio, television and other forms of entertainment  
+
+2\. [u] the act of entertaining sb  
+> a budget for the entertainment of clients.  

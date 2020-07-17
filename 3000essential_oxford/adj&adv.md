@@ -1,6 +1,6 @@
 [toc] 
 ## 形容词和副词用法整理
-
+许多形容词可用于名词前和系动词后。定语形容词不能用于连系动词后，如the chief reason。表语形容词只能用于系动词后，如The baby is awake。
 ## 单词
 ### alone
 `adj.【not before noun】` `adv.`  
@@ -80,6 +80,16 @@ She must be 25 thereabouts. 她肯定25岁上下。
 Profits have fallen by `roughly` 15%.  
 She earns `somewhere in the region of` $25,000.  
 round about\somewhere around  
+
+### practically  
+`adv`  
+1\.几乎差不多 virtually  
+> The theater is practically empty.  
+
+2\.实事求是地；实际地  
+> Practically speaking, we can't afford a bmw car.  
+
+
 
 
 

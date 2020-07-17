@@ -1,5 +1,5 @@
 # English-Learner
-it's a preparation for tofel test. there are several folders in this project. Let me show you how to run with it.  
+it's a preparation for toefl test. there are several folders in this project. Let me show you how to run with it.  
 1. 3000essential_oxford: fundamental vocabularies from Oxford dictionary.(50 words everyday, I should record the unfamiliar words, including usage, idioms, etc.)  
 2. PK:  notes of Americano oral radio show.(2 passages each week. I should review them more than 3 times)  
 3. TBBT: the big bang theory.  

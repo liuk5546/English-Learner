@@ -67,6 +67,7 @@ Ediacara 化石由软体形式组成， 包含着我们知道的最古老的动�
 > 寒武纪经历生物大爆发，前寒武纪还处于生物贫瘠的阶段。  
 > paleontologist `[pælɪɒn'tɒlədʒɪst]`  
 > 古生物学家
+>fossil formation 化石层 rock formation 岩石层  
 
 A slightly younger fossil formation containing animal remains is the Tommotian formation, named after a locale in Russia. It dates to the very early Cambrian period, and it also contains only soft-bodied forms. `At one time`, **the animals present in these fossil beds were assigned to various modern animal groups**, but most paleontologists now agree that all Tommotian fossils represent unique body forms that arose in the early Cambrian period and disappeared before the end of the period, leaving no descendants in modern animal groups.
 T 比S年轻，以俄罗斯的地名命名。追溯到寒武纪早期，包含软体生命形式。 T消失在寒武纪尾，没有留下后裔。
@@ -80,8 +81,15 @@ T 比S年轻，以俄罗斯的地名命名。追溯到寒武纪早期，包含�
 > 有很多人是原住民的后裔。  
 > be assigned to 被分配给。。。，粗体字意思是在这些化石床中的动物归属于不同的现代动物群。  
 
-A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization. These fossil beds provide evidence of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).
-
-
+A third fossil formation containing both soft-bodied and hard-bodied animals provides evidence of the result of the Cambrian explosion. This fossil formation, called the Burgess Shale, is in Yoho National Park in the Canadian Rocky Mountains of British Columbia. **Shortly after the Cambrian explosion, mud slides rapidly buried thousands of marine animals under conditions that favored fossilization.** These fossil beds 【provide】 {evidence} of about 32 modern animal groups, plus about 20 other animal body forms that are so different from any modern animals that they cannot be assigned to any one of the modern groups. These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate `detritus` or algae. The Burgess Shale formation also has fossils of many extinct representatives of modern animal groups. For example, a well-known Burgess Shale animal called Sidneyia is a representative of a previously unknown group of arthropods (a category of animals that includes insects, spiders, mites, and crabs).  
+第三种化石形式包括软体和硬体动物，他提供了寒武纪物种大爆发结果的证据。 这种称为Burgess Shale的化石在雅虎国家公园。在寒武纪大爆发之后不久，土壤快速滑动掩埋了大量海洋动物，创造了一种利于化石形成的环境。  
+> Shortly after ... 在什么之后不久  
+> assign v. 确定，分类  
+> assign sth to sth  
+> Assign a different colour to each different type of information.  
+> 给每类信息分别确定一种颜色。  
+> They cannot be assigned to any one of the mordern groups.他们不能被分为任何一种现代生物群。  
+>unassignable 未被分类的  
+> detritus [u] 腐殖质
 
 Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.

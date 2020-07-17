@@ -54,6 +54,34 @@ The design has to appeal to all ages and social groups.
 > appeal to sb to do sth.  
 > Organizers appealed to the crowd not to panic.组织者呼吁人群不要恐慌。   
 
+### do 
+What do you want to see me about? It **is to do with** that letter you sent me.与。。。有关系  
+Her job **has somthing/nothing/a lot to do with** computer.与。。。有些/毫无/有很大关系。  
+He think it's time we **did away with** monachy.废除，结束取消  
+She was **done out of** her promotion. 她受人计算没有获得晋升。  
+
+### estimate
+`vt`估计；估价；估算  
+> Police estimate the crowd at 30,000. (~ sth at num.)  
+> The deal is estimated to be worth around $1.5million.(estimate sth to do sth)  
+>We estimateed that it would cost about $5,000.(estimate that)  
+> it is estimated that...  
+> It is hard to estimate how many children suffer from dyslexia.  
+### beat
+1\. `vt` （在比赛或竞争中）打败（某人）~ sb (at sth)  
+> He beat me at chess.  
+
+2\. `vt` 控制 ~ sth  
+> The government's main aim is to beat inflation.  
+
+3\. `vt` 难倒 ~ sb(why,how,etc)  
+> a problem that beats even the experts.  
+
+4\. `vt`比。。。更好，胜过  
+> Nothing can't beat home cooking.  
+
+5\. `vt` 避免，逃避  
+> If we go early we should beat the traffic.  
 
 
 

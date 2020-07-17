@@ -1,4 +1,5 @@
 #House price
+[原文](http://mp.weixin.qq.com/s?__biz=MzA3OTQwMTAwNw==&mid=2651428173&idx=1&sn=486c2becfaa338f4381bca90dc229e05&chksm=84492c0db33ea51b0df38bc23d7e41e4e8d58e9affafea4e604acf527d81c6fce8327eb9e9b0&scene=21#wechat_redirect)
 ##Dialogue 1
 J:How have you been, Mark? Have you settled into your new apartment yet?  
 > 你最近怎么样？安顿好你的公寓了吗？
@@ -31,7 +32,7 @@ J: Do you think the price will keep going up?
 
 
 M: I'm no expert, but I think the growth in sales prices will taper off, as we've been seeing.  
-> 我不是专家 = I'm not expert.
+> 我不是专家 = I'm not expert.  
 > taper off `['teɪpər]`  
 > slow down. 慢慢地降低  
 
@@ -46,7 +47,8 @@ M: There might be, with `vacation properties` and `satellite cities`.
 J: Yeah, `here in major city like Beijing`, people are counting on their houses.  
 > count on sth.指望某事  
 > 短语 here in major city like Beijing  
-> here`[hɪr]` hear`[hɪr]` her`[hər]` hair`[her]`
+> here`[hɪr]` hear`[hɪr]` her`[hər]` hair`[her]`  
+> Here, I hear he like her hair.  
 
 M: I hear the price are going up in the smaller cities now.  
 
@@ -54,7 +56,7 @@ J: They're still a lot cheaper; but the prices are `climbing` more quickly.
 > the prices climb 价格爬升  
 
 M: Let's hope they don't climb through the roof!  
-> climb through the roof  高得离谱
+> climb through the roof  高得离谱  
 > =increase beyond reason.  
 > go/be through the roof  
 
@@ -85,7 +87,7 @@ J: That helps to keep the prices down, I guess.
 
 
 M: The cost of owning a house for 70 years, and renting it, `is not all that much different here`.  
-> 没有太大得区别
+> 没有太大得区别 not-all tha(t)\much different-ere
 
 J: Yeah, but people would rather pay for their own house than give money to landlords. Also, according to Chinese tradition, people should have their own house before starting a family.  
 > would rather do sth. than do sth.  

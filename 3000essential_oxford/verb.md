@@ -83,6 +83,67 @@ She was **done out of** her promotion. 她受人计算没有获得晋升。
 5\. `vt` 避免，逃避  
 > If we go early we should beat the traffic.  
 
+### involve  
+1\. 包含；需要；使称为必然部分（或结果）
+> involve sth  
+> Any investment involves an element of risk.  
+> 任何投资都有一定风险。  
+> involve doing sth  
+> The test will involve answering questions about a photograph.  
+> involve sb/sth doing sth.  
+> The job involves me travelling all over the country.  
+> 这份工作需要我全国各地跑。  
+
+2\. 牵涉，牵连，影响。  
+> involve sth/sb  
+> There was a serious incident involving a group of youths.  
+
+3\. （使）参加，加入  
+> involve sb (in sth/in doing sth)  
+> We want to involve as many people as possible in the celebrations.  
+>我们希望参加庆典的人越多越好。  
+>  
+> involve yourself in sth.  
+> Parents should involve themselves in their child's education.  
+
+4\. 表明implicate  
+> His confession involved a number of other politication in the affair.  
+> 他的自白供出其他一些政治任务涉及此事。  
+
+### embody 
+1\. 具体表现，体现，代表。represent  
+> embody sth  
+> a politician who embodied the hopes of black youth.  
+> be embodied in sth  
+> the principles embodied in teh Declaration of Human Right.  
+
+2\. 包括，收录，包含  
+> embody sth  
+> This model embodies many new features.  
+>这种型号具有许多新的特点。  
+
+### spring 
+> sprung,sprung  
+
+突然出现  
+> ~+adv./prep.  
+> Tears sprang to her eyes.  
+> 她的眼里一下子涌出泪水。  
+
+### retain  
+1\. 保持；持有 to keep sth; to continue to have sth   
+> Britain "retained" a virtual monopoly on steam engine production until the 1830s.  
+> 在19世纪30年代前，大不列颠在蒸汽机制造上保持垄断。
+
+2\. to continue to hold or contain sth  
+> This information is no longer retained within the computer's main memory.  
+> 这份数据已经不在电脑的主存储器中保存着了。  
+
+
+
+
+
+
 
 
 

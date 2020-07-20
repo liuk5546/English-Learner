@@ -92,4 +92,8 @@ A third fossil formation containing both soft-bodied and hard-bodied animals pro
 >unassignable 未被分类的  
 > detritus [u] 腐殖质
 
-Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion involved rapid evolutionary diversification, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. Many zoologists believe that it was because so many ecological niches were available with virtually no competition from existing species. Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.
+Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression. The Cambrian explosion `involved` rapid `evolutionary diversification`, followed by the extinction of many unique animals. Why was this evolution so rapid? No one really knows. **Many zoologists believe that it was because so many `ecological niches` were available with virtually no competition from existing species.** Will zoologists ever know the evolutionary sequences in the Cambrian explosion? Perhaps another ancient fossil bed of soft-bodied animals from 600-million-year-old seas is awaiting discovery.  
+&emsp;&emsp;像BS这样的化石层展现进化不能总是被认为使一个缓慢的过程。寒武纪大爆发包括快速的进化性分化，伴随着许多独一无二生物的灭绝。为什么这次进化如此之快？ 没有人知道。 许多动物学家认为，这是因为许多生态位对现有物种几乎没有竞争性。动物学家知道在寒武纪的进化队列吗？也许，另一个六亿年前海洋软体动物的古化石床等待发现。 
+> 很多动物学家认为，这是因为，在几乎没有任何现存竞争物种的情况下，有太多的生态小生境可供生存。  
+> evolutionary diversification 
+> 进化多样性

@@ -1,5 +1,32 @@
 ## 动词用法
+情态动词（modal verbs）: can, could, may, might, must, ought to, shall, should, will, would. 
+### could 
+1\. can过去式  
+> She said that she couldn't come.  
+> 她说她来不了  
 
+2\. used to ask if you can do sth  
+> could I use your phone, please?  
+> 我可以用你的电话吗？  
+
+3\.（礼貌地请求别人做事情）能，可以
+> Could you babysit for us on Friday?  
+> 你星期五能帮我们看下孩子吗？  
+
+4\. 可能  
+> I could do it now, if you like.  
+
+5\. （用于建议）可以  
+> We could write a letter to the director.  
+>我们不妨给主管写封信。  
+
+6\. （对某人未做某事表示绕怒）本来可以  
+> They could have let me know they were going to be late!  
+> 他们要晚来，也该告诉我一声！  
+
+7\. （强调你非常想表达你的感受）真想  
+> I'm so fed up I could scream.  
+> 我烦透了，非得大喊大叫不可！  
 ##单词
 ### condition
 `vt`  

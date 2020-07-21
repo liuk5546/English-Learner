@@ -89,6 +89,19 @@ round about\somewhere around
 2\.实事求是地；实际地  
 > Practically speaking, we can't afford a bmw car.  
 
+### across 
+`adv.`  
+1. from one side to the other side  
+> It's too wide. We can't swim across.  
+> 这太宽了，我们游不过去。  
+
+2. 从。。。的一遍向。。。  
+> When my name was called, he looked across at me.  
+> 当叫到我的名字的时候，他从那边朝我看过来。  
+
+3. 在对面  
+> There's a school just across from our house.  
+
 
 
 

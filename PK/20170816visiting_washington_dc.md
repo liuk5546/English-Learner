@@ -102,6 +102,8 @@ Mark:  Um, kind of.  But I'm not that keen on filling up on snack food instead o
 > 喜欢做某事  
 > fill up on sth.  
 > 用。。。填饱肚子  
+> snack/æ/ snake/ei/ sneaker /i:/  
+> I wear a pair of snaeker and then fry a snake as snack.  
 
 Jingjing:  Let's look for a restaurant when dinnertime comes.  
 

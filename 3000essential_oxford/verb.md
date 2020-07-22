@@ -27,6 +27,16 @@
 7\. （强调你非常想表达你的感受）真想  
 > I'm so fed up I could scream.  
 > 我烦透了，非得大喊大叫不可！  
+
+###would 
+1\. will的过去式  
+> He said he would be there at eight o'clock.  
+
+2\. used for talking about the result of an event that you imagine.  
+> She'd look better with shorter hair.  
+
+3\. （表示可能发生的事情没有发生，是因为之前另一件事情没发生）就会  
+> If I had seen the advertisement in time I would have applied for the job.  
 ##单词
 ### condition
 `vt`  
@@ -166,9 +176,30 @@ She was **done out of** her promotion. 她受人计算没有获得晋升。
 > This information is no longer retained within the computer's main memory.  
 > 这份数据已经不在电脑的主存储器中保存着了。  
 
+### bother  
+1\. 花费时间精力（做某事）  `vi,vt`
+> I don't know why I bother.  
+> 我不知道我干吗要浪费时间  
+> It's not worth `bothering with/about` an umbrella-- the car's just outside.  
+> 不必打伞，汽车就在外面。  
+> He didn't even bother to let me know he was coming.  
+> 他甚至连通知都没通知我他要来。(bother to do sth)  
+> Why bother asking if you're not really interested?  
+> 如果你不是真的感兴趣，干嘛费口舌打听？  
 
+2\. 使（某人）烦恼（或担忧、不安）；给（某人）造成麻烦（或痛苦）`vt`  
+> That sprained ankle is still bothering her.  
+> 她那扭伤的脚踝还在隐隐作痛。~ sb  
+> I don't want to bother her with my problems at that moment.  
+> 我此刻不想让她为我操心。~ sb with sth  
+> Does it bother you that she earns more than you?  
+> 她比你挣的多，你是不是觉得不自在。~ sb that  
+> `It bothers me to` think of her alone in that big house.  
+> it bothers sb to do sth
 
-
+3\. 打扰 `vt`  
+> Stop bothering me when I'm working.  
+> 我工作的时候别来烦我。  
 
 
 

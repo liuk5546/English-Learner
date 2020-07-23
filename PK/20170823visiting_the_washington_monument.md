@@ -3,6 +3,12 @@
 ##Dialogue 1  
 Mark: Well Jingjing, what do you think?  It's a lot less crowded than the White House.  
 > a lot less crowded than sth  比。。。人少多了  
+> The Washington Monument is a lot less crowded than the White House.  
+> a lot `pronoun` 大量；许多  
+> She still has an awful lot to learn.  
+> a lot of = lots of `deter`  
+> a lot = lots `adv` 很非常  
+> 
 
 Jingjing: It is a lot less crowded than the White House. There's a lot more open space at least.  
 > open space 空地  
@@ -23,7 +29,7 @@ Jingjing:  Do you feel like getting a workout?
 
 Mark:  I'm up for it, if you'd like to see a spectacular view.  
 > be up for sth 同意某事  
-> spectacular 宏伟壮观的  
+> spectacular 宏伟壮观的 `[spek'tækjələr]`  
 
 Jingjing:  It's probably worth it.  Let's deal with security and get started on those stairs.  
 

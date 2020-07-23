@@ -91,19 +91,46 @@ round about\somewhere around
 
 ### across 
 `adv.`  
-1. from one side to the other side  
+1\. from one side to the other side  
 > It's too wide. We can't swim across.  
 > 这太宽了，我们游不过去。  
 
-2. 从。。。的一遍向。。。  
+2\. 从。。。的一遍向。。。  
 > When my name was called, he looked across at me.  
 > 当叫到我的名字的时候，他从那边朝我看过来。  
 
-3. 在对面  
+3\. 在对面  
 > There's a school just across from our house.  
 
+### worth  
+`adj` [not before noun]用法同perp  
+1\. ～ sth 有。。。价值  
+> Our house is worth about 10000 pounds.  
 
+2\. （指行动）值得，有价值  
+> ~sth  
+> The museum is certainly worth a visit.  
+> ~ doing sth  
+> This idea is well worth considering.   
+> 这个想法值得考虑。  
 
+3\.～ sth/doing sth值得费周章  
+> The job involves a lot of hard work but it's worth it.  
+> 这工作需要花费很大力气，但是值得。  
+
+4\.～sth拥有。。。价值的财产
+> He's worth 10 million pounds.  
+> 他拥有1000万英镑的财产。  
+
+### worthwhile  
+`adj` 重要的；令人愉快的；有趣的；值得花时间（钱、努力）的。  
+> **worthwhile for sb to do sth.**  
+> High prices in the UK make it worthwhile for buyers to look abroad.  
+> **worthwhile to do sth**  
+> It is worthwhile to include really high quality illustrations.  
+> **worthwhile doing sth**  
+> It didn't seem worthwhile writing it all out again.  
+> It was in the aid of a worthwhile cause.  
 
 
 

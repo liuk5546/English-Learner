@@ -1,7 +1,21 @@
 #Ancient Rome and Greece
 There is a quality of `cohesiveness` about the Roman world that applied neither to Greece nor perhaps to any other civilization, ancient or modern. Like the stone of Roman wall, which were held together both by the regularity of the design and by that peculiarly powerful Roman cement, so the various parts of the Roman `realm` were bonded into a massive, `monolithic` entity by physical, organizational, and psychological controls. The physical bonds included the network of military `garrisons`, which were stationed in every province, and the network of stone-built roads that linked the provinces with Rome. The organizational bonds were based on the common principles of law and administration and on the universal army of officials who enforced common standards of conduct. The psychological controls were built on fear and punishment-on the absolute certainty that anyone or anything that threatened the authority of Rome would be `utterly` destroyed.  
+罗马世界有团结的品质，这是其他文明所没有的。通过物理，组织和精神控制，罗马王国被绑成一个巨大的整体。  
+cohesive  
+> 结成一个整体的  
+> a cohesive group  
+> 一个紧密团结的集体。  
+>quality of cohesiveness 凝聚力  
 
+realm  
+> 领域；场所  
+> At the end of the speech he seemed to be moving into the realm of fantasy.  
+> 讲话最后，他似乎进入了虚幻的境地。  
+> 王国  
+> the defence of the realm
 
+monolithic  
+> 整体的
 
 The source of Roman obsession with unity and cohesion may well have lain in the pattern of Rome's early development. Whereas Greece had grown from scores of scattered cities, Rome grew from one single organism. While the Greek world had expanded along the Mediterranean seas lanes, the Roman world was assembled by territorial conquest. Of course, the contrast is not quite so stark: in Alexander the Great the Greeks had found the greatest territorial conqueror of all time; and the Romans, once they moved outside Italy, did not fail to learn the lessons of sea power. Yet the essential difference is undeniable. The key to the Greek world lay in its high-powered ships; the key to Roman power lay in its marching legions. The Greeks were wedded to the sea; the Romans, to the land. The Greek was a sailor at heart; the Roman, a landsman.
 

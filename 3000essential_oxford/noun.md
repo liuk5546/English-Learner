@@ -168,3 +168,18 @@ We met **by accident** at the airport.我们在机场不期而遇了
 4\.特征，特色 [c,u]  
 > The special quality of light and shade in her paintings.  
 > 她绘画中的明暗特征  
+
+### administration  
+1\. 管理，行政  
+> Administration costs are passed on to the customer.  
+> 行政费转嫁给了消费者。  
+
+2\. 施行；执行[u]  
+> the administration of justice  
+> 司法  
+
+3\. 管理部门，行政部门[c]  
+4\. 政府 [c]  
+5\. 药物的施用  
+> the administration of antibiotics.  
+> 抗生素的施用。  

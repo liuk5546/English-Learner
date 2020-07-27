@@ -149,3 +149,22 @@ We met **by accident** at the airport.我们在机场不期而遇了
 
 2\. [u] the act of entertaining sb  
 > a budget for the entertainment of clients.  
+
+### quality  
+1\.质量，品质[c,u]  
+> a decline in water quality  
+> 水质在下降  
+> goods of a high quality  
+> 优质商品  
+
+2\.上乘；优质[u]  
+> contemporary writers of quality  
+> 当代优秀作家    
+
+3\.人品，素质，品德。[c]  
+> personal qualities such as honesty and generosity.  
+> 诚实、宽容等个人品质。  
+
+4\.特征，特色 [c,u]  
+> The special quality of light and shade in her paintings.  
+> 她绘画中的明暗特征  

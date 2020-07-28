@@ -10,9 +10,11 @@
 ###along 
 1\. 沿着  
 > they walked slowly along the road.  
+> 他们沿着马路散步。  
 
 2\. 靠着。。。边  
 > Houses had been built along both sides of the river.  
+> 房子靠着河边已经建造起来了。  
 
 3\. at a particular point on or beside sth long.  
 > You'll find his office just along the corridor.  
@@ -45,6 +47,7 @@
 > 这项工作是按照她的指示做的。  
 
 ### after  
+` ['æftər]`  
 1\. 由于；鉴于  
 > I'll never forgive him after what he said.  
 > 鉴于他说了那些话，我永远也不会原谅他。  
@@ -74,6 +77,7 @@
 
 2\. 与。。。一起；与。。。同时  
 > Traditional beliefs still flourish alongside a modern urban lifestyle.  
+>现代城市盛行的同时，传统信念仍然广泛流行。  
 
 ### among（amongst）  
 1\. 在。。。中；周围是  
@@ -125,6 +129,68 @@
 2\.作为；当作
 > She works as a courier.    
 > Treat me as a friend.  
+
+### above  
+1\.在。。。上面  
+> The water came above out knees.  
+> 水淹过了我的膝盖  
+
+2\. 超过，多于，大于。  
+> Inflation is above 6%.  
+> 通货膨胀超过6%。  
+
+3\.（重要性、质量）超过，胜过  
+> I rate her above most other players of her age.  
+> 我认为她超过大多数同龄的参赛者。
+
+4\. too good or too honest to do sth.  
+> She's not above lying when it suits her.  
+> 她在适当的时机还是会说谎。  
+
+5\.（音量或清晰度）超过（另一种声音）  
+> I couldn't hear hear her above the noise of traffic.  
+> 交通嘈杂，我听不见他的声音。  
+
+`idioms`  
+**above all**  
+最重要的是；尤其是。  
+Above all, keep in touch.  
+
+**over and above**  
+There are other factors over and above those we have discussed.  
+除了我们所讨论的之外，还有其他的因素。  
+
+### against  
+`[ə'genst]`  
+1\. 反对；与。。。相反；逆；违反  
+> We're playing against the league champions next week.  
+> 下周我们要和联赛冠军队比赛。  
+
+2\. 对。。。不利  
+> The evidence is against him.  
+> 证据对他不利。  
+
+3\.紧靠（close to）；倚；碰（touching）；撞（hitting）  
+> The rain beat against the wall.  
+> 雨点击打窗户。  
+
+4\. 以防  
+> They took precautions against fire.  
+> 他们采取了防火措施。  
+
+5\. 以。。。为背景；衬托  
+> The love story unfolds against a background of civil war.  
+> 这爱情故事以内战为背景展开。  
+
+6\. 和。。。相比  
+> You must weigh the benefits against the cost.  
+> 你一定要权衡利益余成本二者的得失。  
+> Check your receipts against the statement.  
+> 核对你的收据与结算单是否相符。  
+> What's the rate of exchange against the dollar?  
+> 与美元的兑换率是多少？  
+
+
 
 
 

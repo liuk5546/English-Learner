@@ -122,13 +122,16 @@
 > 我不可能事事都按着你的时刻表安排。  
 
 ### as  
+`[əz]`
 1\.像；如同
 > They were all dressed as clowns.  
 > 他们都打扮成小丑  
 
 2\.作为；当作
-> She works as a courier.    
+> She works as a courier.   
+> 她的工作是导游。  
 > Treat me as a friend.  
+>  把我当作朋友  
 
 ### above  
 1\.在。。。上面  
@@ -189,6 +192,54 @@ There are other factors over and above those we have discussed.
 > 核对你的收据与结算单是否相符。  
 > What's the rate of exchange against the dollar?  
 > 与美元的兑换率是多少？  
+
+### at  
+`[ət]`
+1\. 在（某处）  
+> at the corner the street.  
+> 在街角。  
+
+2\. 向；朝。  
+> He pointed a gun at her.  
+> 他把枪口对着她。  
+
+### before  
+1\. （表示面临或临近）  
+> The task before us is a daunting one.  
+> 我们所面临的任务令人生畏。  
+
+2\. （表示面对某人、某事时的反应）  
+> They retreated before the enemy.  
+> 面对敌人他们退缩了。  
+
+### behind  
+1\.是。。。产生（或发展）的原因  
+> What's behind that happy smile?  
+> 为什么会笑得那么开心。  
+> He was the man behind the plan to build a new hospital.  
+> 他就是策划建立新医院的人。  
+2\.成为某人的过去。  
+> The accident is behind you now, so try to forget it.  
+> 这次意外已经过去，所以快点忘了它吧。  
+
+### below
+1\.在（或到）。。。下面  
+> He dived below the surface of the water.  
+> 他潜入水中。  
+
+2\. （数量）少于；（标准）低于  
+> Her work was well below average for the class.  
+> 她的功课远在班上的中等水平以下。  
+
+### beneath  
+1\. 在（或往）。。。下面  
+> They found the body buried beneath a pile of leaves.  
+> 他们发现埋在一堆树叶下的尸体。  
+
+2\.（对某人来说）不够好  
+> He considers such jobs beneath him.  
+> 他觉得这些工作有失他的身份。  
+
 
 
 

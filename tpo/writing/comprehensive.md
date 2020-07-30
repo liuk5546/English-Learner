@@ -18,7 +18,17 @@
 > 扑灭
 > 毁灭  
 > News of the bombing extinguished all hope of peace.  
+
 中心观点是：在黄石大火中，“让它烧”政策导致三种严重破坏。
+
+**Actually, fires are a natural part of the ecological cycle, and their role is not just destructive, but also creative. That's why the "let it burn" policy is fundamentally a good one, even if it sometimes causes fires on the scale of the 1988 Yellowstone fire. Let's look at what happened after the '88 fire.**  
+> cycle `['saɪk(ə)l]`  
+> role `[roʊl]`  
+> destructive `[dɪˈstrʌktɪv]`  
+> 破坏性的  
+> fundamentally ` [ˌfʌndəˈment(ə)li]`  
+> adv. 从根本上  
+
 
 &emsp;&emsp;First, Yellowstone fires caused tremendous damage to the park's trees and other vegetation. When the fires finally `died out`, nearly one third of Yellowstone's land had been `scorched`. Trees were `charred` and blackened from `flames` and smoke. Smaller plants were entirely `incinerated`. What had been a national treasure now seemed like a `devastated` wasteland.  
 > die out  
@@ -33,7 +43,13 @@
 > 焚毁  
 > devastate  `[ˈdevəsteɪt]`
 > 彻底毁坏  
+
 中心观点：黄石大火导致树木植被损毁。  
+**First, vegetation. As you might imagine, scorched areas were in time colonized by new plants. As a matter of fact, the plant life in Yellowstone became more diverse, because the fire created an opportunity for certain plants that could not grow otherwise. For example: areas where the trees had been destroyed by the fire could now be taken over by smaller plants that needed open, unshaded space to grow. And another example: seeds of certain plant species won't germinate unless they're exposed to very high levels of heat, so those plants started appearing after the fire as well.**  
+> colonize `['kɑlə.naɪz]`  
+> vt. to live or grow in large numbers in a particular area.  
+> diverse ` [daɪ'vɜrs]`  
+> 多样化的
 
 &emsp;&emsp;Second, the park wildlife was affected as well. Large animals like deer and elk were seen `fleeing` the fire. Many smaller species were probably unable to escape. There was also `concern` that the destruction of habitats and the `disruption` of food chains would make it impossible for the animals that survived the fire to return.  
 > flee `vt,vi`  

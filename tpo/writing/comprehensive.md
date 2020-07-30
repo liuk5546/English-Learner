@@ -1,13 +1,17 @@
 #综合写作
 
 ##tpo 20: The "let it burn" policy  
-&emsp;&emsp;In the United States, it had been common practice since the late 1960s not to `suppress` natural forest fires. The "let it burn" policy assumed that forest fires would burn themselves out quickly, without causing much damage. However, in the summer of 1988, forest fires in Yellowstone, the most famous national park in the country, burned for more than two months and spread over a huge area, encompassing more than 800,000 acres. Because of the large `scale` of the damage, many people called for replacing the "let it burn" policy with a policy of `extinguishing` forest fires as soon as they appeared. Three kinds of damage caused by the "let it burn" policy were emphasized by critics of the policy.  
-> suppress  
+&emsp;&emsp;In the United States, it had been common practice since the late 1960s not to `suppress` natural forest fires. The "let it burn" policy assumed that forest fires would `burn themselves out` quickly, without causing much damage. However, in the summer of 1988, forest fires in Yellowstone, the most famous national park in the country, burned for more than two months and spread over a huge area, `encompassing` more than 800,000 acres. Because of the large `scale` of the damage, many people called for replacing the "let it burn" policy with a policy of `extinguishing` forest fires as soon as they appeared. Three kinds of damage caused by the "let it burn" policy were emphasized by critics of the policy.  
+> suppress `[sə'pres]`  
 > to prevent sth from growing, developing or continuing. 压制；阻止；抑制。  
 > it is common practice (not) to do sth.  
 > 做某事是通常的做法。  
-> encompass  
+> burn themselves out  
+> 自己熄灭  
+> encompass `[ɪn'kʌmpəs]`  
 > 包含  
+> The job encompasses a wide range of responsibilities.  
+> 这份工作涉及的职责范围很广。  
 > scale `[skeɪl]`  
 > [u,sing.]规模，范围  
 > extinguish  
@@ -41,6 +45,8 @@
 > 扰乱；中断
 
 中心观点：野生物在大火中受到影响。  
+- 小动物死了  
+- 活下来的动物不归，因为食物链和栖息地破坏
 
 &emsp;&emsp;Third, the fires `compromised` the value of the park as a tourist attraction, which `in turn` had negative consequences for the local economy. With several thousand acres of the park `engulfed` in flames, the tourist season was cut short, and a large number of visitors decided to stay away. Of course, local businesses that depended on park visitors suffered as a result.  
 > compromise  

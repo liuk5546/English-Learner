@@ -42,4 +42,16 @@
 
 中心观点：野生物在大火中受到影响。  
 
-&emsp;&emsp;Third, the fires compromised the value of the park as a tourist attraction, which in turn had negative consequences for the local economy. With several thousand acres of the park engulfed in flames, the tourist season was cut short, and a large number of visitors decided to stay away. Of course, local businesses that depended on park visitors suffered as a result.
+&emsp;&emsp;Third, the fires `compromised` the value of the park as a tourist attraction, which `in turn` had negative consequences for the local economy. With several thousand acres of the park `engulfed` in flames, the tourist season was cut short, and a large number of visitors decided to stay away. Of course, local businesses that depended on park visitors suffered as a result.  
+> compromise  
+> vt. （尤其因某些行为）使陷入危险  
+> in turn 副词用法  
+> 转而 as a result of sth in a series events  
+> 山火使公园作为游览景点的价值受到威胁，转而影响当地经济。  
+> engulf 吞没  
+> Flames engulf several thousand acres of the park.  
+> stay away (from sth/sb)  
+> 远离，不去  
+> fires -》 negative economy  
+ 中心观点： let it burn对经济有负面影响。  
+ 上千亩土地被吞没-》游客季缩短+游客减少-〉当地旅游经济受难（对经济影响的统一改写）  

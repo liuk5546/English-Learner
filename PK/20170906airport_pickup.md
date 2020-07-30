@@ -50,6 +50,7 @@ Jingjing:  Are you comfortable enough?
 
 Mark:  Yes.  Thanks.  This is a lot better than the tiny seat I had on the plane.  
 > tiny seat  
+> plane `[pleɪn]`  
 
 Jingjing:  Good.  So, I'm assuming you'd like to turn in as soon as we get to the hotel.  Can I go ahead and send you the text with ideas for tomorrow's activities as soon as I get it?
 
@@ -77,13 +78,14 @@ Jingjing:  Oh, well, logistics is very interesting.  I'm sure we could learn a l
 Mark:  I'll do my best.  I know we wanted to send an R&D guy to meet with your company.  But they're all tied up in a project that's heading into production. 
 > be tied up in a project 忙项目不可开交  
 > I was tied up in my paper that time.  
-> be heading into  
+> be heading into production  
+> 即将投产  
 
 Jingjing:  I understand that's when you'd want to have all your people around.  How did you get put on this trip to Beijing?  
 > have all your people around  
 > 重要的相关人员都在场  
-> put on  
-> 
+> How did you get put on this trip to Beijing?    
+> 你是如何成行北京的
 
 Mark:  Well, one of the reasons is my company wanted to send someone neutral.  
 > neutral `[ˈnuːtrəl]`  
@@ -96,9 +98,14 @@ Mark:  To be frank, we weren't sure what all you had in mind for our future coop
 > preconceived `[ˌpriːkənˈsiːvd]`  
 > 事先形成的  
 
+Jingjing:  So, you've come here as a better listener, to see what it is we have in mind?  
+
+
 Mark:  Well, I wouldn't say better.  I hope we can put together a draft proposal, in a little more detail and with a little more understanding than we might have done over email.  
 > proposal `[prəˈpoʊzl] `  
 > n. 提议  
+> might have down  
+> 本可以做  
 
 Jingjing:  That sounds doable.  Oh, here's your hotel.  
 

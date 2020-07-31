@@ -183,3 +183,46 @@ We met **by accident** at the airport.我们在机场不期而遇了
 5\. 药物的施用  
 > the administration of antibiotics.  
 > 抗生素的施用。  
+
+### ability  
+1\.[singlar] 能力  
+> The system has the ability to run more than one program at the same time.  
+> 该系统有同时运行一个以上程序的能力。  
+
+2\. [c,u]本领，才能。  
+> Almost everyone has some musical ability.  
+> He was a man of extraordinary abilities.  
+
+### abuse 
+1\. [u,singlar] 滥用  
+> He was arrested on charges of corruption and abuse of power.  
+> 他因为贪污和滥用职权被逮捕。  
+> What she did was an abuse of her position as manager.  
+> 她的所做所为是滥用经理职权。  
+
+2\. [u,pl.]虐待  
+> child abuse  
+> reported abuses by the secret police
+> 已举报的秘密警察虐待行为。  
+
+3\. [u] 辱骂  
+> scream abuse  
+> 高声辱骂  
+> a stream of abuse  
+> 不断怒骂  
+
+### accent  
+[sing.]  着重强调  
+> In all our products the accent is on quality.  
+> 我们的商品强调质量。   
+
+### access  
+[u]  
+1\. a way of entering or reaching a place  
+> The police **gained access** through a broken window.  
+> The only access to the farmhouse is across the fields. (access to sth)
+> 去农舍的唯一一条路是穿过田野。  
+
+2\. 机会，权力  
+> Students Must have access to good resources.  
+> 学生必须有机会使用好的资源。  

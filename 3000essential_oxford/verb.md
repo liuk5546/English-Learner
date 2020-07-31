@@ -37,6 +37,49 @@
 
 3\. （表示可能发生的事情没有发生，是因为之前另一件事情没发生）就会  
 > If I had seen the advertisement in time I would have applied for the job.  
+> 如果我即使看到广告，我就会申请这份工作。（事实就是我没有看到广告，也没申请这份巩工作）。  
+
+### might  
+1\. 用于间接引语  
+> He said he might come tomorrow.  
+> 他说他可能明天会来。  
+
+2\. 可能  
+3\. （礼貌的建议）可以  
+> You might try calling the help desk.  
+> 你可以试试给服务台打电话。  
+
+4\. （礼貌请求） 可以  
+> Might I use your phone?  
+
+5\. (对某人未作某事表示不满) 应该  
+> I think you might at least offer to help.  
+> 我认为你至少应该提供帮助。  
+
+
+### should  
+
+### shall  
+征求意见  
+> Shall I send you the book?  
+> 我把数给你寄去，好不好？  
+
+### must  
+#### 表示义务和必要
+must 和 have to 现在时标识某事应该或必要做  
+> You must be home by 11 o'clock.  
+> You have to be home by 11 o'clock.  
+
+must 无过去和将来形式，had to和has had to表示过去，will have to表示将来，已经安排好了也可用have to  
+> I had to wait half an hour for a bus.(过去)  
+> We'll have to borrow the money we need. (将来)  
+> I have to go to the dentist tomorrow.(已经安排好了)  
+
+####表示肯定
+表示过去的肯定，must have
+> Your trip must have been fine.  
+> 你的旅行一定很开心吧。  
+
 ##单词
 ### condition
 `vt`  

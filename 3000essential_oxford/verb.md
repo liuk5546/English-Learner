@@ -244,6 +244,30 @@ She was **done out of** her promotion. 她受人计算没有获得晋升。
 > Stop bothering me when I'm working.  
 > 我工作的时候别来烦我。  
 
+### lay  
+laid - laid  
+1\. 放值，安放  
+> He laid a hand on my arm.  
+> 他把一只手放在我的手臂上  
+
+2\. 铺  
+3\. 下蛋  
+
+### lie  
+#### lay - lain  
+
+1\. 躺下  
+2\. 平放  
+3\. 处于保持  
+4\. 存在于（lie in sth.）  
+> The problem lies in deciding when to intervene.  
+>The source of Roman `obsession` with unity and cohesion may well have `lain in` the pattern of Rome's early development.
+> 罗马人对团结痴迷的来源存在于它早期的发展模式。  
+#### lied - lied  
+撒谎 `vi`  
+> lie (to sb) (about sth)  
+> She lies about her age to me.  
+> 她向我谎报她的年龄。  
 
 
 

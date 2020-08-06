@@ -74,5 +74,9 @@ But the sound is under attack—by our teeth.
 Which spells danger for the singing fish.
 "It's heavily exploited, it's overfished, and we're really concerned about the fishery collapsing."  
 > collapse `[kə'læps]`  
+> spell sth (for sb/sth)  
+> 招致，意味着  
+> The crop failure spelt disaster for many farmers.  
+> 对许多农民来说，庄家歉收就意味着灾难。  
 
 But by spreading the word about the corvina's signature sound, Erisman hopes to keep the species—and its song—from going silent.  

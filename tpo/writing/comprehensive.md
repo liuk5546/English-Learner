@@ -70,6 +70,8 @@
 > in turn 副词用法  
 > 转而 as a result of sth in a series events  
 > 山火使公园作为游览景点的价值受到威胁，转而影响当地经济。  
+> tourist attraction  
+> 观光胜地
 > engulf 吞没  
 > Flames engulf several thousand acres of the park.  
 > stay away (from sth/sb)  
@@ -77,3 +79,21 @@
 > fires -》 negative economy  
  中心观点： let it burn对经济有负面影响。  
  上千亩土地被吞没-》游客季缩短+游客减少-〉当地旅游经济受难（对经济影响的统一改写）  
+
+## tpo 19:Controversy of buzzing  
+&emsp;&emsp;Many consumers ignore commercial advertisements. In response, advertising companies have started using a new tactic, called “buzzing.” The advertisers hire people—buzzers—who personally promote (buzz) products to people they know or meet. The key part is that the buzzers do not reveal that they are being paid to promote anything. They behave as though they were just spontaneously praising a product during normal conversation. Buzzing has generated a lot of controversy, and many critics would like to see it banned.  
+
+&emsp;&emsp;First, the critics complain that consumers should know whether a person praising a product is being paid to praise the product. Knowing this makes a big difference: we expect the truth from people who we believe do not have any motive for misleading us. But with buzzing what you hear is just paid advertising, which may well give a person incorrect information about the buzzed product.  
+
+&emsp;&emsp;Second, since buzzers pretend they are just private individuals, consumers listen to their endorsements less critically than they should. With advertisements in print or on TV, the consumer is on guard for `questionable claims or empty descriptions` such as “new and improved.” But when consumers do not know they are being lobbied, they may accept claims they would otherwise be suspicious of. This may suit the manufacturers, but it could really harm consumers.  
+
+因为buzzer假装他们是私人，顾客听他们的宣传有更少的批判性。消费者对于报纸或者电视上的广告有提防，因为有问题的断言和空洞的口号。但是当消费者不知道他们被推销了，他们也许会接受这些话他们原本怀疑的话。这一点适合制造商，但伤害了消费者。  
+> on guard  
+> 提防  
+> endorsement  
+> n. 宣传
+
+**Second, the passage argues that consumers listen to buzzers's endorsements less critically than they should. Bill holds the opposite. People whom he talks to always ask a lot of questions such as the price, service, and how long he has used the product. They won't buy the product, if buzzers have no good answers.**  
+> hold the opposite  不同意
+
+&emsp;&emsp;And worst of all is the harmful effect that buzzing is likely to have on social relationships. Once we become aware that people we meet socially may be buzzers with a hidden agenda, we will become less trustful of people in general. So buzzing will result in the spread of mistrust and the expectation of dishonesty.

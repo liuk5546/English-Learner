@@ -132,6 +132,18 @@ round about\somewhere around
 > It didn't seem worthwhile writing it all out again.  
 > It was in the aid of a worthwhile cause.  
 
+### predominant  
+`adj`  
+1\. 显著的；明显的；流行的 most obvious or noticeable  
+> Yellow is the predominant colour this spring.  
+>黄色是今春时装界的流行色  
+
+2\.占优势的；主导的 having more power or influence than other  
+> a predominant culture  
+> 主流文化  
+
+
+
 
 
 

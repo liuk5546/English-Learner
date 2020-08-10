@@ -1,7 +1,8 @@
 #Ancient Rome and Greece
 There is a quality of `cohesiveness` about the Roman world that applied neither to Greece nor perhaps to any other civilization, ancient or modern. Like the stone of Roman wall, which were held together both by the regularity of the design and by that peculiarly powerful Roman cement, so the various parts of the Roman `realm` were bonded into a massive, `monolithic` entity by physical, organizational, and psychological controls. The physical bonds included the network of military `garrisons`, which were stationed in every province, and the network of stone-built roads that linked the provinces with Rome. The organizational bonds were based on the common principles of law and administration and on the universal army of officials who enforced common standards of conduct. The psychological controls were built on fear and punishment-on the absolute certainty that anyone or anything that threatened the authority of Rome would be `utterly` destroyed.  
 罗马世界有团结的品质，这是其他文明所没有的。通过物理，组织和精神控制，罗马王国被绑成一个巨大的整体。  物理的连接包括连接着罗马省份的卫戍部队网络和石头修建的公路网络。组织联系基于共有的法律原则和政府，以及普遍的军队要员推动共有标准实施。  
-> cohesive  
+
+cohesive  
 > 结成一个整体的  
 > a cohesive group  
 > 一个紧密团结的集体。  
@@ -10,6 +11,11 @@ There is a quality of `cohesiveness` about the Roman world that applied neither 
 > utterly  
 > 完全地  
 > We're so utterly different from each other.  
+
+so  
+> `conj`引出下文  
+> So after shouting and screaming for an hour she walked out in tears.  
+> 就这样，又嚷又叫了一个小时之后，她流着泪走了出来。    
 
 realm  
 > 领域；场所  
@@ -36,7 +42,9 @@ The source of Roman `obsession` with unity and cohesion may well have `lain in` 
 > [c] 占领地  
 > contrast  
 > 明显的差异；对比。  
-> stark 明显的
+> stark 明显的  
+>matching    
+> 相配的  
 
 Certainly, in trying to explain the Roman phenomenon, one would have to place great emphasis on this almost `instinct` for the territorial `imperative`. Roman priorities lay in the organization, `exploitation`, and defense of their territory. **In all probability it was the `fertile` plain of Latium, where the Latins who founded Rome originated, that created the habits and skills of landed settlement, landed property, landed economy, landed administration, and a land-based society.** From this arose the Roman `genius` for military organization and orderly government. In turn, a deep `attachment` to the land, and to the stability which rural life engenders, fostered the Roman virtues: gravitas, a sense of responsibility, pietas, a sense of devotion to family and country, and iustitia, a sense of the natural order.
 当然为了解释罗马人的现象，我们必须重视他们看重土地的天性。罗马人优先考虑的事情是土地的组织开发和保卫。

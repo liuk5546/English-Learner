@@ -226,3 +226,83 @@ We met **by accident** at the airport.我们在机场不期而遇了
 2\. 机会，权力  
 > Students Must have access to good resources.  
 > 学生必须有机会使用好的资源。  
+
+### imperative  
+1\. 重要紧急的事  
+> the economic imperative of quality education for all  
+> 向全民提供高质量教育对经济发展的重要性。  
+
+### absence  
+1\. [c,u]缺席；不在  
+> repeated absences from school  
+> 一再缺课  
+> The decision was made in my absence.  
+> 这个决定是在我不在的时候作出的  
+
+2\. [u]不存在；缺乏  
+> The case was dismissed in the absence of any definite proof.  
+> 因缺乏证据此案件不予受理  
+
+### accommodation  
+1\. [u]住处；办公处；停留处  
+> Hotel accommodation is include much needed new office accommodation.  
+> 建筑规划包括紧缺的新办公用房在内。  
+
+2\. [pl] 住宿  
+> More and more travels are looking for bed and breakfast accommodations in private homes.   
+> 越来越多的旅行者寻找提供住宿加早餐的民宿。  
+
+3\. [c,u] 和解；调解；调和  
+> They were forced to reach an accommodation with the rebels.  
+> 他们被迫与叛乱者达成和解。  
+
+### achievement  
+1\. [c] 成就  
+> It was a remarkable achievement for such a young player.  
+> 对于年轻的玩家来说这是一项不小的成就。  
+
+2\. [u] 达到，完成  
+> Even a small success gives you a sense of achievement.  
+> 即使一项很小的成功也会给你成就感。  
+
+3\. [c] 电子游戏完成挑战或通关后得到的奖励。  
+
+### activity  
+1\. [u] 活动a situation in which sth is happening or a lot of things are being done.    
+> The street were noisy and full of activity.  
+> 街上熙熙攘攘，车水马龙。  
+> economic activity经济活动  
+> Muscles contract and relax during physical activity.  
+> 身体活动时肌肉收缩放松。  
+
+2\. [c]活动  
+
+### addition  
+1\. [u] 加，加法  
+2\. [c] 添加物；增加物  
+> The lastest addition to our range of cars  
+> 我们汽车系列增加的款式。  
+
+3\. [u] 增加；添加  
+> Pasta's basic ingredients are flour and water, somtimes with the addition of eggs or oil.  
+> 意大利面制品的主要成分是面粉和水，有时加鸡蛋和食用油。  
+
+### admiration  
+[u]  
+钦佩；赞赏  
+> to watch/ gaze in adiration
+  
+**admiration for sb/sth**  
+I have great admiration for her as a writer.  
+我十分倾佩她是一个作家。  
+
+### advance  
+1\. [c]前进，行进  
+> We feared that an advance on the capital would soon follow.  
+> 我们担心接下来马上向首都推进。  
+
+2\. [c,u]进步，进展  
+> We live in an age of rapid technological advance.  
+> 我们生活在一个技术进步飞速的年代。  
+
+3\. [c,usually singl.]预付款

@@ -256,9 +256,15 @@ laid - laid
 ### lie  
 #### lay - lain  
 
+`vi`
 1\. 躺下  
 2\. 平放  
-3\. 处于保持  
+3\. 处于，保留，保持（某种状态）to be, remain or be kept in a particular state.    
+> Snow was lying thick on the ground.  
+> 厚厚的积雪覆盖着大地。(+ adj.)  
+> I'd rather use my money than leave it lying in the bank.  
+> 我宁愿把钱花掉也不愿把他存在银行。  
+
 4\. 存在于（lie in sth.）  
 > The problem lies in deciding when to intervene.  
 >The source of Roman `obsession` with unity and cohesion may well have `lain in` the pattern of Rome's early development.

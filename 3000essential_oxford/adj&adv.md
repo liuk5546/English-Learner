@@ -142,7 +142,14 @@ round about\somewhere around
 > a predominant culture  
 > 主流文化  
 
+### imperative  
+1\. 重要紧急的 very important and needing immediate attention or action  
+> It is absolutely imperative that we finish by next week.  
+> 现在当务之急就是必须于下一周完成。  
+> It was absolutly imperative for us to finish this assignment by next week.  
 
+2\. 表示权威的  
+3\. 表示命令的  
 
 
 

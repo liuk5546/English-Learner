@@ -275,8 +275,33 @@ laid - laid
 > She lies about her age to me.  
 > 她向我谎报她的年龄。  
 
+### fall  
+fell-fallen  
+1\. `vi.` 落下  
+> Several of the books had fallen onto the floor.  
 
+2\. `vi.` 跌倒  
+to suddenly stop standing  
+> I **fell over** and cut my knee.  
+> 我摔倒了，划破了膝盖。  
+> When Mary saw that a senior citizen  had a little unstable and fall over, she went ahead and support the senior with her hand.  
 
+3\. 向下倾斜（~ away/off）  
+4\. 减小，下降  
+> Their profits have fallen by 30 per cent. 
+> 他们利润下降了30%。
+
+### submit  
+1\. vt. 提交 ~sth (to sb/sth)  
+2\. `vi&vt`顺从；屈服  
+> She refuse to submit to threats.  
+> 面对威胁，她拒不服从。  
+> He submitted himself to a search by the guards.  
+> 他接受卫兵搜查。  
+
+3\. 认为；表示；主张  
+> Counsel for the defence submitted that the evidence was inadmissible.  
+> 被告律师认为这一证据不可采纳。  
 
 
 

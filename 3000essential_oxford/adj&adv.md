@@ -192,7 +192,83 @@ They have introduced  a new system whereby all employees must undergo regular tr
 `adv`  
 to some degree 有点；有几分；  
 > Iron came from West Asia, although its routes of diffusion were somewhat different than those of agriculture.   
-> 虽然铁器地传播路线和农业有点不同，但是它来自西亚。
+> 虽然铁器地传播路线和农业有点不同，但是它来自西亚。  
+
+### convenient
+
+`adj`  （conveniently for adv.）
+
+1\. (for sb/sth) 便利的；实用的  
+
+2\. （to sth）附近的；容易到达的  
+
+> The hotel is convenient to downtown.  
+>
+> 这家旅店离市中心很近。  
+
+### comparatively  
+
+`adv` (comparative for adj. 比较的；相比的)   
+
+比较上；相对地；`syn`  relatively  
+
+> In the first place, television is not only a convenient source of entertainment, but also a comparatively cheap one( source of entertainment).  
+>
+> 首先，电视机不仅仅  
+
+### available
+
+1\. that you can get, buy or find
+
+> with almost unlimited entertainment available  
+>
+> 有看不完的电视节目
+
+2\. （人）有空的  
+
+> Will she be available this afternoon?
+>
+> 今天下午她有空吗？
+
+availability for noun  
+
+> The availability of cheap flights
+>
+> 有廉价机票出售
+
+### only
+
+1\. to do sth  不料(表示出乎意料)
+
+> They don't have to pay for expensive seats at the theatre, the cinema, or the opera, only to discover, perhaps, that the show is disappointing.  
+>
+> 他们不必要支付昂贵的票钱给剧院，电影院或者剧场，不料发现这是一个烂片。
+
+### precise
+
+`adj` precisely for adv.  
+
+1\. 准确的
+
+> Can you give a more precise definition of the word?  
+
+2\. 恰好  
+
+> We were just talking about her when, at that precise moment, she walked in.
+>
+> 我们正在谈论她，正在这是她走进来了。
+
+### ### instructive  
+
+`adj` 增长知识的 giving a lot of useful information
+
+> a most instructive experience
+>
+> 获益良多的经历
+
+
+
+
 
 
 

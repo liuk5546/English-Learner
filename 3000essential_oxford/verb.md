@@ -305,6 +305,16 @@ to suddenly stop standing
 
 
 
+### outweigh
+
+`vt` to be greater or more important than sth  
+
+> Do the former outweigh the latter?  
+>
+> 前者好于后者吗？ 
+
+
+
 
 
 

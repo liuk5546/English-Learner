@@ -1,4 +1,7 @@
+[toc]
+
 ## 名词用法
+
 名词只分为两类，可数名词和不可数名词。mass noun是不可数名词的别称。  
 可数名词有单复数两种形式。单数形式前要加限定词(determiner)，如a,the.both,each；复数形式有无限定词都可。  
 不可数名词有无限定词均可。  
@@ -291,7 +294,7 @@ We met **by accident** at the airport.我们在机场不期而遇了
 [u]  
 钦佩；赞赏  
 > to watch/ gaze in adiration
-  
+
 **admiration for sb/sth**  
 I have great admiration for her as a writer.  
 我十分倾佩她是一个作家。  
@@ -310,4 +313,69 @@ I have great admiration for her as a writer.
 ### agriculture  
 [u]  
 农业  
+
+### search  
+
+> She wen into the kitcken **in search of  a drink**.
+> 她进了厨房找点喝的。
+
+### initiative
+
+1\. [c] 倡议  
+
+2\. [u]主动性；积极性
+
+> The television viewer have no initiative.  
+>
+> 电视观众没有任何主动性
+
+### effort
+
+1\. 气力；努力；费力的事
+
+> You should put more effort into your work.
+>
+> 你应该更加努力工作
+
+
+
+### politics
+
+politic for adj. 谨慎的
+
+[u+sing./pl.v.]政治
+
+> allow one to follow the latest developments in science and politics.
+>
+> 让人民知道最近科学和政治的发展
+
+
+
+### programme
+
+1\. 计划；方案；活动安排
+
+2\. 节目
+
+> offer an endless series of programmes
+>
+> 提供很多电视节目
+
+3\. 节目单
+
+4\. 程序 an organized order of performances or events
+
+> What's the program for tomorrow?
+>
+> 明天安排了什么活动？
+
+5\. 课程 = program
+
+> a school programme
+>
+> 学校课程
+
+
+
+
 

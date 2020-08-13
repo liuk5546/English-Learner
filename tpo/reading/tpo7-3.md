@@ -26,5 +26,10 @@ Livestock also came from outside Africa. Cattle were introduced from Asia, as pr
 > 辛苦创建  
 
 Iron came from West Asia, although its routes of diffusion were somewhat different than those of agriculture. Most of Africa presents a curious case in which societies moved directly from a technology of stone to iron without passing through the intermediate stage of copper or bronze metallurgy, although some early copper-working sites have been found in West Africa. Knowledge of iron making penetrated into the forest and savannahs of West Africa at roughly the same time that iron making was reaching Europe. Evidence of iron making has been found in Nigeria, Ghana, and Mali.  
-铁器也来自西亚  
+铁器也来自西亚；社会从石器时代直接跃进到铁器。  
+> savannah  
+> 一种开阔的平地  
 
+This technological shift cause profound changes in the complexity of African societies. Iron represented power. **In West Africa the blacksmith who made tools and weapons had an important place in society, often with special religious powers and functions.** Iron hoes, which made the land more productive, and iron weapons, which made the warrior more powerful, had symbolic meaning in a number of West Africa societies. Those who knew the secrets of making iron gained `ritual` and sometimes political power.  
+1、科技瞬变影响非洲社会复杂性。 
+> ritual 

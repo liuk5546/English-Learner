@@ -151,6 +151,49 @@ round about\somewhere around
 2\. 表示权威的  
 3\. 表示命令的  
 
+### invariably  
+`adv` always  
+> If you go to park every day in the morning, you will invariably find him doing exercise there.  
+> 如果你每天早上区公园，你会看到他总是再那里做运动。  
+
+### high  
+`adv`  
+1\. 在高处；向高处；高  
+> An eagle circled high overhead.  
+>一只老鹰在头顶上盘旋。  
+
+2\. at or to a large cost, value or amount.  
+> Price are expected to rise even higher this year.  
+> 价格预计会长得更高。  
+
+3\. 音调高  
+
+###highly  
+`adv`
+1\. very  
+> It is highly unlikely that she'll be late.  
+> 她不大可能会迟到  
+
+2\. 高标准地；高级地  
+> highly paid job  
+> 高薪工作  
+
+3\. 赞赏地  
+> His teacher think very highly of him.  
+> 他的老师很欣赏他。  
+
+### Whereby  
+`adv`  
+> by which; because of which  
+They have introduced  a new system whereby all employees must undergo regular training.  
+> 他们采用了新的制度，所有地雇员都必须通过这套系统定期培训。  
+
+### somewhat  
+`adv`  
+to some degree 有点；有几分；  
+> Iron came from West Asia, although its routes of diffusion were somewhat different than those of agriculture.   
+> 虽然铁器地传播路线和农业有点不同，但是它来自西亚。
+
 
 
 

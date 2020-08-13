@@ -306,3 +306,8 @@ I have great admiration for her as a writer.
 > 我们生活在一个技术进步飞速的年代。  
 
 3\. [c,usually singl.]预付款
+
+### agriculture  
+[u]  
+农业  
+

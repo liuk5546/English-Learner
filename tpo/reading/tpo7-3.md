@@ -32,4 +32,17 @@ Iron came from West Asia, although its routes of diffusion were somewhat differe
 
 This technological shift cause profound changes in the complexity of African societies. Iron represented power. **In West Africa the blacksmith who made tools and weapons had an important place in society, often with special religious powers and functions.** Iron hoes, which made the land more productive, and iron weapons, which made the warrior more powerful, had symbolic meaning in a number of West Africa societies. Those who knew the secrets of making iron gained `ritual` and sometimes political power.  
 1、科技瞬变影响非洲社会复杂性。 
-> ritual 
+> ritual  
+> 宗教仪式  
+> 习惯  
+> warrior ` ['wɔriər]`  
+> 勇士  
+
+The diffusion of agriculture and later of iron was accompanied by a great movement of people who may have carried these innovations. These people probably originated in eastern Nigeria. **Their migration may have been set in motion by an increase in population caused by a movement of peoples fleeing the `desiccation`, or drying up, of the Sahara.** They spoke a language, proto-Bantu ("Bantu" means "the people"), which is the parent tongue of a language of a large number of Bantu languages still spoken throughout sub-Sahara Africa. Why and how these people spread out into central and southern Africa remains a mystery, but archaeologists believe that their iron weapons allowed them to conquer their hunting-gathering `opponents`, who still used stone implements. Still, the process is uncertain, and peaceful migration-or simply rapid demographic growth-may have also caused the "Bantu explosion".  
+1、农业的传播伴随着大量的人口迁移。3、某些地区环境干燥或者干旱-》人口迁移-》迁入地人口增加-》迁入地人口外迁
+> desiccation`[ˌdesɪ'keɪʃn]`  
+> 干涸；枯竭。  
+> opponent  
+> 竞争对手  
+> demographic growth  
+> 人口增长  

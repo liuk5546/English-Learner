@@ -375,6 +375,10 @@ politic for adj. 谨慎的
 >
 > 学校课程
 
+### relic
+~ (of/from sth)遗物；遗迹  
+> The building stands as the last remaining relic of the twon's cotton industry.  
+> 这桩建筑是小镇棉花工业仅存的遗迹  
 
 
 

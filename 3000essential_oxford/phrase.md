@@ -1,5 +1,55 @@
 [toc]
 
+## 开言英语
+
+### wrap up
+
+顺利结束，圆满完成
+
+> before we wrap up the meeting
+>
+> 在我们结束会议之前
+
+### bring me up to speed on/about sth
+
+告诉我某事的最新情况
+
+> Can you bring me up to speed on the annual report.
+>
+> 你可以告诉我年报的最新情况吗？
+
+### schedule
+
+#### behind schedule 进度落后
+
+#### on schedule 准时
+
+### run into
+
+遇到
+
+> We run into an issue with some of the sales numbers.
+>
+> 我们遇到一些销售数字上的问题
+
+### push back
+
+延后
+
+> Do we have to push back the deadline again?
+>
+> 我们必须要延后截止日期吗？
+
+### make this deadline
+
+赶上进度
+
+> These hiccups are slowing things down and we really need to make thsi deadline.  
+>
+> 这些问题拖慢了工作，我们需要赶上进度。
+
+## 口语200例
+
 ### in a hurry  = in a rush
 
 hurry to the company

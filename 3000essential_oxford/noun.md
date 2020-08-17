@@ -375,6 +375,37 @@ politic for adj. 谨慎的
 >
 > 学校课程
 
+### relic
+~ (of/from sth)遗物；遗迹  
+> The building stands as the last remaining relic of the twon's cotton industry.  
+> 这桩建筑是小镇棉花工业仅存的遗迹  
+
+### hint
+1\. 暗示
+> He give a broad hint that he was thinking of retiring.  
+> 他明示他考虑退休了。  
+
+2\. 征兆，迹象
+> At the first hint of trouble, they left.  
+> 他们一发现有点不妙的迹象就离开了。  
+
+3\. [usually sing.]少量；少许  
+> a hint of smile  
+> 一丝笑意  
+
+4\. [usually pl.]秘诀；窍门  
+> Handy hints on saving money  
+> 省钱的技巧。  
+
+### abandon  
+[u] 放任；放纵  
+> He signed cheques with careless abandon.  
+> 他无所顾忌地乱开支票。  
+
+`idioms`  
+with gay abandon  
+不考虑后果；轻率  
+
 
 
 

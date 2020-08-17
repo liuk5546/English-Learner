@@ -258,15 +258,72 @@ availability for noun
 >
 > 我们正在谈论她，正在这是她走进来了。
 
-### ### instructive  
+### instructive  
 
 `adj` 增长知识的 giving a lot of useful information
 
 > a most instructive experience
 >
-> 获益良多的经历
+> 获益良多的经历  
 
+### abandoned
+`adj`
+1\. 被抛弃的；被遗弃的  
+> The child was found abandoned but unharmed.  
+> 这个小孩被发现被遗弃但是没有受伤。  
 
+2\. 放纵的；堕落的  
+> Tom lives a abandoned life.  
+> 汤姆过着放纵的日子。  
+
+### about
+`adv`  
+1\. 大约，左右  
+2\. 将近，几乎  
+> This is about the best we can hope for.  
+> 这差不多是我们所希望的最好结果。  
+
+3\. 到处；处处；  
+> The children were rushing about in the garden.  
+> 孩子们在院子里跑来跑去。  
+
+4\. 凌乱地；四处  
+> Her books were lying about on the floor.  
+> 她的书在地板上凌乱地躺着。 
+
+5\. 闲着；无所事事  
+> People were standing about in the road.  
+> 人们在路上闲站着。  
+
+6\. 在某地；附件；周围  
+> There's lot of flu about.  
+> 这一带流感肆虐。  
+
+7\. 向后转；掉转方向；掉头  
+> He brought the ship about.  
+> 他调转船头  
+
+`adj`
+be about to do sth 即将，  
+> I was just about to ask you the same thing.  
+
+不愿，无意（做某事）  
+>I've never done any cooking and I'm not about to start now.  
+> 我从来没有做过饭，也不想从现在开始做起来。  
+
+### above 
+`adv`  
+1\. 在/向上面  
+> Put it on the shelf above.  
+> 把它放在上面地隔板上。  
+
+2\. greater in number, level or age.  
+> A score of 70 or above will get you an 'A'.  
+> 70分以上就可以得优了  
+
+3\. 上文；前文  
+> See above, page 97.  
+> 看前文，第97页。  
 
 
 

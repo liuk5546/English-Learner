@@ -1,18 +1,6 @@
-stop short of 
+[toc]
 
-depend on /count on /hinge on 依赖于
-
-sell oneself short 自卑，不自信
-
-carry through sth 将某事进行到底
-
-sth has a major bearing on sth = influence
-
-have sth to do with sth/ have a bearing on sth 与。。。有关
-
-bearing 关系
-
-in a hurry  = in a rush
+### in a hurry  = in a rush
 
 hurry to the company
 
@@ -28,6 +16,10 @@ hurry to the company
 
 appear
 
+> appear to be 似乎是
+>
+> They appeared to be a little sad.  
+
 show up
 
 > He didn't show up to meeting that day.
@@ -36,19 +28,27 @@ pop up
 
 > He said he was not coming to the party but he just popped up without telling anyone.
 
+pop in/into 突然进入
+
+> She just popped into the classroom
+>
+> 她突然走进了教室
+
 
 
 peptalk 鼓舞人心的讲话  
 
 ### 在场
 
-on site
+on site  
+
+`to be in a particular area`
 
 > I'm taking my day off tomorrow, I think John will be on site so u can turn to him if u need any help.  
 
 on the spot 当场
 
-> If they got any government to do with topic in tomorrow's woeful speaking section, i would be dead on the spot.  
+> If they got any government to do with topic in tomorrow's toefl speaking section, i would be dead on the spot.  
 
 ### 白嫖
 
@@ -59,6 +59,7 @@ goof off
 > They were just goofing off, why wouldn't the boss just get rid of them?
 
 ### 从头开始
+
 start from scratch
 
 > But we've got all the sources and it's due next week. We don't have time to start from scratch.  
@@ -105,40 +106,46 @@ start all over again
 
 整体作为主语，表示由。。构成 1，2和5，部分作为主语，表示占3和4
 
-### constitute
+### 依赖于  
 
-​	`linking verb`
+1\. depend on /upon 
 
-1\. 是，被算作
+2\. count on
 
-> Does such an activity constitute a criminal offense?
+> Few people can count on having a job for life.
 >
-> 难道这样的活动也算形式犯罪？
+> 很少人会指望一辈子干一个工作。  
 
-2\.组成
+3\. hinge on  
 
-> Female workers constitute the majority of the labour force.
+> His success hinges on how well he does at the interview.  
 >
-> 女性雇员占劳动力的多数。
+> 他能否成功要看他在面试中的表现。  
 
-### confidence  
+4\. rely on/upon
 
-`noun`
-
-1. [U]~ in sb/sth 信心；信任
-
-   > The players all have confidence in their manager.
-   >
-   > 队员都信赖他们的教练
-
-2. [u] 自信心
-> He answered the questions with confidence.
-> 
-> 她自信回答了那些问题
-
-3. [u] 把握
-4. [u] 信任
-5. [c] （想某人透露的）秘密
-> I could never forgive Mike for betraying a confidence.
+> You can't rely on any figures you get from them.  
 >
-> 麦克泄露了秘密，我绝不会原谅他。
+> 你不能依赖于他们给你的数据。
+
+### carry through sth  
+
+将某事进行到底  
+
+> It's  a difficult job but she's the person to carry it through .  
+>
+> 这是一项艰难的工作，但是她这个人是能够顺利完成的。  
+
+### 与。。。有关
+
+1\. be/have sth to do with sth  
+
+> It's to do with that letter you sent me.  
+>
+> 是关于你写给我的那封信
+
+2\. have a bearing on sth  
+
+> Recent events had no bearing on our decision.  
+>
+> 近期的事件与我们的决定没有关系。  

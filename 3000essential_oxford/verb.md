@@ -336,14 +336,21 @@ not used in the progressive tenses, resemble sth/sb
 > She was shaping to hit her second shot.   
 > 她正准备再击一次球。  
 
-### able
-1\. ~ to do sth 能；能够  
-> A viral illness left her barely able to walk.  
-> 一场病毒引起的疾病使她走路都十分困难。  
+### constitute
 
-2\. 有才智的；有才能的  
-> We aim to help the less able in society to lead an independent life.  
-> 我们想要帮助社会上能力较弱的人独立生活。  
+​	`linking verb`
+
+1\. 是，被算作
+
+> Does such an activity constitute a criminal offense?
+>
+> 难道这样的活动也算形式犯罪？
+
+2\.组成
+
+> Female workers constitute the majority of the labour force.
+>
+> 女性雇员占劳动力的多数。
 
  
 

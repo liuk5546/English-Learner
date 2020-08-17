@@ -325,6 +325,42 @@ be about to do sth 即将，
 > See above, page 97.  
 > 看前文，第97页。  
 
+### particular 
+
+`adj.`
+
+1\. [only before noun] 专指的，特指的  
+
+> There is one particular patient I'd like you to see.  
+>
+> 我想让你见一个病人。  
+
+2\. [only before noun] 不寻常的；特别的 great than usual; special  
+
+> We must pay particular attention to this point.  
+>
+> 我们必须特别注意这一点。  
+
+3\. ~ (about/over sth)讲究，挑剔 very definite about what you like and careful about what you choose  
+
+> She's very particular about her clothes.  
+>
+> 她对衣着特别挑剔。  
+
+
+
+### able
+
+1\. ~ to do sth 能；能够  
+
+> A viral illness left her barely able to walk.  
+> 一场病毒引起的疾病使她走路都十分困难。  
+
+2\. 有才智的；有才能的  
+
+> We aim to help the less able in society to lead an independent life.  
+> 我们想要帮助社会上能力较弱的人独立生活。  
+
 
 
 

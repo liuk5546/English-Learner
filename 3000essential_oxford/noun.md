@@ -408,5 +408,27 @@ with gay abandon
 
 
 
+### confidence  
 
+`noun`
+
+1. [U]~ in sb/sth 信心；信任
+
+   > The players all have confidence in their manager.
+   >
+   > 队员都信赖他们的教练
+
+2. [u] 自信心
+
+> He answered the questions with confidence.
+>
+> 她自信回答了那些问题
+
+3. [u] 把握
+4. [u] 信任
+5. [c] （想某人透露的）秘密
+
+> I could never forgive Mike for betraying a confidence.
+>
+> 麦克泄露了秘密，我绝不会原谅他。
 

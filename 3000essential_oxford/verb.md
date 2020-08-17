@@ -313,6 +313,31 @@ to suddenly stop standing
 >
 > 前者好于后者吗？ 
 
+### resemble
+not used in the progressive tenses, resemble sth/sb  
+看起来像，显得像  
+> She closely resembles her sister.  
+> 她和她姐姐很像。  
+> The plant resembles grass in appearance.  
+> 这种植物的外形很像草。  
+
+### shape  
+1\. 使成为。。。形状；塑造  
+> Shape the dough into a ball.
+> 把和好的面揉成一团。  
+> This tool is used for shaping wood.  
+>这个工具是用来加工木料的。  
+
+2\. 决定。。。的形成  
+> His ideas had been shaped by his experiences during the war.  
+> 他的思想深受战时经历的影响。  
+
+3\. `vi`~ to do sth 准备（做某动作）；摆好姿势  
+> She was shaping to hit her second shot.   
+> 她正准备再击一次球。  
+
+ 
+
 
 
 

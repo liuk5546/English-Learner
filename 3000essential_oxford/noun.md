@@ -380,6 +380,22 @@ politic for adj. 谨慎的
 > The building stands as the last remaining relic of the twon's cotton industry.  
 > 这桩建筑是小镇棉花工业仅存的遗迹  
 
+### hint
+1\. 暗示
+> He give a broad hint that he was thinking of retiring.  
+> 他明示他考虑退休了。  
+
+2\. 征兆，迹象
+> At the first hint of trouble, they left.  
+> 他们一发现有点不妙的迹象就离开了。  
+
+3\. [usually sing.]少量；少许  
+> a hint of smile  
+> 一丝笑意  
+
+4\. [usually pl.]秘诀；窍门  
+> Handy hints on saving money  
+> 省钱的技巧。  
 
 
 

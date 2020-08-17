@@ -336,6 +336,15 @@ not used in the progressive tenses, resemble sth/sb
 > She was shaping to hit her second shot.   
 > 她正准备再击一次球。  
 
+### able
+1\. ~ to do sth 能；能够  
+> A viral illness left her barely able to walk.  
+> 一场病毒引起的疾病使她走路都十分困难。  
+
+2\. 有才智的；有才能的  
+> We aim to help the less able in society to lead an independent life.  
+> 我们想要帮助社会上能力较弱的人独立生活。  
+
  
 
 

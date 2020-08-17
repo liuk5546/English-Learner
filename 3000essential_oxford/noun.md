@@ -397,5 +397,16 @@ politic for adj. 谨慎的
 > Handy hints on saving money  
 > 省钱的技巧。  
 
+### abandon  
+[u] 放任；放纵  
+> He signed cheques with careless abandon.  
+> 他无所顾忌地乱开支票。  
+
+`idioms`  
+with gay abandon  
+不考虑后果；轻率  
+
+
+
 
 

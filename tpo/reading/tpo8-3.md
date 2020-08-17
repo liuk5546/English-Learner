@@ -15,7 +15,7 @@ Outflow channels are probably `relics` of catastrophic flooding on Mars long ago
 
 **黑体：而且他们很有可能是被从南部高原流入到北部平原大流量的水形成的路径。**
 
-> relic  
+> relic ['relɪk]  
 > 遗迹  
 > equatorial [.ekwə'tɔriəl]  
 > 赤道的  

@@ -5,6 +5,7 @@
 ### alone
 `adj.【not before noun】` `adv.`  
 1\. 独自
+
 > I don't like going out alone at night.  
 
 2\. 单独 without the help of other people or things  
@@ -24,7 +25,10 @@
 `idioms`  
 **go it alone**  
 独自干 to do sth without help from anyone  
-> Andrew decide to go it alone and start his own business.  
+
+> Andrew decide to go it alone and start his own business.
+>
+> Andrew 决定自立门户开展自己的生意。
 
 **leave/let sb/sth alone**  
 不打扰/不移动  
@@ -37,18 +41,22 @@
 cleverly `adv.`  
 cleverness `n.`  
 
-###absolutely  
+### absolutely  
 `adv.`  
 1\. absolutely no..., absolutely nothing 绝对不；完全没有  
+
 > She did absolutely no work.她啥也没干  
 
 2\. absolutely not 当然不  
+
 > Was it any good? No, absolutely not.  
 
 ### along
 `adv`  
 1\.向前
 > I was just walking along singing to myself.  
+>
+> 我独自唱着歌向前走去
 
 2\.一道，一起
 > Why don't you come along with us? 你干嘛不和我们一起去  
@@ -59,12 +67,22 @@ cleverness `n.`
 `idioms`  
 She lost her job when the factory closed, `along with` hundreds of others. 除。。之外还，于。。。相同。  
 
-###contemporay  
+当工厂倒闭时，她和其他百来个工人一样失去了工作。
+
+get along with sb
+
+Kevin's mother thinks the robot has had a calming influence, helping her son get along better with his friends.  
+
+开尔文的妈妈认为这个机器人有镇静作用，帮助她的儿子和朋友相处得更好。  
+
+### contemporary  
 `adj.`  
 1\. 同一时代的  
+
 > He was contemporary with the dramatist Congreve. 他与剧作家康格里夫属于同一时代。  
 
 2\.当代的  
+
 > contemporary fiction 当代小说  
 
 ### approximately
@@ -361,8 +379,117 @@ be about to do sth 即将，
 > We aim to help the less able in society to lead an independent life.  
 > 我们想要帮助社会上能力较弱的人独立生活。  
 
+### inviting
 
+`adj` 诱人的  
 
+`syn` attrative
 
+> The water looks really inviting.
+>
+> 水面看上去真诱人
 
+### abroad
+
+`adv.`
+
+1\. in or to a foreign country 
+
+> She worked abroad for a year.  
+>
+> 她在国外工作一年。
+
+2\. [formal]广为流传
+
+>There was news abroad that  a change was coming.  
+>
+>盛传即将有一个变动。
+
+### absent - present
+
+1\. 缺席-出席 （from）
+
+> to be absent/presnt from wotk.
+>
+> 缺勤/出席
+
+2\. 不存在；缺少  
+
+> Love was totally absent from his childhood.  
+>
+> 他年幼时缺少关爱
+
+3\. 心不在焉的
+
+### absolute
+
+`adj`  absolutly for adv.
+
+1\. 完全的，绝对的
+
+> a class for absolute beginners.  
+>
+> 零起点班
+
+2\. 确实的
+
+> There's absolute rubbish on television tonight.  
+>
+> 今晚的电视节目简直糟糕透顶。
+
+3\. 肯定的
+
+> There was no absolute proof.  
+>
+> 没有确凿的证据
+
+### comfy
+
+comfier- comfiest
+
+[informal] 舒服的
+
+> My comfy bed  is that inviting.
+>
+> 我舒服的床是如此令人着迷。
+
+### academic
+
+`adj`  
+
+1\. [usually before noun] 学业的，学术的，教学的 
+
+> The students return in October for the start of the new academic year.  
+>
+> 学生们十月份返校开始新的学年。  
+
+2\. [usually before noun] involving a lot of reading and studying rather than practical or technical skills 学术性的
+
+> academic qualifications
+
+3\. 学习良好的
+
+> She wasn't very academic and hated school.
+>
+> 她学习不好，而且厌学。
+
+### accept
+
+1\. 收受，收受
+
+2\. 同意，认可
+
+3\. 承认，承担（责任）
+
+> He accepts full of responsibility for what happened.
+>
+> 他承担对发生的事负全部责任。
+
+4\. 相信
+
+> The workforce is generally accepted to have the best conditions in Europe.  
+>
+> 工人普遍相信欧洲有最好的工作环境。  
+
+5\. 欢迎，接纳
 

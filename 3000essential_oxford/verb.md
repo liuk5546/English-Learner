@@ -1,4 +1,7 @@
+[toc]
+
 ## 动词用法
+
 情态动词（modal verbs）: can, could, may, might, must, ought to, shall, should, will, would. 
 ### could 
 1\. can过去式  
@@ -14,6 +17,7 @@
 > 你星期五能帮我们看下孩子吗？  
 
 4\. 可能  
+
 > I could do it now, if you like.  
 
 5\. （用于建议）可以  
@@ -269,6 +273,7 @@ laid - laid
 > The problem lies in deciding when to intervene.  
 >The source of Roman `obsession` with unity and cohesion may well have `lain in` the pattern of Rome's early development.
 > 罗马人对团结痴迷的来源存在于它早期的发展模式。  
+
 #### lied - lied  
 撒谎 `vi`  
 > lie (to sb) (about sth)  
@@ -351,6 +356,80 @@ not used in the progressive tenses, resemble sth/sb
 > Female workers constitute the majority of the labour force.
 >
 > 女性雇员占劳动力的多数。
+
+### absorb
+
+1\. 吸收
+
+> absorb sth.
+>
+> Plant absorb carbon dioxide from the air.
+>
+> absorb sth into sth
+>
+> The cream is easily absorbed into the skin.
+>
+> 这种乳霜易被皮肤吸收
+
+2\. 使并入
+
+> The surrounding small towns have been absorbed into the city.  
+>
+> 四周的小城镇已并入这座城市
+
+3\. 理解；掌握 `syn` take in
+
+> It's a lot of information to absorb all at once.  
+>
+> 要一下子消化这些资料，真是很多。
+
+4\. 吸引所有注意力
+
+> This work had absorbed him for several years.  
+>
+> 这项工作曾经使他沉迷了好几年。
+
+5\. 耗费（大量时间、金钱）
+
+> The new proposals would absorb $80 billion of the federal budget.  
+>
+> 这些新提案将消耗800亿美元的联邦预算。
+
+6\. 承受，承担，对付（变化，结果，费用）
+
+> The company is unable to absorb such huge losses.
+>
+> 这家公司无法承受如此巨大的损失。
+
+### abuse
+
+abuser for n.
+
+1\. ~sth 滥用
+
+> He systematically abused his body with heroin and cocaine.
+>
+> 他因为滥用海洛因和可卡因把身体搞垮了。
+
+2\. ~ sth ；to use power or knowledge  unfairly or wrongly.
+
+> She abused her position as principal by giving jobs to his friends.
+>
+> 她滥用校长位置把工作安排给她的朋友。
+
+3\.  ~ sb/sth 虐待
+
+> He had abused his own daughter.  
+>
+> 他曾虐待自己的女儿
+
+4\. 辱骂 = insult
+
+> The referee had been threatened and abused.
+>
+> 裁判遭到了恐吓和谩骂
+
+
 
  
 

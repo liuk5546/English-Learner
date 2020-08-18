@@ -1,14 +1,21 @@
-##介词用法
+## 介词用法
 介词始终带有宾语，后面可接名词或名词短语，代词或动名词。作用是表示人，物，事与其他人，物，事之间的关系。  
+
 > e.g.  I give the book to Charlie. 这里的to就代表了book和Charlie的关系。  
 
 介词后的代词必须是宾格  
 > Between you and me.  
 
+介词短语放句首，主谓倒装
 
-##单词
-###along 
+> On the first floor is the reception desk.
+>
+> 一楼是前台。
+
+## 单词
+### along 
 1\. 沿着  
+
 > they walked slowly along the road.  
 > 他们沿着马路散步。  
 
@@ -259,4 +266,4 @@ There are other factors over and above those we have discussed.
 
 
 
- 
+

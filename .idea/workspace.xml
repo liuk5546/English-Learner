@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e4384f9a-fc1c-4b9e-afd2-5ff911f942e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +30,11 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -37,9 +60,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workshop\English-Learner\tpo\img" />
+      <recent name="G:\workshop\English-Learner\tpo\reading" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workshop\English-Learner\tpo\img" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,10 +88,429 @@
       <option name="presentableId" value="Default" />
       <updated>1590389121718</updated>
       <workItem from="1590389128651" duration="351000" />
+      <workItem from="1592548022646" duration="2575000" />
+      <workItem from="1592557061527" duration="593000" />
+      <workItem from="1592812376955" duration="3648000" />
+      <workItem from="1592874194568" duration="4653000" />
+      <workItem from="1592896855679" duration="5548000" />
+      <workItem from="1592962999830" duration="7654000" />
+      <workItem from="1592988806921" duration="82000" />
+      <workItem from="1593314833051" duration="7991000" />
+      <workItem from="1593391493227" duration="3340000" />
+      <workItem from="1593419063884" duration="2925000" />
+      <workItem from="1593497288856" duration="1999000" />
+      <workItem from="1593563260459" duration="1337000" />
+      <workItem from="1593650698241" duration="1470000" />
+      <workItem from="1593652197219" duration="592000" />
+      <workItem from="1593737500228" duration="2365000" />
+      <workItem from="1594620930235" duration="9216000" />
+      <workItem from="1594777242745" duration="6587000" />
+      <workItem from="1594860584290" duration="5788000" />
+      <workItem from="1594877618661" duration="8197000" />
+      <workItem from="1594946762490" duration="3695000" />
+      <workItem from="1594954061985" duration="8580000" />
+      <workItem from="1595207462293" duration="19267000" />
+      <workItem from="1595292646986" duration="11617000" />
+      <workItem from="1595385863147" duration="10415000" />
+      <workItem from="1595465428839" duration="2854000" />
+      <workItem from="1595572188424" duration="2519000" />
+      <workItem from="1595816145186" duration="3326000" />
+      <workItem from="1595829163754" duration="4281000" />
+      <workItem from="1595897808899" duration="8126000" />
+      <workItem from="1595927051261" duration="52000" />
+      <workItem from="1596071301070" duration="7757000" />
+      <workItem from="1596088350750" duration="3326000" />
+      <workItem from="1596099381268" duration="961000" />
+      <workItem from="1596156412561" duration="15547000" />
+      <workItem from="1596422076631" duration="4079000" />
+      <workItem from="1596435979221" duration="5487000" />
+      <workItem from="1596506615793" duration="3217000" />
+      <workItem from="1596674010395" duration="2356000" />
+      <workItem from="1596782588620" duration="4748000" />
+      <workItem from="1597025019086" duration="4411000" />
+      <workItem from="1597044089746" duration="6318000" />
+      <workItem from="1597132249917" duration="3884000" />
+      <workItem from="1597213398527" duration="2574000" />
+      <workItem from="1597221731302" duration="611000" />
+      <workItem from="1597297320232" duration="5031000" />
+      <workItem from="1597389816300" duration="4373000" />
+      <workItem from="1597394742472" duration="784000" />
+      <workItem from="1597626697282" duration="16691000" />
+      <workItem from="1597710710165" duration="1405000" />
     </task>
+    <task id="LOCAL-00001" summary="+ tpo5-1.md">
+      <created>1592550329092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592550329092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+ tpo5-1.md">
+      <created>1592557639526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592557639526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+ 13-1.md">
+      <created>1592814738725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592814738726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="+ 13-1.md">
+      <created>1592816672472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592816672472</updated>
+    </task>
+    <task id="LOCAL-00005" summary="+ complete top5-1">
+      <created>1592903278158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592903278158</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ modify top5-1">
+      <created>1592966629859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592966629859</updated>
+    </task>
+    <task id="LOCAL-00007" summary="+ 20-4.md&#10;+ modify 13-1">
+      <created>1592969799148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592969799148</updated>
+    </task>
+    <task id="LOCAL-00008" summary="+ tpo5-2.md">
+      <created>1593329157504</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593329157504</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+ 33-1&#10;+ tpo5-3.md&#10;+ modify tpo5-2.md">
+      <created>1593421842333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593421842333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="+ modify tpo5-3.md">
+      <created>1593650734900</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593650734900</updated>
+    </task>
+    <task id="LOCAL-00011" summary="+ modify tpo5-3.md">
+      <created>1593738503333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593738503333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="+ modify tpo5-3.md">
+      <created>1594621021475</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594621021475</updated>
+    </task>
+    <task id="LOCAL-00013" summary="+ create 46-1">
+      <created>1594624987977</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594624987977</updated>
+    </task>
+    <task id="LOCAL-00014" summary="+ modify tpo5-3.md">
+      <created>1594630598007</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1594630598007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="+ add 20170719house_prices.md">
+      <created>1594784237261</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594784237261</updated>
+    </task>
+    <task id="LOCAL-00016" summary="+ add 七月记录表">
+      <created>1594860621108</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594860621108</updated>
+    </task>
+    <task id="LOCAL-00017" summary="+ modify 七月记录表&#10;+ add 20170724Pizza.md">
+      <created>1594867103605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1594867103605</updated>
+    </task>
+    <task id="LOCAL-00018" summary="+ 3000essential_oxford&#10;+ modify README.md">
+      <created>1594885670778</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1594885670778</updated>
+    </task>
+    <task id="LOCAL-00019" summary="+ modify 20170719house_prices.md">
+      <created>1594951003665</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594951003665</updated>
+    </task>
+    <task id="LOCAL-00020" summary="+ modify tpo5-3.md&#10;+ daily words add&#10;+ modify README.md">
+      <created>1594976472154</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1594976472154</updated>
+    </task>
+    <task id="LOCAL-00021" summary="+ finish reading 6-1">
+      <created>1595230099295</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1595230099295</updated>
+    </task>
+    <task id="LOCAL-00022" summary="+ create 20170816visiting_washington_dc.md">
+      <created>1595235686004</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1595235686004</updated>
+    </task>
+    <task id="LOCAL-00023" summary="+ daily update">
+      <created>1595322113028</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1595322113029</updated>
+    </task>
+    <task id="LOCAL-00024" summary="+ daily update&#10;+ add 20170823visiting_the_washington_monument.md">
+      <created>1595408519646</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1595408519646</updated>
+    </task>
+    <task id="LOCAL-00025" summary="+ reading tpo7-2.md">
+      <created>1595821750651</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1595821750651</updated>
+    </task>
+    <task id="LOCAL-00026" summary="+ daily update">
+      <created>1595840096189</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1595840096189</updated>
+    </task>
+    <task id="LOCAL-00027" summary="+ daily update">
+      <created>1595927081753</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1595927081753</updated>
+    </task>
+    <task id="LOCAL-00028" summary="+ daily update">
+      <created>1596080874766</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1596080874766</updated>
+    </task>
+    <task id="LOCAL-00029" summary="+ daily update">
+      <created>1596100164040</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1596100164040</updated>
+    </task>
+    <task id="LOCAL-00030" summary="+ daily update">
+      <created>1596164764879</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1596164764879</updated>
+    </task>
+    <task id="LOCAL-00031" summary="+ daily update">
+      <created>1596166546449</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596166546449</updated>
+    </task>
+    <task id="LOCAL-00032" summary="+ daily update">
+      <created>1596181946832</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596181946832</updated>
+    </task>
+    <task id="LOCAL-00033" summary="+ destructive_fish.md">
+      <created>1596444656233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1596444656233</updated>
+    </task>
+    <task id="LOCAL-00034" summary="+ destructive_fish.md">
+      <created>1596674132702</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1596674132702</updated>
+    </task>
+    <task id="LOCAL-00035" summary="+ daily update">
+      <created>1596784318535</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596784318535</updated>
+    </task>
+    <task id="LOCAL-00036" summary="+ 15-2.md">
+      <created>1596790821749</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596790821749</updated>
+    </task>
+    <task id="LOCAL-00037" summary="+ modify 15-2.md&#10;+ daily update">
+      <created>1597050343893</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1597050343893</updated>
+    </task>
+    <task id="LOCAL-00038" summary="+ tpo7-3.md">
+      <created>1597137069850</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1597137069851</updated>
+    </task>
+    <task id="LOCAL-00039" summary="+ tpo8-3.md">
+      <created>1597395061276</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1597395061277</updated>
+    </task>
+    <task id="LOCAL-00040" summary="+daily update">
+      <created>1597637007620</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1597637007620</updated>
+    </task>
+    <task id="LOCAL-00041" summary="+daily update">
+      <created>1597653190970</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1597653190970</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+ 13-1.md" />
+    <MESSAGE value="+ complete top5-1" />
+    <MESSAGE value="+ modify top5-1" />
+    <MESSAGE value="+ 20-4.md&#10;+ modify 13-1" />
+    <MESSAGE value="+ tpo5-2.md" />
+    <MESSAGE value="+ 33-1&#10;+ tpo5-3.md&#10;+ modify tpo5-2.md" />
+    <MESSAGE value="+ create 46-1" />
+    <MESSAGE value="+ modify tpo5-3.md" />
+    <MESSAGE value="+ add 20170719house_prices.md" />
+    <MESSAGE value="+ add 七月记录表" />
+    <MESSAGE value="+ modify 七月记录表&#10;+ add 20170724Pizza.md" />
+    <MESSAGE value="+ 3000essential_oxford&#10;+ modify README.md" />
+    <MESSAGE value="+ modify 20170719house_prices.md" />
+    <MESSAGE value="+ modify tpo5-3.md&#10;+ daily words add&#10;+ modify README.md" />
+    <MESSAGE value="+ finish reading 6-1" />
+    <MESSAGE value="+ create 20170816visiting_washington_dc.md" />
+    <MESSAGE value="+ daily update&#10;+ add 20170823visiting_the_washington_monument.md" />
+    <MESSAGE value="+ reading tpo7-2.md" />
+    <MESSAGE value="+ destructive_fish.md" />
+    <MESSAGE value="+ daily update" />
+    <MESSAGE value="+ 15-2.md" />
+    <MESSAGE value="+ modify 15-2.md&#10;+ daily update" />
+    <MESSAGE value="+ tpo7-3.md" />
+    <MESSAGE value="+ tpo8-3.md" />
+    <MESSAGE value="+daily update" />
+    <option name="LAST_COMMIT_MESSAGE" value="+daily update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="207" key="#Notifications" timestamp="1596156761951">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="524" y="207" key="#Notifications/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1596156761951" />
+    <state x="396" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592812475000">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="396" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1592812475000" />
+    <state x="269" y="0" key="CommitChangelistDialog2" timestamp="1597653188920">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="269" y="0" key="CommitChangelistDialog2/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1597653188920" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1596079040895">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1596079040895" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1596156790882">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1596156790882" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1597653196034">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1597653196034" />
+    <state x="341" y="132" key="git4idea.merge.GitPullDialog" timestamp="1597710914520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="341" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1597710914520" />
+    <state x="429" y="244" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594860665913">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="429" y="244" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1594860665913" />
+    <state x="451" y="239" key="git4idea.ui.GitResetDialog" timestamp="1594860654498">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="451" y="239" key="git4idea.ui.GitResetDialog/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1594860654498" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1596162809782">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1536.834@0.0.1280.689" timestamp="1596162809782" />
   </component>
 </project>

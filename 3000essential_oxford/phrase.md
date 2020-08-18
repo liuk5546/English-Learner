@@ -24,6 +24,8 @@
 
 #### on schedule 准时
 
+#### ahead of schedule 超前进度
+
 ### run into
 
 遇到
@@ -44,9 +46,41 @@
 
 赶上进度
 
-> These hiccups are slowing things down and we really need to make thsi deadline.  
+> These hiccups are slowing things down and we really need to make this deadline.  
 >
 > 这些问题拖慢了工作，我们需要赶上进度。
+
+### settle in
+
+适应、融入新环境、安顿下来。
+
+> Let me show you around and get u settled in.
+>
+> 让我带你四处逛逛然后让你安顿下来
+
+### look forward to doing sth
+
+期待，期望
+
+> We look forward to collaborating with you in the  future.
+>
+> 我们期待未来和你合作。  
+
+### had better do sth
+
+应该
+
+> Hmm, well we'd better get those numbers right, do we have to push back the deadline again?
+>
+> 我们应该弄清楚这些数字，我们不得不再次推迟截至日期了吗?
+
+### can't afford to do
+
+> We can't afford to delay the report any longer. Have you asked others to help you?
+>
+> 我们承担不起延期报告的责任。你有叫别人帮你吗？
+
+
 
 ## 口语200例
 
@@ -199,3 +233,53 @@ start all over again
 > Recent events had no bearing on our decision.  
 >
 > 近期的事件与我们的决定没有关系。  
+
+
+
+### 迎合某人需求
+
+1\. tailor sth to the need of sth
+
+> The cafeteria tailored their food to the needs of students.  
+>
+> 餐厅更具学生的需求定制他们的食物。
+
+2\. meet sb's needs
+
+### 写下来
+
+1\. write sth down
+
+2\. jot down
+
+> I carry a little pad with me all the time and jot down questions or ideas that I don't want to forget.  
+>
+> 我随身带着一个小本本用来记下问题或者想法，这样我就不会忘记了。
+
+3\. write up 详细写下来
+
+### 解决问题
+
+1\. solve a problem
+
+2\. address the issue/problem
+
+3\. tackle a issue
+
+### 理解
+
+1\. get hold of
+
+> If you need to get hold of a book that's not in  our library, there is a tru
+
+2\. [informal] get the hang of
+
+> It's not difficult once you get the hang of it.
+>
+> 你掌握要领就不难了。
+
+3\. master sth
+
+> French was a language he had never mastered.
+>
+> 他一直没有掌握法语

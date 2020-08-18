@@ -2,11 +2,15 @@
 
 ## Puget Sound 的鹿的数量
 
- Nearly any kind of plant of the forest `understory` can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One `compensation` for not hibernating is the built-in `urge` to migrate. Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down `leafy` branches of **cedar, hemlock, red alder, and other arboreal fodder**.  
+ Nearly any kind of plant of the forest `understory` can be part of a deer's diet. Where the forest inhibits the growth of grass and other meadow plants, the black-tailed deer browses on huckleberry, salal, dogwood, and almost any other shrub or herb. But this is fair-weather feeding. What keeps the black-tailed deer alive in the harsher seasons of plant decay and dormancy? One `compensation` for not hibernating is the built-in `urge` to migrate. Deer may move from high-elevation browse areas in summer down to the lowland areas in late fall. Even with snow on the ground, the high bushy understory is exposed; also snow and wind bring down `leafy` branches of **cedar, hemlock, red alder, and other arboreal fodder**.  （雪松、铁衫、红桤木和其它乔木）
 
 > understory
 >
 > 树下层
+>
+> built-in
+>
+> 天生的
 >
 > urge
 >

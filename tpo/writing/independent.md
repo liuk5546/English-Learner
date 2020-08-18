@@ -1,4 +1,7 @@
+[toc]
+
 # 独立写作
+
 ## 3选一
 写作思路
 B- C- A+ -> A is the best
@@ -21,7 +24,7 @@ Which one is the most important for high school teachers? (students aged 15 to 1
 A. The ability to give advice about planning for future.  
 B. The ability to recognize students that need help.  
 C. The ability to encourage students to learn on their own outside the classroom.
-  
+
 From my perspective, the ability to ecourage students to learn on their own outside the classroom.
 
 To begin with, students in high school have the right to plan for future on their own.
@@ -29,3 +32,16 @@ To begin with, students in high school have the right to plan for future on thei
 Moreover, if students need help, they will tell their teachers. The ability to recognize students in trouble is usless for a teacher.
 
 However, students will learn and research by themselves one day, so teaching them how to study on their own benefit their future.
+
+### 真题
+
+****
+
+People should buy things made in their own country, even if they cost more than the same things that are made elsewhere.  
+
+#### phrase
+
+demestic manufactured goods  国货
+
+import goods 进口货
+

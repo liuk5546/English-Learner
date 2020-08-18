@@ -283,3 +283,72 @@ start all over again
 > French was a language he had never mastered.
 >
 > 他一直没有掌握法语
+
+## 写作
+
+### 运用
+
+1\. apply
+
+> The new technology was applied to farming
+>
+> 这项新技术已经运用于农业
+
+2\. use
+
+3\. draw on
+
+> We can draw on the new technology to cure diseases like cancer and coronary heart disease.
+>
+> 我们可以用这项新技术去治疗像癌症和心脏病之类的疾病。
+
+### 获得
+
+1\. secure vt
+
+> The graduates secure the insight and critical thinking from history and social courses.
+>
+> 毕业生从历史和社会课程中获得有远见和批判的思维。
+
+2\. attain
+
+> vt. Most of our students attained five 'A' grades in their exams.
+>
+> 我们多数学生的考试成绩是五个优。
+>
+> 达到（年龄、水平、状况）～ sth
+>
+> The cheetah can attain speeds of up to 97 kph.
+>
+> 猎豹的奔跑速度可达97
+
+3\. acquire
+
+> She has acquire a good knowledge of English.
+>
+> 她英语学得很好了。
+>
+> The company has just acquired new premises.
+>
+> 公司刚购得新办公楼。
+
+4\. obtain
+
+> To obtain the overal score, add up the totals in each column.
+>
+> 要得出总计得分，就把各栏的小记加起来。
+
+5\. reap 
+
+> They are now reaping the rewards of all their hard work.
+>
+> 现在，他们的全部辛劳都得到了回报。
+
+6\. procure
+
+> She managed to procure a ticket for the concert.
+>
+> 她好不容易弄到一张音乐会入场券。
+
+7\. receive
+

@@ -7,18 +7,34 @@ at
 for  
 from  
 of  
+
 to  
 
+> Happy birthday to u.
+
 an
+
+> Give me an apple.
+
 some  
+
+> Have some more vegetables.
 
 and  
 but  
 
 you
 us
+
+> She give us a picture as a wedding present.
+
 them  
+
+> Tell them the news.
+
 her  
+
+> We're gonna call her Sophie.
 
 am  
 are  

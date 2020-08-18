@@ -432,3 +432,27 @@ with gay abandon
 >
 > 麦克泄露了秘密，我绝不会原谅他。
 
+
+
+### energy
+
+1\. [u]精力
+
+> It's a waste of time and energy. 
+>
+> 那是浪费时间和精力
+
+2\. [pl.] 做某事时用的生理和精神努力
+
+> She put all her energies into her work.
+>
+> 她把全部精力都投入到工作中去了。
+
+3\. [u] 能源
+
+> develop new energy technologies
+>
+> 发展新能源技术。
+
+
+

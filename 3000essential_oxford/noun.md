@@ -454,5 +454,53 @@ with gay abandon
 >
 > 发展新能源技术。
 
+### objective
+
+1\. 目的；目标
+
+> You must set realistic aims and objectives for yourself.
+>
+> 你必须给自己确定切实的目的和目标。
+
+adj. 客观的，基于事实的
+
+> I find it difficult to be objective where he's concerned.  
+>
+> 只要涉及他，我就难以做到保持客观。
+
+objectively for adv.
+
+objectivity
+
+[u] 客观性
+
+> There was a lack of objectivity in the way the candidates were judged.
+>
+> 评判候选人的办法缺少客观性。
+
+
+
+### organism
+
+1\. 微生物（microorganism）
+
+联想：biology 生物学，biotechnology 生物技术，breed 品种，
+
+cell 细胞，chromosome 染色体，DNA，gene基因，mutation 变异，protein 蛋白质。
+
+### slice
+
+1\. 薄片
+
+> Cut the meat into thin slices.
+>
+> 把肉切成薄片
+
+2\. [inform] 部分，份额
+
+> Our firm is well placed to grab a large slice in then matket.
+>
+> 我们公司处境有利，足以获得巨大的市场份额。
+
 
 

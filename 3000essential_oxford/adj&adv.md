@@ -493,3 +493,78 @@ comfier- comfiest
 
 5\. 欢迎，接纳
 
+### aboard
+
+`adv.` 上（船、飞机、公共汽车、火车）`prep.`在。。。上
+
+> He was already aboard the plan.
+>
+> 他已经登机
+>
+> All aboard！
+>
+> 请大家上车，我们马上要走了。
+
+### likewise
+
+`adv.`
+
+1\. the same; in a similar way
+
+> He voted for the change and he expected his colleagues to do likewise.
+>
+> 他投票赞成变革，并且期望他的同事投同样的票。
+
+2\. also
+
+> Her second marriage was likewise unhappy.
+>
+> 她额第二次婚姻也不幸福。
+
+3\. 我也是，我有同感
+
+> Afternoon tea is one of my favorite British customs.
+>
+> Likewise, Finley!
+>
+> 下午茶是我最喜欢的英国传统。
+>
+> 我也是！
+
+### acceptable 
+
+accptably for adv & accpetability for noun
+
+`adj`
+
+1\. （社会上）认可的
+
+> Children must learn socially acceptable behaviour.
+>
+> 儿童必须学会社会上认可的行为举止。
+
+2\. 可接受的
+
+> Air pollution in the city had reached four times the acceptable levels.  
+>
+> 这个城市的空气污染已经达到可接受的标准的四倍。
+>
+> acceptable to sb
+>
+> We want  a political solution that is acceptable to all parties.
+>
+> 我们想要一个各方都可接受的政治解决方案。
+
+3\. not very good but good enough
+
+> The food was acceptable, but no more.
+>
+> 食物还可以，但说不上很好。
+
+### accidental
+
+`adj`
+
+意外的
+
+> I didn't think our meeting was accidental - he must have 

@@ -429,6 +429,64 @@ abuser for n.
 >
 > 裁判遭到了恐吓和谩骂
 
+### accept
+
+acceptable for adj.
+
+1\. 收受；接收[vi,vt]
+
+> He asked me to marry him and I accept.
+>
+> 他让我嫁给他，我接受了
+>
+> accept sth
+>
+> accept sth from sb
+>
+> accept sth for sth
+>
+> She said she'd accept $15 for it.
+>
+> 她说她要15美元才卖。
+
+2\. [vt]（认为足够好或合适）接受
+
+> This machine only accepts coins.
+>
+> 这台机器只接受硬币。
+
+3\. [vt] agree to or approve of sth.
+
+> accept sth (from sb)
+>
+> She won't accept advice from anyone.
+
+4\. [vt] 承认
+
+> He accepts full responsibility for what happened.
+>
+> 他承认对发生的事负全部责任。
+
+5\. [vt] to believe that sth is ture
+
+> I **accept that** this will not be popular.
+>
+> 我认为这是不会受欢迎的。
+>
+> **It is generally accepted that** people are motivated by success.
+>
+> 普遍认为，成功催人奋进。
+
+6\. [vt] 容忍（困境）
+
+> Nothing will change as long as the workers continue to accept these  appalling conditions.
+
+7\. [vt] 欢迎，接纳
+
+8\. 接纳，接受（为成员、会员）
+
+
+
 
 
  

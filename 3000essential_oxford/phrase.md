@@ -80,6 +80,44 @@
 >
 > 我们承担不起延期报告的责任。你有叫别人帮你吗？
 
+### thrilled 
+
+高兴极了
+
+> I'm thrilled that we finally get to have afternoon tea together.
+>
+> 我很高兴，我们终于一起吃下午茶了。
+
+### 下午茶食物
+
+1\. tart 果馅饼
+
+2\. Earl Gray  伯爵红茶
+
+3\. Assam 阿萨姆红茶
+
+4\. Darjeeling 大吉岭红茶
+
+5\. peppermint 薄荷茶
+
+6\. chamomile 洋甘菊茶
+
+### to get the full treatment
+
+充分体验某事、充分享受某一项服务。
+
+>  On her birthday, I took Judy to a spa where she got the full treatment.
+>
+> 在Judy生日那天，我带她去做了四八，她在那里好好享受一番。
+
+### first-tier city
+
+> China's biggest cities are called first-tier cities.
+>
+> 中国最大的城市被称作一线城市。
+
+
+
 
 
 ## 口语200例

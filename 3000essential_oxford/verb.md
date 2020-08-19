@@ -485,6 +485,44 @@ acceptable for adj.
 
 8\. 接纳，接受（为成员、会员）
 
+### enable
+
+1\. enable sb to do sth = allow 使能够
+
+> To have more knowledge of her negative qualities enable her to see herself more completely.
+>
+> 认识她自己的更多缺点能使她看清自己。
+
+2\. 使成为可能
+
+> enable sth to do sth
+>
+> enable sth
+>
+> a new train line to enable easier access
+
+### assemble
+
+1\. `vt. vi.`聚集；集合；收集
+
+> All the students were asked to assemble in the main hall.
+>
+> 全体学生接到通知到大礼堂集合。
+>
+> assemble sth
+>
+> assemble data
+
+2\. `vt`装配
+
+> The shelves are easy to assemble.
+>
+> 搁架容易装配
+
+
+
+
+
 
 
 

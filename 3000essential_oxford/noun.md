@@ -502,5 +502,57 @@ cell 细胞，chromosome 染色体，DNA，gene基因，mutation 变异，protei
 >
 > 我们公司处境有利，足以获得巨大的市场份额。
 
+### quality
 
+1\. [u,c]质量，品质
+
+> When costs are cut product quality suffers.
+>
+> 一降低成本，产品质量会受到影响。
+
+2\. [u]上乘；优质
+
+> We aim to provide quality at reasonable prices.
+>
+> 我们的宗旨是质量上乘，价格合理。
+
+3\. [c] 人品，素质，品德
+
+> Her reasoning was that she knew the good qualities but that she did not knew the bad ones.  
+>
+> 她的理由是她知道好的品德，但是她察觉不到坏的。
+
+4\. [u,c] 特征，特色
+
+> Her paintings are in the special quality of light and shade.
+
+### effect
+
+1\. [c,u] 效果影响
+
+> Modern farming methods can have an adverse effect on the environment.
+>
+> 现代耕种技术对环境有负面影响。
+>
+> Her criticisms had the effect of discouraging him completely.
+>
+> 她批判的结果是使他完全丧失信心。
+
+2\. [c,u]（艺术家或作家等创造的）外观，声响，印象，效果
+
+> The overall effect of the painting is overwhelming.
+
+3\. [pl.] 财产
+
+> The insurance policy covers all baggage and personal effects.
+>
+> 这份保险单为全部行李和个人财产提供保险。
+
+#### in effect
+
+实际上；事实上。
+
+> In effect, the two systems are identical.
+>
+> 事实上，两套系统是一样的。
 

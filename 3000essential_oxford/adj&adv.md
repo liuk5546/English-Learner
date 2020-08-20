@@ -601,5 +601,21 @@ accurately for adv
 >
 > 这篇文章精准地反映了公众的意见。
 
+### staffed
+
+配备人手的
+
+> Let's try to find a different station that's staffed.
+>
+> 让我们找一个有人工服务的加油站吧。
+
+staff for noun[c,u] but usually singular
+
+> We have 20 part-time members of staff.
+>
+> 我们有20名兼职员工。
+
+
+
 
 

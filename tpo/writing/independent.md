@@ -45,3 +45,13 @@ demestic manufactured goods  国货
 
 import goods 进口货
 
+****
+
+2016.4.6
+
+Do you agree or disagree with the following statement: 
+
+Getting advice from friends who are older than you is more valuable than getting advice from friends in your same age.
+
+
+

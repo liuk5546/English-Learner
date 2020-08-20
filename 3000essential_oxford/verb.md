@@ -34,6 +34,7 @@
 
 ###would 
 1\. will的过去式  
+
 > He said he would be there at eight o'clock.  
 
 2\. used for talking about the result of an event that you imagine.  
@@ -519,7 +520,29 @@ acceptable for adj.
 >
 > 搁架容易装配
 
+### accompany
 
+verb
+
+1\. ~ sb（formal）陪同，陪伴
+
+> His wife accompanied him on the trip.
+>
+> 这次旅行他由妻子陪同。
+
+2\. ~ sth伴随；与。。。同时发生
+
+> The curator of the exhibition also wrote the accompanying catalogue.
+>
+> 展览的策划人还编了介绍展览的目录。
+
+3\. ~ sb at/on sth为。。。伴奏
+
+> The singer was accompanied on the piano by her sister.
+>
+> 女歌手由她姐姐钢琴伴奏。
+
+### account
 
 
 

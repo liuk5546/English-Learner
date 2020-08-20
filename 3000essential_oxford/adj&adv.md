@@ -563,8 +563,43 @@ accptably for adv & accpetability for noun
 
 ### accidental
 
-`adj`
+`adj` 
 
 意外的
 
 > I didn't think our meeting was accidental - he must have 
+
+accidentally for adv 
+
+不经意，偶然
+
+> The damage couldn't have been caused accidentally.
+>
+> 这次损毁不可能是偶然因素造成的。
+
+### accurate
+
+`adj`
+
+1\. 准确无误的
+
+> Accurate records must be kept.
+>
+> 必须保存准确的记录
+
+2\.  精准的
+
+> My watch is not very accurate.
+>
+> 我的手表不是非常准。
+
+3\. 精准的（掷、射、击等）
+
+accurately for adv
+
+> THe article accurately reflects public opinion.
+>
+> 这篇文章精准地反映了公众的意见。
+
+
+

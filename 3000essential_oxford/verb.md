@@ -542,7 +542,35 @@ verb
 >
 > 女歌手由她姐姐钢琴伴奏。
 
-### account
+### acknowledge
+
+1\. 承认
+
+> She refuses to acknowledge the need for reform.
+>
+> 她拒绝承认改革的必要性。
+>
+> It is generally acknowledge to be true.
+>
+> 普遍认为是真的。
+
+2\. 告知收悉 to tell sb you have received sth that they sent to you
+
+> Please acknowledge receipt of this letter.
+>
+> 信收到后请复函告知。
+
+3\. （公开）感谢
+
+> I gratefully acknowledge financial support from several local businesses. 
+>
+> 我非常感谢几家本地企业的经济支持。
+
+### accuse
+
+accuse sb (of sth)
+
+
 
 
 

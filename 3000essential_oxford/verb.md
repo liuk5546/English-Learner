@@ -572,6 +572,50 @@ accuse sb (of sth)
 
 
 
+### vary 
+
+1\. [vi] vary in sth 相异，不同
+
+> The students' work varies considerably in quality.
+>
+> 学生作业的质量非常参差不齐。
+
+2\. [vi]变化，变更，改变。
+
+> The menu **varies with** the season.
+>
+> Prices **vary according to** the type of room you require.
+>
+> Class numbers **vary between** 25 **and** 30.
+
+3\. [vt]变更，改变
+
+> The job enables me to vary the hours I work.
+>
+> 这份工作使我能够调整工作时间。
+
+**word family**
+
+> varied adj. 各种各样的 varied options 
+>
+> variable adj.  多变的，可变的 variable temperature
+>
+> variation adj. 
+>
+> 1、变化;
+>
+> ～ (in/of sth)
+>
+> 2、变种
+>
+> ～ on sth
+>
+> various adj. 各种各样的
+>
+> variety n. 不同种类
+
+
+
 
 
 

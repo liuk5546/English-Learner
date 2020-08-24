@@ -110,7 +110,27 @@
   That's right. Computer prices have come way down the past few years. So the department wont have to spend as much now as they did in the past.
 </details>
 
+## tpo 7-2
 
+你看，这些他们削减的课程都是选修课。必修的课程几乎都是绘画，他们占用了我们大量的时间。我们真正想要的是不同的必修课。然后我们主修学生可以上大量更好的课程，所有的课都是我们喜欢的。
+
+<details>
+  <summary>Click to expand</summary>
+  See, the classes they are eliminating are all optional. The required courses are mostly painting and drawing and they take up all our time. What we really need are different requirements. Then our majors could take a better variety of classes, all the things are interested in.
+</details>
+
+> take up sth
+>
+> 占用时间，占据空间
+>
+> The table takes up too much room.
+
+ 但是依旧，他们太极端了。如果钱是一个问题，他们可以雇佣一个兼职教授。又或者，大多数系里面的教师有第二领域。
+
+<details>
+  <summary>Click to expand</summary>
+  But still, they are being drastic. If money is the problem, they could hire a part-time professor, Or, most of the professors in the department have secondary fields.
+</details>
 
 <details>
   <summary>Click to expand</summary>

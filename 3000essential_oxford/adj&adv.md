@@ -615,7 +615,47 @@ staff for noun[c,u] but usually singular
 >
 > 我们有20名兼职员工。
 
+### actual
 
+[only before noun] `adj.`
+
+1\. 真实的，实际的 real
+
+> The actual cost was higher than we expected.
+>
+> 世纪成本比我们想的要高。
+
+2\. 真正的，。。。本身
+
+> The wedding preparations take weeks but the actual ceremony take less than an hour.
+>
+> 准备婚礼要几周，而婚礼仪式本身还不到一小时。
+
+actually for adv
+
+1\. 在口语中强调事实
+
+> It's not actually raining now.
+>
+> 其实现在并没有下雨。
+
+2\. （表示想法与事实不一致） 居然，竟然
+
+> The food was not actually all that expensive.
+>
+> 食物居然并不那么贵。
+
+3\. 礼貌纠正他人
+
+> We're not American, actually.
+>
+> 我们事实上不是美国人。
+
+4\. 礼貌地引起注意，转换话题，直言
+
+> Actually, I'll be a bit late home. 
+>
+> 说真的，我回来会晚一点。
 
 
 

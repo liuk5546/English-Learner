@@ -568,7 +568,11 @@ verb
 
 ### accuse
 
-accuse sb (of sth)
+accuse sb (of sth) 控告，控诉；谴责
+
+> She accused him of lying.
+>
+> 她控诉他撒谎。
 
 
 
@@ -613,6 +617,84 @@ accuse sb (of sth)
 > various adj. 各种各样的
 >
 > variety n. 不同种类
+
+### achieve 
+
+1\. [vt] 达到 ~ sth
+
+`syn`  attain
+
+> He had finally achieved success.
+>
+> 他终于获得了好多成功。
+
+2\. [vt] 完成
+
+`syn` accomplish
+
+> All you've achieved is to upset my parents.
+>
+> 你唯一做到的就是使我的父母难过。
+
+3\. [vi.] 成功 to be successful
+
+> Their background gives them little chance of achieving at school.
+>
+> 他们的监听背景很难让他们在学校里获得成功。
+
+achieveable for adj.
+
+> Profits of $20m look achievable.
+>
+> 2000万美元的利润看来是可以完成的。
+
+### acquire 
+
+1\. 获得，得到
+
+> She has acquired a good knowledge of English.
+>
+> 她的英语已经学得很好。
+
+2\. to obtain sth by buying or being given it
+
+> The company has just acquired new premises.
+>
+> 公司刚刚购得新办公楼。
+
+**an acquired taste**
+
+养成的爱好
+
+### adapt
+
+1\. 使适应，使适合
+
+`syn` modify
+
+> These styles can be adapted to suit individual tastes.
+>
+> 这些样式可以修改以适应个人不同爱好。
+>
+> Most of these tools have been specially adpated for use by disable people.
+>
+> 这些工具已经过改装，供残疾人使用。
+
+2\. [vt,vi] 适应
+
+`syn` adjust
+
+> The organism were forced to adapt in order to survive.
+>
+> 生物不得不迅速适应新的制度。
+
+3\. [vt] 改编 ~sth （for sth ）（from sth）
+
+> Three of her novels have been adapted for television.
+>
+> 她的三篇小说已改编成电视节目。
+
+
 
 
 

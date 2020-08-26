@@ -116,9 +116,61 @@
 >
 > 中国最大的城市被称作一线城市。
 
+### speaking of （sth）
+
+介词用法，说到
+
+> Speaking of , I need to pick out a few item for my wardrobe.
+>
+> 说到这，我需要添置几件新衣服。
+>
+> pick out 挑选某物
+
+### make it quick
+
+快一点
+
+> I have waited for my coffee for a long time. Could you make it quick.
+
+### freshen up 
+
+使精神饱满
+
+> She want to freshen up her look.
+>
+> 她想使自己的样子谨慎饱满。
+
+###  pair A with B
+
+搭配
+
+> You can pair your steak with a fine wine.
+>
+> 你可以用牛排搭配红酒。
+
+### if you say so
+
+你说是的话，那就是吧
+
+### set a trend/follow this trend
+
+创造潮流，跟紧潮流
+
+### be going with
+
+选择
+
+> I'm definitly going with the skinny jeans on your hands.
+>
+> 我就选你手上这件紧身牛仔衣了。
 
 
 
+### ring up purchase
+
+
+
+ 
 
 ## 口语200例
 

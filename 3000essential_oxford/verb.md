@@ -80,16 +80,19 @@ must 无过去和将来形式，had to和has had to表示过去，will have to�
 > We'll have to borrow the money we need. (将来)  
 > I have to go to the dentist tomorrow.(已经安排好了)  
 
-####表示肯定
+#### 表示肯定
 表示过去的肯定，must have
+
 > Your trip must have been fine.  
 > 你的旅行一定很开心吧。  
 
-##单词
+## 单词
+
 ### condition
 `vt`  
-1\. 训练；是习惯于  
+1\. 训练；使习惯于  
 ~ sb/sth (to sth)  
+
 > Patients can became conditioned to particular forms of treatment.  
 
 ~ sb/sth to do sth  
@@ -104,6 +107,7 @@ must 无过去和将来形式，had to和has had to表示过去，will have to�
 ### buget 
 `vt` `vi`  
 精打细算；把什么编入预算  
+
 > If we budget carefully we'll be able to afford the trip.  
 
 I've `budgeted for` two new member of staff.  
@@ -116,18 +120,32 @@ The project has been budgeted at ten million francs.(The french government has b
 `vt` 
 1\. 吸引，使喜爱  
 > I had always been attracted by the idea of working abroad.(~sb)  
-> What first attracted me to her was here sense of humour.（attract A to B) B吸引A  
+>
+> 我已经
+>
+> What first attracted me to her was here sense of humour.
+>
+> 她首先吸引我的使她的幽默感。
+>
+> （attract A to B) B吸引A  
 
 2\. 招引  
 > The warm damp air attracted thousands of visitors.  
+>
+> 温暖潮湿的空气吸引着上千的访客。
 
 3\. attract sth 引起（反应）  
 > This proposal has attracted a lot of interest.  
->His comments were boound to attract criticism.  
+> His comments were boound to attract criticism.  
+>
+> 他的评论一定会受到批评。
 
 ### appeal 
 1\. `vi` 上诉appeal (to sb/sth)(against sth)  
 > The company is appealing against the ruling.  
+>
+> 公司对判决作出申述。
+>
 > the company  has ten days to appeal the decision to the tribunal.  
 
 2\.`vi` 有吸引力；有感染力；引起兴趣（to） 
@@ -696,7 +714,113 @@ achieveable for adj.
 
 
 
+### address 
 
+1\. 写（收信人）地址
+
+2\. 演说
+
+> to address a meeting
+>
+> 在会议上发表演说
+
+3\. 向。。。说话
+
+> ~ sb
+>
+> I was surprised when he addressed me in English.
+>
+> ~ sth to sb
+>
+> Any questions should be address to your teacher.
+
+4\. 称呼某人
+
+> The judge should be addressed as 'your Honour'.
+
+5\. 处理；对付
+
+> We must address ourselves to the problem of traffic pollution.
+
+### adjust
+
+1\. 调节
+
+[vt]
+
+> Watch out for sharp bends and adjust your speed accordingly.
+>
+> 调整测速
+>
+> adjust sth to sth
+>
+> Adjust your language to the age of your audience.
+
+2\. 适应，习惯 
+
+[vi,vt] `syn` adapt
+
+> **adjust to sth**
+>
+> After a while his eyes adjusted to the dark.
+>
+> **adjust to doing sth**
+>
+> It took her a while to adjust to living alone.
+>
+> **adjust yourself to sth**
+>
+> You'll quickly adjust yourself to student.
+
+3\. 整理
+
+[vt]
+
+> adjust his tie
+
+### adopt
+
+1\. 收养
+
+[vi,vt]
+
+2\. 采用
+
+3\. 正式通过，表决采纳（建议，政策等）
+
+4\. 选用；移民；承袭
+
+5\. 采用（某种举止）
+
+> He adopted an air of indifference.
+>
+> 他一副满不在乎的样子
+
+6\. ~ sb (as sth)选定，选举
+
+> She was adopted as parliamentary candidate for Wood Green.
+
+### advertise 
+
+1\. 做广告
+
+[vi,vt]
+
+> ~ sth (as sth)
+>
+> The cruise was advertised as the journey of a lifetime.
+>
+> 这次航行被宣传为终身难忘的旅行
+
+2\. 公布，征聘
+
+[vi,vt]
+
+> advertise (for sb/sth)
+
+3\. 展现，宣传（自己的事情）
+
+> I wouldn't advertise the fact that you don't have a work permit.
 
 
 

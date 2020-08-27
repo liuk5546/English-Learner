@@ -374,6 +374,26 @@ start all over again
 >
 > 他一直没有掌握法语
 
+### 参与；出力
+
+1\. participate in\ join in
+
+2\. pitch in 
+
+3\. help sb out
+
+4\. lend assistance to sb
+
+5\. give sb a hand
+
+### 忙于某事
+
+1\. be overwhelmed by
+
+2\. be swamped with
+
+3\. be bombarded with
+
 ## 写作
 
 ### 运用

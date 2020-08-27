@@ -1,7 +1,8 @@
-#综合写作
+# 综合写作
 
-##tpo 20: The "let it burn" policy  
+## tpo 20: The "let it burn" policy  
 &emsp;&emsp;In the United States, it had been common practice since the late 1960s not to `suppress` natural forest fires. The "let it burn" policy assumed that forest fires would `burn themselves out` quickly, without causing much damage. However, in the summer of 1988, forest fires in Yellowstone, the most famous national park in the country, burned for more than two months and spread over a huge area, `encompassing` more than 800,000 acres. Because of the large `scale` of the damage, many people called for replacing the "let it burn" policy with a policy of `extinguishing` forest fires as soon as they appeared. Three kinds of damage caused by the "let it burn" policy were emphasized by critics of the policy.  
+
 > suppress `[sə'pres]`  
 > to prevent sth from growing, developing or continuing. 压制；阻止；抑制。  
 > it is common practice (not) to do sth.  
@@ -46,6 +47,7 @@
 
 中心观点：黄石大火导致树木植被损毁。  
 **First, vegetation. As you might imagine, scorched areas were in time colonized by new plants. As a matter of fact, the plant life in Yellowstone became more diverse, because the fire created an opportunity for certain plants that could not grow otherwise. For example: areas where the trees had been destroyed by the fire could now be taken over by smaller plants that needed open, unshaded space to grow. And another example: seeds of certain plant species won't germinate unless they're exposed to very high levels of heat, so those plants started appearing after the fire as well.**  
+
 > colonize `['kɑlə.naɪz]`  
 > vt. to live or grow in large numbers in a particular area.  
 > diverse ` [daɪ'vɜrs]`  
@@ -97,3 +99,23 @@
 > hold the opposite  不同意
 
 &emsp;&emsp;And worst of all is the harmful effect that buzzing is likely to have on social relationships. Once we become aware that people we meet socially may be buzzers with a hidden agenda, we will become less trustful of people in general. So buzzing will result in the spread of mistrust and the expectation of dishonesty.
+
+## tpo 3 A painting not being the work of Rembrandt
+
+Rembrandt is the most famous of the seventeenth-century Dutch painters. However, there are doubts whether some paintings attributed to Rembrandt were actually painted by him. One such painting is known as attributed to Rembrandt because of its style, and indeed the representation of the woman’s face is very much like that of portraits known to be by Rembrandt. But there are problems with the painting that suggest it could not be a work by Rembrandt.
+
+**In the reading passage, the author suggests that one such famous painting of the woman could not be a work by Rembrandt.**
+
+First, there is something `inconsistent` about the way the woman in the portrait is dressed. She is wearing a white linen cap of a kind that only servants would wear-yet the coat she is wearing has a luxurious fur collar that no servant could afford. Rembrandt, who was known for his attention to the details of his subjects’ clothing, would not have been guilty of such an inconsistency.
+
+主旨：自画像中的女子领子inconsistent
+
+> inconsistent
+>
+> 不一致，相矛盾
+
+Second, Rembrandt was a master of painting light and shadow, but in this painting these elements do not fit together. The face appears to be illuminated by light reflected onto it from below. But below the face is the dark fur collar, which would absorb light rather than reflect it. So the face should appear partially in shadow-which is not how it appears. Rembrandt would never have made such an error.
+
+主旨：master of painting 画的各个元素不搭调
+
+伦布郎是光和影的大师，但是再这幅画中光和影并不协调。

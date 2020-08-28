@@ -131,9 +131,43 @@
   <summary>Click to expand</summary>
   But still, they are being drastic. If money is the problem, they could hire a part-time professor, Or, most of the professors in the department have secondary fields.
 </details>
+### 8-2
+
+首先很多学生并不想午餐时间休息。他们边吃饭边学习，特别是考试临近或者他们必须要完成的作业。现在他们不能集中精力。音乐将会非常令人分心。
+
+<details>
+  <summary>Click to expand</summary>
+  Well, first of all, a lot of kids arent `looking for` a relaxing break at lunch time. They like to study while they eat, especially if they have exams coming up or some assignment they have to get done. And now they won't to be able to concentrate. This is gonna be very distracting.
+</details>
+
+>look for sth
+>
+>期望；期待；盼望
+>
+>We shall be looking for an improvement  in your work this term.
+>
+>我们期待你这学期的功课有进步
+>
+>exams coming up
+>
+>即将来临的测试
+>
+>distracting
+>
+>令人分心的
+
+我认为，学生将会更可能带他们的mp3，因为为了播放他们自己的音乐盖过经典音乐。
+
+<details>
+  <summary>Click to expand</summary>
+  I think people are going to be even more likely to bring their mp3 player, you know, to play their own music and block out the classical stuff.
+</details>
+
+> block out the music
+>
+> 挡住这个音乐声
 
 <details>
   <summary>Click to expand</summary>
   template
 </details>
-

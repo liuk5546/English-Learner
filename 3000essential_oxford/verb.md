@@ -3,6 +3,23 @@
 ## 动词用法
 
 情态动词（modal verbs）: can, could, may, might, must, ought to, shall, should, will, would. 
+
+动词+介词（at for from into of to with ) 宾语仅放介词后，如think of，speak of
+
+及物动词+副词（away, back out ahead forward aside)，构成“动词+代词+副词”结构
+
+> work out sth work it out
+>
+> put forward sth put it forward
+
+不及物动词+副词 不能接宾语，也没有被动。
+
+> The war broke out in 1980 and lasted eight years.
+
+
+
+
+
 ### could 
 1\. can过去式  
 > She said that she couldn't come.  

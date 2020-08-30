@@ -1,3 +1,5 @@
+[toc]
+
 # 语料整理
 
 ## tpo2-2
@@ -131,14 +133,17 @@
   <summary>Click to expand</summary>
   But still, they are being drastic. If money is the problem, they could hire a part-time professor, Or, most of the professors in the department have secondary fields.
 </details>
-### 8-2
+
+
+## 8-2
 
 首先很多学生并不想午餐时间休息。他们边吃饭边学习，特别是考试临近或者他们必须要完成的作业。现在他们不能集中精力。音乐将会非常令人分心。
 
 <details>
   <summary>Click to expand</summary>
-  Well, first of all, a lot of kids arent `looking for` a relaxing break at lunch time. They like to study while they eat, especially if they have exams coming up or some assignment they have to get done. And now they won't to be able to concentrate. This is gonna be very distracting.
+  Well, first of all, a lot of kids arent `looking for` a relaxing break at lunch time. They like to study while they eat, especially if they have exams coming up or some assignment they have to get done. And now they won't be able to concentrate. This is gonna be very distracting.
 </details>
+
 
 >look for sth
 >
@@ -166,6 +171,75 @@
 > block out the music
 >
 > 挡住这个音乐声
+
+## 9-2
+
+The business studies department at State University decide to require all students complete one semester of work experience in a local corporation or a small business.
+
+secure permanent employment.
+
+​								 `[ɪmˈplɔɪmənt]`
+
+获得永久的工作
+
+他们宣传关于领导力和组织能力的提升，但是那不是你认为的那种工作。比如我的哥哥有一份他们讲的工作，你只是在那里做一些基础任务，像打字和将文件归档，一点意义都没有。
+
+<details>
+  <summary>Click to expand</summary>
+  Well, they talked about leadership and organizational skills, but that’s not really the kind of work you do. Like my elder brothers have the kind of jobs they are talking about and typically you are just there to do basic tasks, like typing or filing stuff, nothing very meaningful.
+</details>
+
+问题是许多这个地区的大学有相同的要求，所以很多学生都在一个职务（都有过实习经历）。所以即使当你还是学生的时候在公司有一个这样的职位，一旦你毕业了，永久工作的竞争力将是不可能的。我的意思没有足够的工作给所有这个城市想找全职工作的商科毕业生
+
+<details>
+  <summary>Click to expand</summary>
+  Well, the problem is that there are lots of other universities in our area that have the same requirement, so there are lots of other students at these positions.So even if you `take a position` like this in a company while you are still a student, once you graduate, the competition for permanent jobs will be impossible. I mean there just won’t be enough jobs available for all the business graduates in the city who will be looking for full time work.
+</details>
+
+> take a position
+>
+> at these position
+
+## 10-2
+
+但是那里经常非常拥挤，人群来来往往。不适合展示艺术品。想象你站在那里，尝试欣赏一幅画。将会有百万人走过。人们从你的前面走过，挡住你的视线，打扰你...这么多人走动，你将不能欣赏这幅艺术作品，也无法欣赏任何东西。
+
+<details>
+  <summary>Click to expand</summary>
+  But it’s always really crowded with people coming and going. It’s not good for showing artwork. Imagine you are standing there, trying to look at a painting. There’s gonna be like a million people walking through, people walking in front of you, blocking your view, distracting you… You won’t be able to appreciate the artwork, or get a good look at anything with so much going on, with so many people moving around.
+</details>
+
+但是这种光都来自窗外的自然光？事实上这样的光不好，因为如果外面是大晴天，光就太亮了。如果是阴天，就太暗了。你想要的是可控的，连续的光源，那种来自电灯泡的光。想象在一个艺术博物馆中，你有点光源，并且光被小心地控制在一样的等级。
+
+<details>
+  <summary>Click to expand</summary>
+  but that kind of light, all that natural light from windows? That’s actually not good because if it’s really sunny out, it’ll be way too bright. If it’s cloudy, it’ll be way too dark.What you want is controlled light, consistent light, the kind you get from electric light bulbs. Think about in an art museum. In an art museum, you’ve got electric lighting, and the light is always carefully controlled, always at the same level.
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  template
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  template
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  template
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  template
+</details>
+
+<details>
+  <summary>Click to expand</summary>
+  template
+</details>
 
 <details>
   <summary>Click to expand</summary>

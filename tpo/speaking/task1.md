@@ -84,3 +84,5 @@ I prefer to work on class assignments by myself coz I can focus attention on the
 
 > give `/ɡɪv/` gave `/ɡeɪv/` given `/ˈɡɪvn/`
 > tough `/tʌf/`
+
+I don't think all children should be required to learn a second language in school. Children are more interested in playing basketball, football and other sports. Even if they are required to learn a second language, they won't treat it seriously. I had many friends in junior high who didn't learn language at all. But they could play basketball very well and maybe some of them can become professional players. There is no need to learn a second language. Also, many of the children won't have the chance to use the second language because when they grow up, their job may not need any foreign language skills. For example, many of my high school classmates now work as clerks in banks and they don't need foreign language in their work. Still, they can do just fine.

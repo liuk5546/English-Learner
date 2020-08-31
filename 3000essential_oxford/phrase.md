@@ -168,6 +168,20 @@
 
 ### ring up purchase
 
+完成付款
+
+
+
+### seeing as/ seeing that
+
+因为
+
+> Seeing as we've already bought tickets, we may as well go to the game.
+>
+> 因为我们已经买了门票，我们还是去看看这个比赛。
+
+
+
 
 
  
@@ -394,6 +408,44 @@ start all over again
 
 3\. be bombarded with
 
+###  擅长
+
+1\. be good sth
+
+2\. have a knack for
+
+> I don't think Trevor really have the knack for English.
+>
+> 我认为Trevor不擅长英语
+>
+> He's better off with english since french will give him hell.
+>
+> 他最好学英语，因为学法语会让他很难受。
+
+3\. excel at sth
+
+> She has always excelled in foreign language.
+>
+> 她的外语出类拔萃。
+
+4\. be proficient at/in
+
+> She's proficient at several languages.
+>
+> 她精通多国外语。
+
+
+
+### 尽力而为
+
+1\. try your best
+
+2\. shoot for
+
+> He shoot for the highest attainable goal.
+>
+> 他为了他所能完成的最高目标而努力。
+
 ## 写作
 
 ### 运用
@@ -461,4 +513,20 @@ start all over again
 > 她好不容易弄到一张音乐会入场券。
 
 7\. receive
+
+### 有权利做某事
+
+1\. be entitled to sth / entitle sb to (do) sth
+
+> You may be entitled to a replacememt or refund, regarless of the store policy.
+>
+> This ticket does  not entitle you to travel first class.
+>
+> 这张票不能让你坐头等舱。
+
+2\. 
+
+
+
+
 

@@ -1,3 +1,13 @@
+[toc]
+
+## logical preposition
+
+### 并列（多个论点之间；或者一个段内的多个论据之间）
+
+
+
+## mastering sentences
+
 Career and exam advice **is mostly well-meaning**, **in recognition that** it’s hard for young people to know how to **navigate** the start of a career.
 
 > well-meaning/well intentioned 
@@ -11,6 +21,8 @@ Career and exam advice **is mostly well-meaning**, **in recognition that** it’
 > navigate the start of career
 >
 > 顺利度过职业生涯的开端
+
+## 单词积累
 
 ### recount 
 

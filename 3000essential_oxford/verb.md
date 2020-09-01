@@ -839,7 +839,13 @@ achieveable for adj.
 
 > I wouldn't advertise the fact that you don't have a work permit.
 
+### supplement
 
+vt 增补
+
+> He supplement his income by giving private lessons.
+>
+> 他当家庭教师补充收入。
 
 
 

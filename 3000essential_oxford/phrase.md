@@ -180,7 +180,21 @@
 >
 > 因为我们已经买了门票，我们还是去看看这个比赛。
 
+### make a killing
 
+大赚一笔
+
+> They were able to make a killing by investing in biotechnology.
+>
+> 他们投资于生物科技大赚了一笔。
+
+### make ends meet
+
+收支平衡
+
+> She had a hard time making ends meet right after her children were born.
+>
+> 就在她孩子出生后，她几乎收不抵支。
 
 
 
@@ -445,6 +459,12 @@ start all over again
 > He shoot for the highest attainable goal.
 >
 > 他为了他所能完成的最高目标而努力。
+
+3\. go out of one's way to do sth
+
+>If your barista goes out of their way to make a fancy drink, you can give a little tip, too.
+>
+>如果咖啡师为你精心做了一杯高档饮料，你也可以给点小费。
 
 ## 写作
 

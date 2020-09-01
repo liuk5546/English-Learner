@@ -408,6 +408,10 @@ start all over again
 
 2\. pitch in 
 
+> It seems you guys have a lot of to deal with, mind if I pitch?
+>
+> 我知道你们很忙，建议我加入吗？
+
 3\. help sb out
 
 4\. lend assistance to sb
@@ -417,6 +421,14 @@ start all over again
 ### 忙于某事
 
 1\. be overwhelmed by
+
+> Man, I'm so overwhelmed by all the tasks.
+>
+> 兄弟，我太忙了。
+>
+> I'm a little overwhelmed by the size of this place.
+>
+> 我有点承受不了这个地方大
 
 2\. be swamped with
 
@@ -435,6 +447,10 @@ start all over again
 > He's better off with english since french will give him hell.
 >
 > 他最好学英语，因为学法语会让他很难受。
+>
+> knack n. 本领
+>
+> get a knack for
 
 3\. excel at sth
 
@@ -465,6 +481,124 @@ start all over again
 >If your barista goes out of their way to make a fancy drink, you can give a little tip, too.
 >
 >如果咖啡师为你精心做了一杯高档饮料，你也可以给点小费。
+
+### out of 
+
+1\. 出于
+
+> I'm doing this job out of interest, I'm asking her out of curiosity.
+
+2\. 用尽 run out of
+
+### 满足
+
+1\. be satisfied with
+
+2\. be content with
+
+3\. settle for
+
+> He doesn't want his son to settle for anything mediocre.
+>
+> 他不想让他的儿子满足于平庸的东西。
+
+### 红极一时
+
+1\. flavor of the month
+
+> Don't start trying to cathc the flavor of the month and be trendy because you think you'll get into a show. that never work.
+
+2\. shopping craze 购物狂欢
+
+3\. trendy stuff 热点，潮物
+
+
+
+### wind up
+
+以某种方式收场
+
+> Because you wind up creating something you don't really believe in.
+>
+> 因为你最终会创造出连你自己都无法说服的东西。
+
+### 努力做某事
+
+1\. strive for sth/ to do sth
+
+> I will strive for my dream.
+
+2\. work hard
+
+3\. be assiduous at sth
+
+### make time for sth
+
+为某事抽出时间
+
+> I gotta make time for TOEFL.
+>
+> I have to make room for the new desk.
+>
+> 我必须为新桌子腾出空间
+
+### 忘记
+
+1\. blank out
+
+> He has blanked out everything about the accident.
+
+2\. forget\forget about
+
+> I forget what he said.
+>
+> I forget about taking the classes.
+
+### 更不用说，更别说
+
+1\. let alone
+
+> I can't even speak English, let alone hold meeting in English
+
+### 不自信
+
+1\. diffident
+
+2\. sell oneself short
+
+> Hey don't sell yourself short, even if you didn't , what's the problem?
+
+### 从不同的角度
+
+1\. from a different perspective
+
+2\. see something in a different light
+
+in light of  = on the basis  of 基于
+
+### 同意
+
+1\. agree with
+
+2\. subscribe to
+
+> Make sure you subscribe to my channel.
+>
+> They subscribed to the view of writers.
+
+3\. accept
+
+> I have accpeted his friend request on wechat.
+
+### 照顾
+
+1\. honor a request
+
+> Oh, we do feed a lot of students , so we can't always honor individual requests.
+
+2\. take care of 
+
+3\. look after
 
 ## 写作
 

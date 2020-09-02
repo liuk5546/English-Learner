@@ -556,3 +556,12 @@ cell 细胞，chromosome 染色体，DNA，gene基因，mutation 变异，protei
 >
 > 事实上，两套系统是一样的。
 
+### supplement
+
+补充物。
+
+> supplement to sth
+>
+> Industrial sponsorship is a supplement to government funding.
+>
+> 工业界的赞助是对政府拨款的补充

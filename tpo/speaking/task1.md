@@ -86,3 +86,8 @@ I prefer to work on class assignments by myself coz I can focus attention on the
 > tough `/tʌf/`
 
 I don't think all children should be required to learn a second language in school. Children are more interested in playing basketball, football and other sports. Even if they are required to learn a second language, they won't treat it seriously. I had many friends in junior high who didn't learn language at all. But they could play basketball very well and maybe some of them can become professional players. There is no need to learn a second language. Also, many of the children won't have the chance to use the second language because when they grow up, their job may not need any foreign language skills. For example, many of my high school classmates now work as clerks in banks and they don't need foreign language in their work. Still, they can do just fine.
+
+### 4. Some university graduate choose to spend a period of time doing volunteer or community service before their careers. Others think it is better to start working as soon as possible after graduation. Which view do you agree with?
+
+I think it's better to start working because attending university cost a huge sum of money. Take me as a example. When I got into college, I almost spent 40 thousands dollars for my tuition each year. My family have been a heavy burden in finance for the past 4 years. So, when graduated, I decide to hunter for a job to earn the money back and even to make a killing. As for another option, I just don't like volunteer service because volunteer organzations never pay for our services and always waste our time to do something in vain.
+

@@ -595,10 +595,38 @@ in light of  = on the basis  of 基于
 1\. honor a request
 
 > Oh, we do feed a lot of students , so we can't always honor individual requests.
+>
+> 我们为很多学生提供餐饮，所以外面无法照顾个人要求。
 
 2\. take care of 
 
 3\. look after
+
+### 回想
+
+1\. reflect on
+
+> It is impossible to teach and reflect on one's teaching at the same time.
+>
+> 
+
+2\. reminisce about
+
+> I keep reminiscing about the time I spent with her.
+
+
+
+### 发展
+
+1\. march forward 
+
+> Our mordern science and technology is constantly marching forward.
+
+2\. advance
+
+> Our knowledge of the disease has advanced considerably over recent years.
+
+
 
 ## 写作
 

@@ -70,6 +70,15 @@ The numbers of deer have `fluctuated` markedly since the entry of Europeans into
  >
  >dot sth 遍布
 
- Reduction in numbers of game should have `boded` ill for their survival in later times. A worsening of the plight of deer was to be expected as settlers encroached on the land, logging, burning, and clearing, eventually replacing a wilderness landscape with roads, cities, towns, and factories. No doubt the numbers of deer declined still further. Recall the fate of the Columbian white-tailed deer, now in a protected status. But for the black-tailed deer, human pressure has had just the opposite effect. Wildlife zoologist Hulmut Buechner(1953), in reviewing the nature of biotic changes in Washington through recorded time, says that "since the early 1940s, the state has had more deer than at any other time in its history, the winter population fluctuating around approximately 320,000 deer (mule and black-tailed deer), which will yield about 65,000 of either sex and any age annually for an indefinite period."
+ Reduction in numbers of game should have `boded` ill for their survival in later times. **A worsening of the `plight` of deer was to be expected as settlers `encroached` on the land, logging, burning, and clearing, eventually replacing a wilderness landscape with roads, cities, towns, and factories. **No doubt the numbers of deer declined still further. Recall the fate of the Columbian white-tailed deer, now in a protected status. But for the black-tailed deer, human pressure has had just the opposite effect. Wildlife zoologist Hulmut Buechner(1953), in reviewing the nature of biotic changes in Washington through recorded time, says that "since the early 1940s, the state has had more deer than at any other time in its history, the winter population fluctuating around approximately 320,000 deer (mule and black-tailed deer), which will yield about 65,000 of either sex and any age annually for an indefinite period."
 
-boded
+黑体： 鹿的困境正在恶化当定居者入侵土地。
+
+> boded 预示
+>
+> worsen 恶化
+>
+> plight 困境
+>
+> encorach on 入侵
+

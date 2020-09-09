@@ -657,5 +657,31 @@ actually for adv
 >
 > 说真的，我回来会晚一点。
 
+### hygienic
+
+`adj`
+
+1\. 卫生的
+
+> Food must be prepared in hygienic condition.
+>
+> 食物必须在卫生的环境下准备
+
+### sanitary
+
+1\. (定语形容词)卫生的
+
+> Overcrowding and poor sanitary conditions led to disease in the refugee camps.
+>
+> 过度拥挤的和恶劣的卫生环境导致难民营中出现疾病。
+
+2\. 清洁的
+
+> The new houses were more sanitary than the old ones had been.
+>
+> 新房子比老房子卫生。
+
+
+
 
 

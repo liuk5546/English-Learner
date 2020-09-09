@@ -565,3 +565,14 @@ cell 细胞，chromosome 染色体，DNA，gene基因，mutation 变异，protei
 > Industrial sponsorship is a supplement to government funding.
 >
 > 工业界的赞助是对政府拨款的补充
+
+### amendment
+
+1\. 修改，修正案
+
+> She made several minor amendments to her essay.
+
+2\.  宪法修正案
+
+
+

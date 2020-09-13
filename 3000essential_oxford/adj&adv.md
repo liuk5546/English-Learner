@@ -683,5 +683,32 @@ actually for adv
 
 
 
+### back
 
+1\. 过去的，旧时的
 
+> a back number of the magazine
+>
+> 一本过期的杂志
+
+2\. 到期未付的
+
+> back pay/taxes/rent
+>
+> 欠薪；欠税；欠租金
+
+### deficient
+
+`adj.`
+
+1\. deficient (in sth)缺乏的
+
+> So-called serpentine soils, for example, are deficient in calcium.
+>
+> 被称作s soil的土壤缺乏钙元素。
+
+2\. 有缺点、缺陷的
+
+> Deaf people are sometimes treated as being mentally deficient.
+>
+> 聋子有时被看成智力不健全。

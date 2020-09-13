@@ -1,3 +1,5 @@
+# Minerals and Plants
+
 Research has shown that certain `minerals` are required by plants
 for normal growth and development. The soil is the source of
 these minerals, which are absorbed by the plant with the water
@@ -15,6 +17,7 @@ recycling of nutrients back to the soil.
 吸收。众所周知，一些土壤缺乏微量的营养物质，因此不能养活大多数的植物。所谓的
 serpentine soil 缺少钙，并且仅有能耐受低钙的植物可以生存。在现代农业，
 因为收获农作物阻碍了营养物质回到土壤中，所以土壤中矿物质的枯竭是一件大事。  
+
 > mineral  `['mɪn(ə)rəl]`  
 n.[c] 矿物（质）  
 adj.含矿的
@@ -69,6 +72,13 @@ stunted growth和草本植物的木质组织生长（如褪绿（叶绿素损失
 坏疽（孤立的坏死斑）、花青素的形成（形成深红色叶片和茎色素沉积）、发育不良以及草本植物长木质组织。）。
 土壤最常缺少的就是氮和磷。缺氮植物会展现许多才提到的症状。。。。缺磷的植物会怎么怎么样。
 典型地，老叶子会首先被影响，因为钾肥会向年轻的叶子移动。缺铁会表现为叶茎缺绿症。
+
+nitrogen 缺少叶绿素导致黄或者白叶子，死斑，深红色的叶或茎。发育不良
+
+phosphorus 发育不良，叶子变黑绿色，花青素积累
+
+iron 茎之间有缺绿症
+
 > herbaceous  `[ər'beɪʃəs]`  
 > adj.草本的  
 
@@ -88,7 +98,7 @@ stunted growth和草本植物的木质组织生长（如褪绿（叶绿素损失
 
 > anthocyanin `[ˌænθə'saɪənɪn]`  
 > 花青素  
->chlorophyll 叶绿素  
+>chlorophyll `[ˈklɔːrəfɪl] `叶绿素  
 >chlorosis 缺绿症  
 
 Much of the research on nutrient deficiencies is based on growing 

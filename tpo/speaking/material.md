@@ -111,6 +111,29 @@
   <summary>Click to expand</summary>
   That's right. Computer prices have come way down the past few years. So the department wont have to spend as much now as they did in the past.
 </details>
+## too 5-2
+
+大学认为只要为晚餐支付一点点额外的费用为了购买将被需要的特别美食家食品材料。
+
+The university announce that it will charge a small additional fees for these dinners in order to pay for the special gourmet food ingredient that will be requiered.
+
+> culinary arts 烹饪艺术
+>
+> `[ˈkʌlɪneri]`
+
+我的堂妹多年前是这个项目的学生，她说在那样的环境下为一大帮人做饭和给同学做饭很不一样。
+
+<details>
+  <summary>Click to expand</summary>
+  My cousin was in the program a few years ago, and she said that it’s very different to cook for a lot people in that kind of atmosphere than to cook for classmates.
+</details>
+
+当然这些学生他们将会做非常好吃的食物，并且将会比出去到哪些饭店中的一家吃便宜。所以你知道这超值。这顿饭会像哪些昂贵的餐厅一样好
+
+<details>
+  <summary>Click to expand</summary>
+  Well, these students, they’ll be making fantastic meals and it’s gonna be cheaper than going out to one of those restaurants. So, you know, it would be worth it. The meal will be as good as the ones in those expensive restaurants.
+</details>
 
 ## tpo 7-2
 
@@ -215,6 +238,8 @@ secure permanent employment.
   <summary>Click to expand</summary>
   but that kind of light, all that natural light from windows? That’s actually not good because if it’s really sunny out, it’ll be way too bright. If it’s cloudy, it’ll be way too dark.What you want is controlled light, consistent light, the kind you get from electric light bulbs. Think about in an art museum. In an art museum, you’ve got electric lighting, and the light is always carefully controlled, always at the same level.
 </details>
+
+
 
 <details>
   <summary>Click to expand</summary>

@@ -849,14 +849,182 @@ vt 增补
 
 
 
+### bury
+
+`verb`
+
+1\. ~ sb/sth 埋葬
+
+> Their ambitions were finally dead and buried.
+
+2\. ~ sb 丧失（某人）
+
+> SHe's 85 and has buried three husbands.
+
+3\. ~ sth 把（某物）掩藏在地下
+
+> The dog had buried it's bone in the garden.
+
+4\. 覆盖
+
+> The house was buried under ten feet of snow.
+>
+> 房子被埋在十英尺厚的积雪中。
+>
+> The miners were buried alive when the tunnel collapsed.
+>
+> 坑道塌方，矿工都被活埋了。
+
+5\. 掩盖
+
+> Your letter got buried under a pile of papers.
+>
+> 你的信被埋在一堆文件底下。
+
+6\. 不顾或掩藏（感情、错误等）
+
+> She had learnt to bury her feelings.
+>
+> 她已经学会了感情不外露
+
+7\. ～ sth （in sth）使陷入，把。。插入某物
+
+> He walked slowly, his hands buried in his pockets.
+>
+> 他双手插在口袋里缓步而行。
+
+**bury yourself in sth**
+
+> 专心于某事
+>
+> Since she left, he's buried himself in his work.
+>
+> 自从她走后，他全心全意扑在工作上。
 
 
- 
+
+### subject
+
+`verb`使臣服；使顺从
+
+> Continued sedimentation subject the organic matter to higher temperatures and pressure.
+>
+> 连续的沉淀物使这些有机物处于很高的温度和压力下。
+
+### convert
+
+1\.`vt.vi.` （使）转变，转化
+
+> convert sth (into sth)
+>
+> The hotel is going to be converted into a nursing home.
+>
+> 这家宾馆将被变为疗养院
+>
+> convert (from sth)(to/into)
+>
+> We've converted from oil to gas central heating.
+>
+> 我们已经把中央供热系统由燃油改成了燃气。
+
+2\. `vi`可转变为；可变换为
+
+> This sofa can converts into a bed.
+
+3\. 改变（观点、习惯等）
+
+> convert (from sth) to sth
+>
+> I've converted to organic food.
+>
+> 我改吃有机食物了。
+>
+> convert sb (from sth) (to sth)
+>
+> I didn't use to like opera but my husband has converted me.
 
 
 
+### squeeze
+
+vt. 榨出，挤出
+
+> squeeze sth out of / from sth
+>
+> The gas and small `droplets` of oil may be squeezed out of the mud.
+>
+> 石油气和小油滴被从土壤中挤出来
+
+### move
 
 
 
+### collect
+
+### rise
+
+### tend 
+
+### transfer
+
+1\. `vi.vt.` 转移，搬迁
+
+> ~ (from..) (to ...) 
+>
+> The file studio is transfering to Hollywood.
+>
+> ~ sth (from... )(to...)
+>
+> How can I transfer money from my bank account to his?
+
+2\. `vi,vt` （使）调动
+
+> Children usually transfer to secondary school at 11 or 12.
+>
+> Ten employees are being transferred from the sales department.
+
+3\. `vi,vt`转移（情感）；传染（疾病）；让步，转让（权利）
+
+> The disease is rarely transferred from mother to baby.
+>
+> 这种疾病很少由母亲传染给婴儿。
+>
+> The disease transferred from chicks to human being.
+
+4\. `vt`转让；让与
+
+>He transferred the property to his son.
+
+5\. `vi,vt` 换乘
+
+6\. `vi,vt`转存，转录（资料、音乐等）；改编
 
 
+
+### fight sb/sth <->off
+
+抵抗；击退
+
+> The jeveller was stabbed as he tried as he tried to fight the robbers off.
+>
+> 珠宝商在试图抵抗强盗时被刺伤。
+
+### suspend
+
+1\. 悬，挂，吊
+
+2\. 暂停
+
+> Production has been suspended while safety checks are carried out*.*在进行安全检查期间生产暂停。
+
+3\. 延缓
+
+> The introduction of the new system has been suspended until next year.新制度推迟到明年再行实施。
+
+4\.使暂时停职
+
+> The police officer was suspended while the complaint was investigated.
+
+5\. 悬浮
+
+be suspend in sth

@@ -626,7 +626,27 @@ in light of  = on the basis  of 基于
 
 > Our knowledge of the disease has advanced considerably over recent years.
 
+### 过时
 
+1\. go out of style
+
+> Hey, I think your haircut kinda goes out of style, it looks tacky really.
+
+2\. out of date
+
+3\. outdated
+
+### 被某事惊到了
+
+1\. be taken aback by sth
+
+> Yeah, a lot of students are taken aback by this.
+>
+> 是的，确实很多学生都对这事感到惊讶。
+
+2\. be shocked by
+
+3\. be surprised by
 
 ## 写作
 

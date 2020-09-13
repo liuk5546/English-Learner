@@ -16,7 +16,9 @@
 
 > The war broke out in 1980 and lasted eight years.
 
+连系动词（linking verbs）
 
+后面跟对主语补充说明的形容词火名词短语。
 
 
 
@@ -1028,3 +1030,34 @@ vt. 榨出，挤出
 5\. 悬浮
 
 be suspend in sth
+
+### seem 
+
+`linking verb`
+
+1\. 好像，似乎，看来
+
+> \+ adj.
+>
+> You seem happy
+>
+> \+ noun
+>
+> He seems a nice man
+>
+> ~ like sth
+>
+> It seemed llike a good idea.
+>
+> ~ as though
+>
+> It always seemed as though they would ge married.
+>
+> 看来
+>
+> **it seems that**  they know what they're doing.
+>
+> ～ to do/be/have sth
+>
+> They seem to know what they're doing.
+

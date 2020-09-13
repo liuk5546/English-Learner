@@ -44,6 +44,8 @@ like
 
 ... is a case in point
 
+> I told you Tom is selfish. His unwillingness to help his friend is a case in point.
+
 ### 因此
 
 Thus,
@@ -60,11 +62,55 @@ so that（连词，后面是完整句子）
 
 ### 类比（表明两个事物相似性）
 
+Likewide,
+
+Similarly,
+
+In the same way,
+
 ### 总结（段落结尾）
+
+The upshot of all this is that ...
+
+In conclusion,
+
+To conclude,
+
+To sum up,
+
+To summarize,
 
 ### 让步（让步后必有转折）
 
+Admittedly,
+
+Certainly,
+
+Of course,
+
+To be sure,
+
+Although it is true that...
+
+Granted that...
+
+I concede that ...
+
 ### 对比
+
+while
+
+whereas
+
+rather than
+
+instead of
+
+By contrast/ in contrast
+
+On the other hand,
+
+Conversely, 
 
 ## mastering sentences
 

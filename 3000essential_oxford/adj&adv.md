@@ -712,3 +712,13 @@ actually for adv
 > Deaf people are sometimes treated as being mentally deficient.
 >
 > 聋子有时被看成智力不健全。
+
+### answerable
+
+1\. 向某人（对某事）负责
+
+> She was a free agent, answerable to no one for her behaviour.
+>
+> 她是一个自由经理人，她的行为不对任何人负责。
+
+2\. （为某事）承担责任，承担后果

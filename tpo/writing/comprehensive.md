@@ -119,3 +119,31 @@ Second, Rembrandt was a master of painting light and shadow, but in this paintin
 主旨：master of painting 画的各个元素不搭调
 
 伦布郎是光和影的大师，但是再这幅画中光和影并不协调。
+
+## tpo40 Human presence maintaining is impossble on Venus
+
+Many scientists believe it would be possible to maintain a permanent human presence on Mars or the Moon. `On the other hand`, conditions on Venus are so extreme and inhospitable that maintaining a human presence there would be impossible.
+
+
+
+> on the other hand 但是
+>
+> inhospitable 
+>
+> human presence 人类居留地
+
+**Setting up a permanent station on Venus may not be without challenges, but it is certainly possible. One solution that’s been proposed is to establish a station that would be floating in Venus’ atmosphere like a balloon rather than standing on its surface. The station would float about 50 kilometers above Venus’ surface. On a station located high in the atmosphere the problems the reading mentions can be solved.**
+
+*In the reading passage, the author assumes that there would be impossible to maintain a human presence on Venus because of its extreme and inhospitable conditions. On the other hand, the professor puts forward one solution to cope with those problems - float station.*
+
+First, atmospheric pressure at Venus’ surface is at least 90 times greater than the pressure at Earth’s surface. This means that a force of 100 kilograms is pressing down on every square centimeter of surface. All spacecraft that have landed on Venus have been crushed by this extreme pressure within an hour of landing. Almost anything humans might land on Venus would be crushed as well.
+
+
+
+**First, atmospheric pressure. Well, it is a well-known physical fact that high up in the atmosphere the pressure is much lower than at the surface. So, while the pressure at Venus’ surface is too high for humans, 50 kilometers up in the atmosphere the pressure is equal to the normal pressure we are used to here on Earth. There would be no danger of the station getting crushed.**
+
+*Firstly, as mentioned in the passage, atmospheric pressure at Venus's suface is much greater than the pressure at Earth's surface. However, the professor claims that this problem can be solve. He explains that,50 kilometeres up in the atmosphere, the pressure on Venus is equal to the Earth's normal pressure. This is because, as we all know, high up in the atmosphere, the pressure is much lower than at the surface. Thus, There would be no danger of the station gettign crushed.*
+
+Second, as far as we know, there are no reservoirs of water on Venus’ surface, and the planet’s atmosphere, made up mostly of carbon dioxide, nitrogen, and sulfuric acid, contains hardly any oxygen or water vapor. Water and oxygen would therefore probably have to be supplied to Venus from Earth. The idea of ensuring a regular supply of water and oxygen from Earth is impractical in the extreme and would probably defeat the purpose of establishing a permanent station on Venus.
+
+Third, very little sunlight reaches the planet’s surface. About 60 percent of the sunlight that hits Venus is reflected back into space by the thick clouds that fill the atmosphere, which means that only 40 percent of the sunlight can get through the clouds. Below these clouds is a dense layer of carbon dioxide, which blocks even more light, so very little light reaches the surface. The lack of light would prevent the use of solar power cells, so humans could not get electricity to power their machines and equipment.

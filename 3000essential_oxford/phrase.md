@@ -230,6 +230,10 @@
 
 > I've more or less finished the book.
 
+### everthing from A to Z
+
+> People tip for everthing from restaurants to taxis.
+
  
 
 ## 口语200例

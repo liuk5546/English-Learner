@@ -196,7 +196,39 @@
 >
 > 就在她孩子出生后，她几乎收不抵支。
 
+### long story
 
+说来话长
+
+> Why do American tip all the time?
+>
+> Long story.
+
+### frown upon
+
+不赞同
+
+> In her family, any expression of feeling was frowned upon.
+>
+> 她家里对任何感情的流露都不以为然。
+
+### a must
+
+不可缺少的东西
+
+> Is tipping pretty much a must now?
+>
+> must-sees & must-dos
+
+### cheapskate
+
+小气鬼
+
+### more or less
+
+差不多
+
+> I've more or less finished the book.
 
  
 

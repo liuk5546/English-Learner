@@ -128,7 +128,19 @@ The billboard had an effect even though the drivers don't remember ever seeing i
 >
 > 他们希望实现和解。
 
+### 9
 
+An establishing shot is an image shown briefly at the beginning of a scene, usually taken from far away, that is used to provide context for the rest of the scene. 
+
+> scene [siːn]
+>
+> context 背景，上下文
+
+So, the other day I went to this great new movie, and one of the scenes in particular I thought was really `set up` nicely . At the start of the scene, before the action and talking and things started, you saw, on the movie screen, an image of a city. You could tell it was a big city. There were lots of buildings, tall ones, skyscrapers. And the cars and signs on the city streets looked old-fashioned, like they were from the past, like the 1940s. The other thing I noticed right away from this first image, just when the scene started, was that the city seemed gloomy. You couldn't see much because it was, well, there was mostly darkness rather than sunlight. And there was only just a little bit of light from the street `lamps`. On top of that, it was raining, and kind of foggy. All of these details worked together to create a dark, gloomy, mysterious feeling. So then when the action started, and it showed detectives talking to each other in an office, I already knew that the office was located in a tall building in a big city sometime in the 1940s. And I had a good idea that the events that would be taking place would be pretty dark and mysterious because of the shot, the image I saw at the beginning of the scene.
+
+> set up 策划
+>
+> lamp `[læmp]`
 
 ###  10
 
@@ -136,6 +148,10 @@ Entertainment merchandising is a form of marketing in which the brand or image f
 
 EM是一种营销形式，在这种营销形式中，来自一个产品的品牌或形象也被用来推另一种产品。
 
+> image [ˈɪmɪdʒ]
+>
+> brand[brænd]
+
 OK, so I’ve actually got a few different examples of this. You know when I was kid, a character named Action Hero was really popular with my friends and me. We would always watch the Action Hero program on television every week, and played games, pretending that we were strong and powerful as he was. Then pretty soon we began seeing this small Action Hero figures in all the stores. And well we all just had to have them. I mean we’d been watching the television show for so long that it seemed only natural to want to own the toys too.
 
-Well I finally grew up and left the Action Hero television program and toys behind. But now I have a seven-year-old daughter who watches television a lot and also likes to play with her toys. And lately her favorite toy is a cute little baby doll with a big round face and lots of curly hair named Rosa. All my daughters’ friends have Rosa dolls too. And they enjoy going to each other’s houses to play with them. Then a few weeks ago, my daughter came running up to me all excited because she had just heard there was going to be a new television program on every week with the doll Rosa as the main character. So naturally she and all her friends have begun watching the show. And it’s already very popular, as popular as the toy doll.
+Well I finally grew up and left the Action Hero television program and toys behind. But now I have a **seven-year-old daughter** who watches television a lot and also likes to play with her toys. And lately her **favorite toy** is a cute little baby doll with a big round face and lots of curly hair named **Rosa**. All my daughters’ friends have Rosa dolls too. And they enjoy going to each other’s houses to play with them. Then a **few weeks** ago, my daughter came running up to me all excited because she had just heard there was going to be a **new television program** on every week with the doll Rosa as **the main character**. So naturally she and all her friends have begun watching the show. And it’s already very popular, as popular as the toy doll.

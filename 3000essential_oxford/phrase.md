@@ -262,7 +262,21 @@ appear
 
 show up
 
+> 既是及物又是不及物
+>
 > He didn't show up to meeting that day.
+>
+>  show sth up 变得明显
+>
+> The harsh light showed up the lines on her face.
+>
+> 在耀眼的光线下，她脸上的皱纹清晰可见。
+>
+> show sb up 使人难堪
+>
+> He showed me up by snoring during the concert.
+>
+> 他在音乐会上呼呼大睡，真给我丢脸。
 
 pop up  
 
@@ -285,10 +299,14 @@ on site
 `to be in a particular area`
 
 > I'm taking my day off tomorrow, I think John will be on site so u can turn to him if u need any help.  
+>
+> 我明天放假，我想约翰将会在场，所以你可以求助他如果你需要帮助的话。
 
 on the spot 当场
 
 > If they got any government to do with topic in tomorrow's toefl speaking section, i would be dead on the spot.  
+>
+> 如果他们考任何有关政府的话题，我当场去世。
 
 ### 白嫖
 
@@ -297,6 +315,8 @@ free rider
 goof off
 
 > They were just goofing off, why wouldn't the boss just get rid of them?
+>
+> 他们尽是白嫖，为什么老板不开除他们。
 
 ### 从头开始
 

@@ -1,4 +1,4 @@
-#Ancient Rome and Greece
+# Ancient Rome and Greece
 There is a quality of `cohesiveness` about the Roman world that applied neither to Greece nor perhaps to any other civilization, ancient or modern. Like the stone of Roman wall, which were held together both by the regularity of the design and by that peculiarly powerful Roman cement, so the various parts of the Roman `realm` were bonded into a massive, `monolithic` entity by physical, organizational, and psychological controls. The physical bonds included the network of military `garrisons`, which were stationed in every province, and the network of stone-built roads that linked the provinces with Rome. The organizational bonds were based on the common principles of law and administration and on the universal army of officials who enforced common standards of conduct. The psychological controls were built on fear and punishment-on the absolute certainty that anyone or anything that threatened the authority of Rome would be `utterly` destroyed.  
 罗马世界有团结的品质，这是其他文明所没有的。通过物理，组织和精神控制，罗马王国被绑成一个巨大的整体。  物理的连接包括连接着罗马省份的卫戍部队网络和石头修建的公路网络。组织联系基于共有的法律原则和政府，以及普遍的军队要员推动共有标准实施。  
 

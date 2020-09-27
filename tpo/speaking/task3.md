@@ -142,6 +142,30 @@ So, the other day I went to this great new movie, and one of the scenes in parti
 >
 > lamp `[læmp]`
 
+参考答案：
+
+An establishing shot is an image shown briefly at the beginning of a scene, which is used to provide context for the rest of the scene. For example, the other day the professor `went to a great new movie`. At the start of the scene, he saw an image of a big city with old fashioned car like being from the 1940s. And he noticed the city `seemed` gloomy. So when the action started, and it showed detective talking, the professor knew that the office was located in a tall building in a big city `sometime` in the 1940s, and the events would be  pretty dark and `mysterious` because of the image at the begining of the movie. 
+
+> seem + adj. 好像，似乎，看来
+>
+> Do whatever seems best to you.
+>
+> 你觉得什么最好，就做什么。
+>
+> seem like sth
+>
+> It seemed like a good idea at the time.
+>
+> sometime & sometimes
+>
+> adv. 在某时&有时
+>
+> I saw him sometime last summer. 我去年夏天不知什么时候见过他
+>
+> Sometime I go by a car. 我有时坐车去。
+>
+> mysterious `[mɪˈstɪriəs]` 
+
 ###  10
 
 Entertainment merchandising is a form of marketing in which the brand or image from one product is also used to sell another.

@@ -165,12 +165,13 @@ The project has been budgeted at ten million francs.(The french government has b
 >
 > 公司对判决作出申述。
 >
-> the company  has ten days to appeal the decision to the tribunal.  
+> the company  has ten days to appeal the decision to the tribunal.  (美式用法 appeal sth to sb/sth)
 
 2\.`vi` 有吸引力；有感染力；引起兴趣（to） 
 The design has to appeal to all ages and social groups.  
 
 3\. `vi`呼吁；恳求  
+
 > appeal (to sb) (for sth)  
 > Community leaders appealed for witnesses to come forward.社区领袖呼吁目击者站出来。  
 > appeal to sb to do sth.  
@@ -179,7 +180,7 @@ The design has to appeal to all ages and social groups.
 ### do 
 What do you want to see me about? It **is to do with** that letter you sent me.与。。。有关系  
 Her job **has somthing/nothing/a lot to do with** computer.与。。。有些/毫无/有很大关系。  
-He think it's time we **did away with** monachy.废除，结束取消  
+He think it's time we **did away with** monarchy.废除，结束取消  
 She was **done out of** her promotion. 她受人计算没有获得晋升。  
 
 ### estimate

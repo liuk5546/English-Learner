@@ -1064,3 +1064,20 @@ be suspend in sth
 
 ### appear
 
+### prevail 
+
+`vi`
+
+1\. prevail (in/among sth) 普遍存在；盛行
+
+>  The geocentric theory continue to `prevail` in Western thought for almost 2,000 years, until the 17th century.
+>
+> 地心说理论一直存在于西方思想长达2000年，在17世纪之前。
+
+2\, prevail (against/over sth) 战胜，被接受
+
+> Justice will prevail over tyranny.
+>
+> 正义必将战胜暴虐。
+
+3\. 战胜，挫败

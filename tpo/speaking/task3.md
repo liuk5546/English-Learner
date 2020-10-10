@@ -183,3 +183,40 @@ OK, so I’ve actually got a few different examples of this. You know when I was
 Well I finally grew up and left the Action Hero television program and toys behind. But now I have a **seven-year-old daughter** who watches television a lot and also likes to play with her toys. And lately her **favorite toy** is a cute little baby doll with a big round face and lots of curly hair named **Rosa**. All my daughters’ friends have Rosa dolls too. And they enjoy going to each other’s houses to play with them. Then a **few weeks** ago, my daughter came running up to me all excited because she had just heard there was going to be a **new television program** on every week with the doll Rosa as **the main character**. So naturally she and all her friends have begun watching the show. And it’s already very popular, as popular as the toy doll.
 
 > curly 有卷毛的
+
+### 11
+
+It doesn't remind you of anything you've ever seen before. It's very much his own.
+
+> remind sb of sth
+>
+> 提醒某人某事
+>
+> remind sb to do sth
+>
+> Remind me to phone Alan before I go out.
+
+Darger's picture looks more cluttered,more crowded with details than the pictures of other artists because its entire surface's painted and there are no spaces left empty.
+
+> clutter vt. 凌乱地堆放
+>
+> Don't clutter the page with too many diagrams.
+>
+> 别用太多的图标来堆砌版面
+
+参考：Outside Artist is a people who produce outside artist-work in isolation from other artists and have little or no formal artistic training.
+
+> artistic `[ɑːrˈtɪstɪk]`
+>
+> society `[səˈsaɪəti]`
+
+Henry Darger is an outside artist who had no friend and never formally studied art. For example, In one piece, he illustrates a story about the adventures of seven children. But Dager had a really hard time drawing human figures, so he cut out pictures of children from newspapers and magazines and pasted them into his own painted illustration. As a result. it looks a little strange. This is because that the painting looks more crowded with detials and a lot longer than the pictures of most other artists. 
+
+> illustrate `[ˈɪləstreɪt]`
+>
+> adventure `[ədˈventʃər]`
+>
+> paste `[peɪst]`
+>
+> piece `[piːs]`
+

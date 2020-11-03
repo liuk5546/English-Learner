@@ -57,6 +57,25 @@
 >
 > If we don't sell more we'll have to cut back production.
 
+## too3-2
+
+Dining Service 餐饮服务
+
+Dining hall 餐厅 `[ˈdaɪnɪŋ hɔːl]`
+
+a wide assortment of 各种各样的
+
+bread `[bred]`
+
+health-conscious student `[ˈkɑːnʃəs]`有健康意识的学生
+
+keep our meal plans affordable 使我们的吃饭计划支付得起
+
+因为如果他们开始消减（热的早餐）我们就不能在校园里买到，那么我们就会去校园外，以校外价格购买。 你知道吗？这将会是非常昂贵的。即使一周只有两三次，加起来（也很多了）
+<details>
+  <summary>Click to expand</summary>
+  cuz if they start cutting back and we can't get what we want right here on campus, well we are going to be going off campus and pay off-campus prices .And you know what? That'll be expensive. Even if it's only two or three mornings a week, it can add up.
+</details>
 ## tpo4-2
 
 我确定我不能在我的工作日计划中加入任何东西了。我每晚都要游泳练习。
@@ -133,6 +152,18 @@ The university announce that it will charge a small additional fees for these di
 <details>
   <summary>Click to expand</summary>
   Well, these students, they’ll be making fantastic meals and it’s gonna be cheaper than going out to one of those restaurants. So, you know, it would be worth it. The meal will be as good as the ones in those expensive restaurants.
+</details>
+## too 6-2
+
+seminar 研讨会 `[ˈsemɪnɑːr]`
+
+worthwhile `[ˌwɜːrθˈwaɪl]`重要的，值得（花时间、钱）的
+
+在三小时研讨会的最后一小时，事情变得有趣。这恰恰是学生们参与讨论并且开始交换观点的时候。
+
+<details>
+  <summary>Click to expand</summary>
+  In the last hour of 3-hour seminar, things get interesting. That's usually when students get really involved in their discussion and started exchanging important ideas. 
 </details>
 
 ## tpo 7-2

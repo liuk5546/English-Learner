@@ -238,6 +238,30 @@
 
 宁可事先谨慎有余，不要事后后悔莫及。
 
+### use
+
+used to be sth 曾经是。。。
+
+> I used to be an atheist.
+
+be used to doing sth 习惯于做某事
+
+> The fact that this boss came in from the outside is significant, because it means he may be used to doing things in a different way.
+>
+> 他习惯于用不同的方式做事。
+
+### calling
+
+责任感，强烈的愿望
+
+> He realized that his calling was to preach gospel.
+>
+> 他体悟到宣讲福音是他的使命
+
+职业；事业
+
+> He was a consultant physician, a serious man dedicated to his calling.
+
 ## 口语200例
 
 ### in a hurry  = in a rush

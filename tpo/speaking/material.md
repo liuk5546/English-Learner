@@ -269,7 +269,54 @@ secure permanent employment.
   <summary>Click to expand</summary>
   but that kind of light, all that natural light from windows? That’s actually not good because if it’s really sunny out, it’ll be way too bright. If it’s cloudy, it’ll be way too dark.What you want is controlled light, consistent light, the kind you get from electric light bulbs. Think about in an art museum. In an art museum, you’ve got electric lighting, and the light is always carefully controlled, always at the same level.
 </details>
+## 12-2
 
+The university is considering making  major changes to the college radio station. Changes would include an expansion of the station's broadcasting range, which would allow the radio's programming to reach nearby towns. One goal of the plan is to attract more students apply to its communication program. Another goal is to provide the university with an extra source of revenue.University officials expect the enhanced radio station to significantly increase the numebr of listeners, which will in turn encourage businesses to place commercials on the radio.
+
+1. 吸引学生申请communication program
+2. 为学校提供额外的收入。
+
+> consider doing sth 考虑做某事
+>
+> broadcast `[ˈbrɔːdkæst]`播送；广播
+>
+> range [reɪndʒ] 范围
+>
+> allow [əˈlaʊ] 
+>
+> revenue [ˈrevənuː] 收入
+>
+> official 要员，官员[əˈfɪʃl]
+>
+> expect sb to do sth [ɪkˈspekt] 期望做某事
+>
+> place commercials on the radio. 投放广告
+
+*The university is considering making major changes to the college radio station which would include an expansion of its broadcasting range, because they want to attract more students apply to the communication program and get an extra source of revenue.*
+
+
+
+Well, if this proposal goes through, there will be more programs and they would give the students more professional experience as they experiment with programming for a much larger, you know, real-life audience. And **stuff like that** will give them a better shot at getting a job after they graduate.
+
+> proposal [prəˈpoʊzl] [c,u] 提议
+>
+> give sb a better shot at sth 给某人提供了一个更好的机会
+>
+> audience [ˈɔːdiəns] 观众
+
+And her second reason is the whole university will benefit from it. Her friend, Tony, told her that the radio station at his university did something like this about five years ago. They are making a lot of money out of commercials and they are using it to offer more scholarships and to help fund projects to renovate the facilities of other programs.
+
+他们从商业广告中赚了一大笔钱，并且使用这些钱提供更多的奖学金，并且帮助建立项目翻新其他项目的设备。
+
+> scholarship [c]奖学金
+
+## 13-2
+
+A university official anounced plans to spend $2 million to build a new athletic stadium, commenting that a new stadium would help the university achieve its goal of attracting more top students. Additionally, building a new stadium would allow the university to strengthen the relationship with the town.
+
+> stadium stadia[pl.]
+
+I mean I can't imagine top students being too thrilled about some of the conditions on this campus. Like the science laboratories having such old, outdated equipment, and the library needing more books, and the student center being so small... I think that the two million could be spent in better places if the university is really serious about achieving its goal.
 
 
 <details>

@@ -91,3 +91,27 @@ I don't think all children should be required to learn a second language in scho
 
 I think it's better to start working because attending university cost a huge sum of money. Take me as a example. When I got into college, I almost spent 40 thousands dollars for my tuition each year. My family have been a heavy burden in finance for the past 4 years. So, when graduated, I decide to hunter for a job to earn the money back and even to make a killing. As for another option, I just don't like volunteer service because volunteer organzations never pay for our services and always waste our time to do something in vain.
 
+### 14. One of the best ways to learn is by making mistakes.
+
+I think it's good because mistakes equal learning. For example, when I was in college, there was a time that I take part in a writing course. At first, I'm afraid to write something down because English `grammar` is my weak point. But later, my teacher told me grammar is not a must and a lot of famous authors started writing with wrong sentences. What he said really `encouraged` me, so I just give myself permission that I need to make mistakes. I began to compose some sentences every day which are not perfect and ask someone who masters English common for  my language like my writing teacher, native speakers I met online and etc. At last, I had a decent grade in the writing class. So, I agree with this statement. 
+
+> 写的几个替换说法
+>
+> compose 
+>
+> create
+>
+> draft 和scrawl指的是匆忙地写下
+>
+> 注意scrawl是vt&vi
+>
+> grade /ei/
+>
+> I'm afraid ... 这是个形容词
+>
+> write - writing
+>
+> everyday 是adj., every day 才是每天，做状语
+
+
+

@@ -318,6 +318,24 @@ A university official anounced plans to spend $2 million to build a new athletic
 
 I mean I can't imagine top students being too thrilled about some of the conditions on this campus. Like the science laboratories having such old, outdated equipment, and the library needing more books, and the student center being so small... I think that the two million could be spent in better places if the university is really serious about achieving its goal.
 
+### 14-2
+
+For one thing, if students were permitted to eat, they would be able to concentrate better, because students often get hungry during long classes, and hunger makes it difficult to concentrate. 
+
+首先，如果允许学生吃零食，他们可以更专注，因为学生经常在长时间的课程中感到饥饿，饥饿让注意力难以集中。
+
+Well, like the part about how it would help students concentrate. I mean maybe a little snack will help the person who’s eating it, but the trouble is that it makes it hard for everyone else to concentrate ’cuz they have to listen to someone munching on chips or biting into an apple or crinkling paper wrappers,
+
+> munch on/at sth 大口咀嚼
+>
+> bit into apple 咬苹果
+>
+> crinkle paper wrapper 弄皱包装纸
+
+Well, I don’t think it’s appropriate to use class time for that kind of thing. I mean, the last classes are usually pretty important. That’s when we will do a lot reviewing for final exams.
+
+If we use that time for that, we probably wouldn’t have time to do as much reviewing, which means we wouldn’t be as well prepared for exams.
+
 
 <details>
   <summary>Click to expand</summary>
